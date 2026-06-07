@@ -7,60 +7,103 @@ on:
 
 jobs:
   deploy:
-    name: Deploy via SSH
     runs-on: ubuntu-latest
 
     steps:
-      - name: Deploy to server
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Generate Prisma Client
+        run: npx prisma generate
+        env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+
+      - name: Build TypeScript
+        run: npm run build
+
+      - name: Create target directory on server
         uses: appleboy/ssh-action@v1.0.3
         with:
           host: ${{ secrets.SERVER_IP }}
+          port: 22
           username: ${{ secrets.SERVER_USER }}
           password: ${{ secrets.SERVER_PASSWORD }}
-          port: 22
           script: |
-            set -e
+            mkdir -p ${{ secrets.SERVER_PATH }}
 
-            REPO_URL="https://${{ secrets.GH_PAT }}@github.com/${{ github.repository }}.git"
-            APP_DIR="${{ secrets.SERVER_PATH }}"
+      - name: Copy files to server
+        uses: appleboy/scp-action@v0.1.7
+        with:
+          host: ${{ secrets.SERVER_IP }}
+          port: 22
+          username: ${{ secrets.SERVER_USER }}
+          password: ${{ secrets.SERVER_PASSWORD }}
+          source: "dist,package.json,package-lock.json,prisma,tsconfig.json"
+          target: ${{ secrets.SERVER_PATH }}
+          overwrite: true
 
-            # Clone on first deploy, pull on subsequent ones
-            if [ ! -d "$APP_DIR/.git" ]; then
-              git clone "$REPO_URL" "$APP_DIR"
-            fi
+      - name: Create .env file on server
+        uses: appleboy/ssh-action@v1.0.3
+        with:
+          host: ${{ secrets.SERVER_IP }}
+          port: 22
+          username: ${{ secrets.SERVER_USER }}
+          password: ${{ secrets.SERVER_PASSWORD }}
+          script: |
+            cd ${{ secrets.SERVER_PATH }}
+            printf 'DATABASE_URL=%s\nJWT_SECRET=%s\nJWT_EXPIRES_IN=%s\nBCRYPT_SALT_ROUNDS=%s\nPORT=%s\nSUPER_ADMIN_USERNAME=%s\nSUPER_ADMIN_PASSWORD=%s\nNODE_ENV=production\n' \
+            "${{ secrets.DATABASE_URL }}" \
+            "${{ secrets.JWT_SECRET }}" \
+            "${{ secrets.JWT_EXPIRES_IN }}" \
+            "${{ secrets.BCRYPT_SALT_ROUNDS }}" \
+            "${{ secrets.PORT }}" \
+            "${{ secrets.SUPER_ADMIN_USERNAME }}" \
+            "${{ secrets.SUPER_ADMIN_PASSWORD }}" > .env
 
-            cd "$APP_DIR"
-            git remote set-url origin "$REPO_URL"
-            git fetch origin main
-            git reset --hard origin/main
-
-            # Write environment file
-            cat > .env << ENVEOF
-            DATABASE_URL=${{ secrets.DATABASE_URL }}
-            JWT_SECRET=${{ secrets.JWT_SECRET }}
-            JWT_EXPIRES_IN=${{ secrets.JWT_EXPIRES_IN }}
-            BCRYPT_SALT_ROUNDS=${{ secrets.BCRYPT_SALT_ROUNDS }}
-            PORT=${{ secrets.PORT }}
-            SUPER_ADMIN_USERNAME=${{ secrets.SUPER_ADMIN_USERNAME }}
-            SUPER_ADMIN_PASSWORD=${{ secrets.SUPER_ADMIN_PASSWORD }}
-            ENVEOF
-
-            # Install dependencies
-            npm ci --omit=dev
-
-            # Generate Prisma client and run migrations
+      - name: Install production dependencies and run migrations
+        timeout-minutes: 10
+        uses: appleboy/ssh-action@v1.0.3
+        with:
+          host: ${{ secrets.SERVER_IP }}
+          port: 22
+          username: ${{ secrets.SERVER_USER }}
+          password: ${{ secrets.SERVER_PASSWORD }}
+          timeout: 600s
+          script: |
+            cd ${{ secrets.SERVER_PATH }}
+            npm install --only=production
             npx prisma generate
             npx prisma migrate deploy
 
-            # Build TypeScript
-            npm run build
-
-            # Start or restart with PM2
-            if pm2 list | grep -q "smart-invoicer"; then
-              pm2 restart smart-invoicer
-            else
-              pm2 start dist/index.js --name smart-invoicer
-            fi
-
-            # Save PM2 process list so it survives reboots
+      - name: Restart app with PM2
+        uses: appleboy/ssh-action@v1.0.3
+        with:
+          host: ${{ secrets.SERVER_IP }}
+          port: 22
+          username: ${{ secrets.SERVER_USER }}
+          password: ${{ secrets.SERVER_PASSWORD }}
+          script: |
+            cd ${{ secrets.SERVER_PATH }}
+            pm2 delete smart-invoicer 2>/dev/null || true
+            pm2 start dist/index.js --name smart-invoicer
             pm2 save
+
+      - name: Verify deployment
+        uses: appleboy/ssh-action@v1.0.3
+        with:
+          host: ${{ secrets.SERVER_IP }}
+          port: 22
+          username: ${{ secrets.SERVER_USER }}
+          password: ${{ secrets.SERVER_PASSWORD }}
+          script: |
+            sleep 10
+            curl -f http://127.0.0.1:${{ secrets.PORT }}/health || exit 1
