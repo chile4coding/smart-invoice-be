@@ -30,6 +30,7 @@ export type InvoiceInput = {
   clientId?: string;
   clientGender?: string;
   amountPaid?:number
+  receiptID?:string
 };
 
 export type CreateInvoiceInput = InvoiceInput & { createdById: string };
@@ -58,7 +59,7 @@ export const createInvoice = async (input: CreateInvoiceInput) => {
     data: {
       clientId: input.clientId,
       clientGender: input.clientGender,
-      invoiceNumber,
+      invoiceNumber: input?.receiptID || invoiceNumber,
       clientName: input.clientName,
       clientEmail: "",
       clientAddress: "",
@@ -147,8 +148,9 @@ if(!search && role === "SUPER_ADMIN"){
 export const getInvoiceById = (id: string) =>
   prisma.invoice.findUnique({ where: { id }, include: { lineItems: true } });
 
-export const updateInvoice = (id: string, input: InvoiceInput) => {
- 
+export const updateInvoice = async (id: string, input: InvoiceInput) => {
+   const invoiceNumber = await generateUniqueReceiptId();
+
   const { subtotal, grandTotal } = computeFinancials(input.lineItems, 0, 0);
 
 
@@ -173,7 +175,8 @@ export const updateInvoice = (id: string, input: InvoiceInput) => {
         lineItems: { create: buildLineItemsCreate(input.lineItems) },
         clientId: input.clientId,
         clientGender: input.clientGender,
-        amountPaid: grandTotal
+        amountPaid: grandTotal,
+        ...(input?.receiptID ? {invoiceNumber: input.receiptID } : { invoiceNumber})
       },
       include: { lineItems: true },
     });
