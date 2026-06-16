@@ -1,0 +1,14 @@
+{
+  "unit": "REDUCTION",
+  "items": [
+    {
+      "billname": "REDUCTIONRED",
+      "billcost": "0",
+      "status": 1,
+      "nf_price": "1",
+      "hmo_fees": "",
+      "sno": 1782,
+      "id": "0:1782:REDUCTIONRED:1:REDUCTION:00000"
+    }
+  ]
+}

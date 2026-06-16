@@ -1,0 +1,14 @@
+{
+  "unit": "OPD STORE",
+  "items": [
+    {
+      "billname": "DRUG",
+      "billcost": "0",
+      "status": 1,
+      "nf_price": "1",
+      "hmo_fees": "NO",
+      "sno": 1828,
+      "id": "0:1828:DRUG:1:OPD STORE:D001"
+    }
+  ]
+}

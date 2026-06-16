@@ -1,0 +1,347 @@
+{
+  "unit": "CATERING",
+  "items": [
+    {
+      "billname": "FOOD",
+      "billcost": 15000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 326,
+      "id": "15000:326:FOOD:0:CATERING:FOOD"
+    },
+    {
+      "billname": "JOLLOF RICE, SALAD, PLANTAIN",
+      "billcost": 500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 359,
+      "id": "500:359:JOLLOF RICE, SALAD, PLANTAIN:0:CATERING:CTR"
+    },
+    {
+      "billname": "EXTRA RICE",
+      "billcost": 100,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 360,
+      "id": "100:360:EXTRA RICE:0:CATERING:CTR"
+    },
+    {
+      "billname": "PLANTAIN (6)",
+      "billcost": 100,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 361,
+      "id": "100:361:PLANTAIN (6):0:CATERING:CTR"
+    },
+    {
+      "billname": "PLANTAIN (3)",
+      "billcost": 50,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 362,
+      "id": "50:362:PLANTAIN (3):0:CATERING:CTR"
+    },
+    {
+      "billname": "SALAD",
+      "billcost": 100,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 363,
+      "id": "100:363:SALAD:0:CATERING:CTR"
+    },
+    {
+      "billname": "EBA AND OKRO SOUP",
+      "billcost": 500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 364,
+      "id": "500:364:EBA AND OKRO SOUP:0:CATERING:CTR"
+    },
+    {
+      "billname": "EBA AND EGUSI SOUP",
+      "billcost": 500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 365,
+      "id": "500:365:EBA AND EGUSI SOUP:0:CATERING:CTR"
+    },
+    {
+      "billname": "EBA AND AFANG SOUP",
+      "billcost": 500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 366,
+      "id": "500:366:EBA AND AFANG SOUP:0:CATERING:CTR"
+    },
+    {
+      "billname": "EBA WITH NATIVE SOUP",
+      "billcost": 600,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 367,
+      "id": "600:367:EBA WITH NATIVE SOUP:0:CATERING:CTR"
+    },
+    {
+      "billname": "CATFISH PEPPER SOUP",
+      "billcost": 500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 368,
+      "id": "500:368:CATFISH PEPPER SOUP:0:CATERING:CTR"
+    },
+    {
+      "billname": "FRIED ICED FISH",
+      "billcost": 200,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 369,
+      "id": "200:369:FRIED ICED FISH:0:CATERING:CTR"
+    },
+    {
+      "billname": "PLANTAIN FOOFOO",
+      "billcost": 200,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 370,
+      "id": "200:370:PLANTAIN FOOFOO:0:CATERING:CTR"
+    },
+    {
+      "billname": "PLANTAIN FOOFOO WITH EGUSI SOUP",
+      "billcost": 600,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 371,
+      "id": "600:371:PLANTAIN FOOFOO WITH EGUSI SOUP:0:CATERING:CTR"
+    },
+    {
+      "billname": "PLANTAIN FOOFOO WITH AFANG SOUP",
+      "billcost": 600,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 372,
+      "id": "600:372:PLANTAIN FOOFOO WITH AFANG SOUP:0:CATERING:CTR"
+    },
+    {
+      "billname": "PLANTAIN FOOFOO WITH ATAMA SOUP",
+      "billcost": 600,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 373,
+      "id": "600:373:PLANTAIN FOOFOO WITH ATAMA SOUP:0:CATERING:CTR"
+    },
+    {
+      "billname": "PLANTAIN FOOFOO WITH NATIVE SOUP",
+      "billcost": 700,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 374,
+      "id": "700:374:PLANTAIN FOOFOO WITH NATIVE SOUP:0:CATERING:CTR"
+    },
+    {
+      "billname": "FRIED RICE WITH SALAD AND PLANTAIN",
+      "billcost": 500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 375,
+      "id": "500:375:FRIED RICE WITH SALAD AND PLANTAIN:0:CATERING:CTR"
+    },
+    {
+      "billname": "GOAT MEAT PEPPER SOUP AND WHITE RICE",
+      "billcost": 500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 376,
+      "id": "500:376:GOAT MEAT PEPPER SOUP AND WHITE RICE:0:CATERING:CTR"
+    },
+    {
+      "billname": "BOTTLE WATER (SMALL)",
+      "billcost": 50,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 377,
+      "id": "50:377:BOTTLE WATER (SMALL):0:CATERING:CTR"
+    },
+    {
+      "billname": "BOTTLE WATER (BIG)",
+      "billcost": 100,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 378,
+      "id": "100:378:BOTTLE WATER (BIG):0:CATERING:CTR"
+    },
+    {
+      "billname": "COCA COLA (SMALL)",
+      "billcost": 100,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 379,
+      "id": "100:379:COCA COLA (SMALL):0:CATERING:CTR"
+    },
+    {
+      "billname": "COCA COLA (BIG)",
+      "billcost": 150,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 380,
+      "id": "150:380:COCA COLA (BIG):0:CATERING:CTR"
+    },
+    {
+      "billname": "FANTA(BIG)",
+      "billcost": 150,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 381,
+      "id": "150:381:FANTA(BIG):0:CATERING:CTR"
+    },
+    {
+      "billname": "FANTA(SMALL)",
+      "billcost": 100,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 382,
+      "id": "100:382:FANTA(SMALL):0:CATERING:CTR"
+    },
+    {
+      "billname": "MALT DRINK",
+      "billcost": 150,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 383,
+      "id": "150:383:MALT DRINK:0:CATERING:CTR"
+    },
+    {
+      "billname": "FRIED CHICKEN (1/2)",
+      "billcost": 500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 384,
+      "id": "500:384:FRIED CHICKEN (1/2):0:CATERING:CTR"
+    },
+    {
+      "billname": "FRIED CHICKEN (FULL LAP)",
+      "billcost": 1000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 385,
+      "id": "1000:385:FRIED CHICKEN (FULL LAP):0:CATERING:CTR"
+    },
+    {
+      "billname": "LA SIEN WATER",
+      "billcost": 150,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 386,
+      "id": "150:386:LA SIEN WATER:0:CATERING:CTR"
+    },
+    {
+      "billname": "EXTRA GARRI",
+      "billcost": 100,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 387,
+      "id": "100:387:EXTRA GARRI:0:CATERING:CTR"
+    },
+    {
+      "billname": "EXTRA MEAT",
+      "billcost": 100,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 388,
+      "id": "100:388:EXTRA MEAT:0:CATERING:CTR"
+    },
+    {
+      "billname": "RICE AND MEAT",
+      "billcost": 500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 394,
+      "id": "500:394:RICE AND MEAT:0:CATERING:CTR"
+    },
+    {
+      "billname": "RICE WITHOUT MEAT",
+      "billcost": 400,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 395,
+      "id": "400:395:RICE WITHOUT MEAT:0:CATERING:CTR"
+    },
+    {
+      "billname": "GARRI AND SOUP WITHOUT MEAT",
+      "billcost": 400,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 396,
+      "id": "400:396:GARRI AND SOUP WITHOUT MEAT:0:CATERING:CTR"
+    },
+    {
+      "billname": "WHITE RICE AND CATFISH",
+      "billcost": 800,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 397,
+      "id": "800:397:WHITE RICE AND CATFISH:0:CATERING:CTR"
+    },
+    {
+      "billname": "CATFISH AND NATIVE SOUP",
+      "billcost": 800,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 398,
+      "id": "800:398:CATFISH AND NATIVE SOUP:0:CATERING:CTR"
+    },
+    {
+      "billname": "CATFISH AND SOUP",
+      "billcost": 700,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 399,
+      "id": "700:399:CATFISH AND SOUP:0:CATERING:CTR"
+    },
+    {
+      "billname": "FEEDING",
+      "billcost": 0,
+      "status": 1,
+      "nf_price": 1,
+      "hmo_fees": "",
+      "sno": 1776,
+      "id": "0:1776:FEEDING:1:CATERING:da11"
+    }
+  ]
+}

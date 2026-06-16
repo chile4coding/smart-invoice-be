@@ -1,0 +1,309 @@
+{
+  "unit": "MEDICAL MICROBIOLOGY(LABORATORY)",
+  "items": [
+    {
+      "billname": "Malaria Parasites",
+      "billcost": "3000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "3000:41:Malaria Parasites:0:MEDICAL MICROBIOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "Microfilaria In Blood",
+      "billcost": "4000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "4000:42:Microfilaria In Blood:0:MEDICAL MICROBIOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "Fecal Occult Blood",
+      "billcost": "4000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "4000:44:Fecal Occult Blood:0:MEDICAL MICROBIOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "Pregnancy Test (Blood)",
+      "billcost": "3000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "3000:49:Pregnancy Test (Blood):0:MEDICAL MICROBIOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "Stool MCS",
+      "billcost": "7000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "7000:50:Stool MCS:0:MEDICAL MICROBIOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "Widal Test",
+      "billcost": "3000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "3000:51:Widal Test:0:MEDICAL MICROBIOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "VDRL",
+      "billcost": "3000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "3000:52:VDRL:0:MEDICAL MICROBIOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "Blood culture & sensitivity",
+      "billcost": "22000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "22000:53:Blood culture & sensitivity:0:MEDICAL MICROBIOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "Semen analysis & m/c/s",
+      "billcost": "9000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "9000:54:Semen analysis & m/c/s:0:MEDICAL MICROBIOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "HVS m/c/s",
+      "billcost": "7500",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "7500:55:HVS m/c/s:0:MEDICAL MICROBIOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "Mantoux/Heaf Test",
+      "billcost": "4000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "4000:56:Mantoux/Heaf Test:0:MEDICAL MICROBIOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "CSF, Aspirate, Acetic fluid, Pleural fluid",
+      "billcost": "7000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "7000:58:CSF, Aspirate, Acetic fluid, Pleural fluid:0:MEDICAL MICROBIOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "Immunohistochemistry",
+      "billcost": "8000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "8000:62:Immunohistochemistry:0:MEDICAL MICROBIOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "H. Pylori",
+      "billcost": "4000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "4000:100:H. Pylori:0:MEDICAL MICROBIOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "HVS/Urethral Swab",
+      "billcost": "7500",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "7500:102:HVS/Urethral Swab:0:MEDICAL MICROBIOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "Rheumatoid Factor",
+      "billcost": "4000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "4000:106:Rheumatoid Factor:0:MEDICAL MICROBIOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "Skin Scrapping for Fungi",
+      "billcost": "7000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "7000:107:Skin Scrapping for Fungi:0:MEDICAL MICROBIOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "Skin Snip for Microfilaria",
+      "billcost": "4000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "4000:108:Skin Snip for Microfilaria:0:MEDICAL MICROBIOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "Blood testing",
+      "billcost": "20000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "20000:123:Blood testing:0:MEDICAL MICROBIOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "Swab (Throat, Ear, Wound) M/C/S",
+      "billcost": "7500",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "7500:131:Swab (Throat, Ear, Wound) M/C/S:0:MEDICAL MICROBIOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "EID (Early Infant Diagnosis)",
+      "billcost": "1",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "1:134:EID (Early Infant Diagnosis):0:MEDICAL MICROBIOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "URINALYSIS",
+      "billcost": "2000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "2000:174:URINALYSIS:0:MEDICAL MICROBIOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "STOOL ANAYSIS",
+      "billcost": "3000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "3000:175:STOOL ANAYSIS:0:MEDICAL MICROBIOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "SEMEN ANALYSIS M/C/S",
+      "billcost": "9000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "9000:183:SEMEN ANALYSIS M/C/S:0:MEDICAL MICROBIOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "EAR SWAB M/C/S",
+      "billcost": "2000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "2000:184:EAR SWAB M/C/S:0:MEDICAL MICROBIOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "URINE M/C/S",
+      "billcost": "7000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "7000:186:URINE M/C/S:0:MEDICAL MICROBIOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "Endocervical Swab",
+      "billcost": "7500",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "7500:194:Endocervical Swab:0:MEDICAL MICROBIOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "HVS, ECS & URETHRAL SWAB (STI)",
+      "billcost": "7500",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "7500:226:HVS, ECS & URETHRAL SWAB (STI):0:MEDICAL MICROBIOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "FUNGI BODIES(SKIN/HAIR/NAILS FOR MYCOLOGY)",
+      "billcost": "7000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "7000:227:FUNGI BODIES(SKIN/HAIR/NAILS FOR MYCOLOGY):0:MEDICAL MICROBIOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "VDRL(Pack)",
+      "billcost": "9000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "9000:245:VDRL(Pack):0:MEDICAL MICROBIOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "ECS",
+      "billcost": "7500",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "7500:254:ECS:0:MEDICAL MICROBIOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "UTILITY200",
+      "billcost": "200",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "200:285:UTILITY200:0:MEDICAL MICROBIOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "UTILITY 1000",
+      "billcost": "1000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "1000:295:UTILITY 1000:0:MEDICAL MICROBIOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "GENITOURINARY AND CLINIC CONSULTATION",
+      "billcost": "2000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "2000:299:GENITOURINARY AND CLINIC CONSULTATION:0:MEDICAL MICROBIOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "UTILITY500",
+      "billcost": "500",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "500:307:UTILITY500:0:MEDICAL MICROBIOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "Fresh Whole Blood (Cross matching Services)",
+      "billcost": "15500",
+      "status": "",
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "15500:314:Fresh Whole Blood (Cross matching Services):0:MEDICAL MICROBIOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "GENITAL SAMPLES AND GENITOURINARY",
+      "billcost": "2000",
+      "status": "",
+      "nf_price": 1,
+      "hmo_fees": "",
+      "id": "2000:327:GENITAL SAMPLES AND GENITOURINARY:0:MEDICAL MICROBIOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "SPUTUM M/C/S",
+      "billcost": "8000",
+      "status": "",
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "8000:328:SPUTUM M/C/S:0:MEDICAL MICROBIOLOGY(LABORATORY)"
+    }
+  ]
+}

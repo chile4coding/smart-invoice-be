@@ -175,6 +175,39 @@ const DashboardStatsSchema: Schema = {
   },
 };
 
+const DepartmentSchema: Schema = {
+  type: 'object',
+  properties: {
+    id: { type: 'string', format: 'uuid' },
+    externalId: { type: 'string', example: '75' },
+    name: { type: 'string', example: 'ANNEX STORE' },
+    hcode: { type: 'string', example: '1' },
+    dtype: { type: 'string', enum: ['clinic', 'department'], example: 'department' },
+    isActive: { type: 'boolean', example: true },
+    deptGroup: { type: 'string', nullable: true, example: 'PHARMACY' },
+    recno: { type: 'string', nullable: true, example: '75' },
+    createdAt: { type: 'string', format: 'date-time' },
+    updatedAt: { type: 'string', format: 'date-time' },
+  },
+};
+
+const DepartmentFeeSchema: Schema = {
+  type: 'object',
+  properties: {
+    id: { type: 'string', format: 'uuid' },
+    billname: { type: 'string', example: 'VIP ADMISSION DEPOSIT (SMALL ROOM)' },
+    billcost: { type: 'string', nullable: true, example: '386700' },
+    status: { type: 'string', nullable: true, example: '1' },
+    nfPrice: { type: 'string', nullable: true, example: '0' },
+    hmoFees: { type: 'string', nullable: true, example: '' },
+    sno: { type: 'string', nullable: true, example: '323' },
+    externalId: { type: 'string', example: '386700:323:VIP ADMISSION DEPOSIT (SMALL ROOM):0:VIP:VIP1' },
+    departmentId: { type: 'string', format: 'uuid' },
+    createdAt: { type: 'string', format: 'date-time' },
+    updatedAt: { type: 'string', format: 'date-time' },
+  },
+};
+
 const InvoiceBodySchema: Schema = {
   type: 'object',
   required: ['clientName', 'clientEmail', 'issueDate', 'dueDate', 'lineItems'],
@@ -254,7 +287,7 @@ const swaggerSpec = {
     securitySchemes: {
       bearerAuth: { type: 'http', scheme: 'bearer', bearerFormat: 'JWT' },
     },
-    schemas: { LineItem: LineItemSchema, Invoice: InvoiceSchema, User: UserSchema, InvoiceBody: InvoiceBodySchema, DashboardStats: DashboardStatsSchema },
+    schemas: { LineItem: LineItemSchema, Invoice: InvoiceSchema, User: UserSchema, InvoiceBody: InvoiceBodySchema, DashboardStats: DashboardStatsSchema, Department: DepartmentSchema, DepartmentFee: DepartmentFeeSchema },
   },
   paths: {
     // ── Health ────────────────────────────────────────────────────────────────
@@ -747,6 +780,82 @@ const swaggerSpec = {
           '200': {
             description: 'HTML preview',
             content: { 'text/html': { schema: { type: 'string' } } },
+          },
+          '401': unauthorizedResponse,
+          '403': forbiddenResponse,
+          '404': notFoundResponse,
+        },
+      },
+    },
+
+    // ── Departments ───────────────────────────────────────────────────────────
+    '/api/departments': {
+      get: {
+        tags: ['Departments'],
+        summary: 'List departments',
+        description: '**SUPER_ADMIN / ADMIN only.** Paginated list of all departments with optional name search.',
+        security: [{ bearerAuth: [] }],
+        parameters: [
+          { name: 'page', in: 'query', schema: { type: 'integer', minimum: 1, default: 1 } },
+          { name: 'limit', in: 'query', schema: { type: 'integer', minimum: 1, maximum: 100, default: 10 } },
+          { name: 'search', in: 'query', schema: { type: 'string' }, description: 'Filter by department name (case-insensitive)' },
+        ],
+        responses: {
+          '200': {
+            description: 'Paginated departments',
+            content: jsonContent(paginatedBody({ $ref: '#/components/schemas/Department' }, 'departments')),
+          },
+          '401': unauthorizedResponse,
+          '403': forbiddenResponse,
+        },
+      },
+    },
+
+    '/api/departments/{identifier}/fees': {
+      get: {
+        tags: ['Departments'],
+        summary: 'List department fees',
+        description: [
+          '**SUPER_ADMIN / ADMIN only.**',
+          'Fetches paginated fees for a department.',
+          'The `identifier` path parameter accepts any of:',
+          '- Internal UUID (`id`)',
+          '- External source ID (`externalId`)',
+          '- Department name (case-insensitive)',
+        ].join('\n'),
+        security: [{ bearerAuth: [] }],
+        parameters: [
+          {
+            name: 'identifier',
+            in: 'path',
+            required: true,
+            description: 'Department UUID, externalId, or name',
+            schema: { type: 'string', example: 'ANNEX STORE' },
+          },
+          { name: 'page', in: 'query', schema: { type: 'integer', minimum: 1, default: 1 } },
+          { name: 'limit', in: 'query', schema: { type: 'integer', minimum: 1, maximum: 100, default: 10 } },
+          { name: 'search', in: 'query', schema: { type: 'string' }, description: 'Filter fees by bill name (case-insensitive)' },
+        ],
+        responses: {
+          '200': {
+            description: 'Paginated department fees',
+            content: jsonContent({
+              type: 'object',
+              properties: {
+                success: { type: 'boolean', example: true },
+                data: {
+                  type: 'object',
+                  properties: {
+                    department: { $ref: '#/components/schemas/Department' },
+                    fees: { type: 'array', items: { $ref: '#/components/schemas/DepartmentFee' } },
+                    total: { type: 'integer', example: 42 },
+                    page: { type: 'integer', example: 1 },
+                    limit: { type: 'integer', example: 10 },
+                    totalPages: { type: 'integer', example: 5 },
+                  },
+                },
+              },
+            }),
           },
           '401': unauthorizedResponse,
           '403': forbiddenResponse,

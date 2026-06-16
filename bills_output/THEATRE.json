@@ -1,0 +1,131 @@
+{
+  "unit": "THEATRE",
+  "items": [
+    {
+      "billname": "THEATRE FEE (MINOR)",
+      "billcost": 12000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 43,
+      "id": "12000:43:THEATRE FEE (MINOR):0:THEATRE:THEFM"
+    },
+    {
+      "billname": "THEATRE FEE (INTERMEDIATE)",
+      "billcost": 16000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 44,
+      "id": "16000:44:THEATRE FEE (INTERMEDIATE):0:THEATRE:THEFI"
+    },
+    {
+      "billname": "THEATRE FEE (MAJOR)",
+      "billcost": 22000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 45,
+      "id": "22000:45:THEATRE FEE (MAJOR):0:THEATRE:THEFMJ"
+    },
+    {
+      "billname": "THEATRE FEE (SUPRAMAJOR)",
+      "billcost": 30000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 46,
+      "id": "30000:46:THEATRE FEE (SUPRAMAJOR):0:THEATRE:THEFSM"
+    },
+    {
+      "billname": "THEATRE FEE (MINOR)",
+      "billcost": 12000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 150,
+      "id": "12000:150:THEATRE FEE (MINOR):0:THEATRE:THEMN"
+    },
+    {
+      "billname": "THEATRE FEE (INTERMEDIATE)",
+      "billcost": 16000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 151,
+      "id": "16000:151:THEATRE FEE (INTERMEDIATE):0:THEATRE:THEINT"
+    },
+    {
+      "billname": "THEATRE FEE (MAJOR)",
+      "billcost": 22000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 152,
+      "id": "22000:152:THEATRE FEE (MAJOR):0:THEATRE:THEMJ"
+    },
+    {
+      "billname": "THEATRE FEE (SUPRAMAJOR)",
+      "billcost": 30000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 153,
+      "id": "30000:153:THEATRE FEE (SUPRAMAJOR):0:THEATRE:THESMJ"
+    },
+    {
+      "billname": "MAJOR SURGERY (1ST CS)",
+      "billcost": 160000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 239,
+      "id": "160000:239:MAJOR SURGERY (1ST CS):0:THEATRE:MJS1"
+    },
+    {
+      "billname": "MAJOR SURGERY (2ND CS)",
+      "billcost": 170000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 240,
+      "id": "170000:240:MAJOR SURGERY (2ND CS):0:THEATRE:MJS2"
+    },
+    {
+      "billname": "MAJOR SURGERY (3RD CS)",
+      "billcost": 190000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 241,
+      "id": "190000:241:MAJOR SURGERY (3RD CS):0:THEATRE:MJS2"
+    },
+    {
+      "billname": "INITIAL DEPOSIT (C/S)",
+      "billcost": 100000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 242,
+      "id": "100000:242:INITIAL DEPOSIT (C/S):0:THEATRE:INITCS"
+    },
+    {
+      "billname": "CATHETERIZATION",
+      "billcost": 2500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 248,
+      "id": "2500:248:CATHETERIZATION:0:THEATRE:CATH"
+    },
+    {
+      "billname": "UTILITY2000",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1360,
+      "id": "2000:1360:UTILITY2000:0:THEATRE:"
+    }
+  ]
+}

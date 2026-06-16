@@ -7,9 +7,116 @@ datasource db {
   url      = env("DATABASE_URL")
 }
 
-// ─────────────────────────────────────────────
-// ENUMS
-// ─────────────────────────────────────────────
+model User {
+  id              String          @id @default(uuid())
+  email           String          @unique
+  password        String
+  firstName       String
+  lastName        String
+  role            Role            @default(USER)
+  isActive        Boolean         @default(true)
+  createdById     String?
+  createdAt       DateTime        @default(now())
+  updatedAt       DateTime        @updatedAt
+  dashboardStats  DashboardStats?
+  invoicesCreated Invoice[]       @relation("InvoiceCreator")
+  createdBy       User?           @relation("CreatedUsers", fields: [createdById], references: [id])
+  createdUsers    User[]          @relation("CreatedUsers")
+
+  @@map("users")
+}
+
+model Invoice {
+  id            String        @id @default(uuid())
+  invoiceNumber String        @unique
+  status        InvoiceStatus @default(DRAFT)
+  clientName    String
+  clientEmail   String
+  clientAddress String?
+  clientPhone   String?
+  issueDate     DateTime
+  dueDate       DateTime
+  subtotal      Int           @default(0)
+  taxRate       Decimal       @default(0)
+  taxAmount     Int           @default(0)
+  discount      Int           @default(0)
+  grandTotal    Int           @default(0)
+  currency      String        @default("NGN")
+  notes         String?
+  createdById   String
+  createdAt     DateTime      @default(now())
+  updatedAt     DateTime      @updatedAt
+  clientGender  String?
+  clientId      String?
+  amountPaid    Int           @default(0)
+  createdBy     User          @relation("InvoiceCreator", fields: [createdById], references: [id])
+  lineItems     LineItem[]
+
+  @@map("invoices")
+}
+
+model LineItem {
+  id          String  @id @default(uuid())
+  description String
+  quantity    Int
+  unitPrice   Int
+  total       Int
+  invoiceId   String
+  invoice     Invoice @relation(fields: [invoiceId], references: [id], onDelete: Cascade)
+
+  @@map("line_items")
+}
+
+model Department {
+  id         String          @id @default(uuid())
+  externalId String
+  name       String          @unique
+  hcode      String
+  dtype      String
+  isActive   Boolean         @default(true)
+  deptGroup  String?
+  recno      String?
+  createdAt  DateTime        @default(now())
+  updatedAt  DateTime        @updatedAt
+  fees       DepartmentFee[]
+
+  @@map("departments")
+}
+
+model DepartmentFee {
+  id           String     @id @default(uuid())
+  billname     String
+  billcost     String?
+  status       String?      
+  nfPrice      String?
+  hmoFees      String?
+  sno          String?
+  externalId   String     @unique
+  departmentId String
+  createdAt    DateTime   @default(now())
+  updatedAt    DateTime   @updatedAt
+  department   Department @relation(fields: [departmentId], references: [id], onDelete: Cascade)
+
+  @@map("department_fees")
+}
+
+model DashboardStats {
+  id              String   @id @default(uuid())
+  totalAttendance String   @default("0")
+  newRegistration String   @default("0")
+  followUp        String   @default("0")
+  totalPatients   String   @default("0")
+  today           String   @default("0")
+  thisWeek        String   @default("0")
+  thisMonth       String   @default("0")
+  totalPayments   String   @default("0")
+  userId          String   @unique
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @updatedAt
+  user            User     @relation(fields: [userId], references: [id])
+
+  @@map("dashboard_stats")
+}
 
 enum Role {
   SUPER_ADMIN
@@ -21,114 +128,4 @@ enum InvoiceStatus {
   DRAFT
   SAVED
   SENT
-}
-
-// ─────────────────────────────────────────────
-// USER MODEL
-// ─────────────────────────────────────────────
-
-model User {
-  id        String  @id @default(uuid())
-  email     String  @unique
-  password  String
-  firstName String
-  lastName  String
-  role      Role    @default(USER)
-  isActive  Boolean @default(true)
-
-  createdById  String?
-  createdBy    User?   @relation("CreatedUsers", fields: [createdById], references: [id])
-  createdUsers User[]  @relation("CreatedUsers")
-
-  invoicesCreated Invoice[]       @relation("InvoiceCreator")
-  dashboardStats  DashboardStats?
-
-  createdAt DateTime @default(now())
-  updatedAt DateTime @updatedAt
-
-  @@map("users")
-}
-
-// ─────────────────────────────────────────────
-// INVOICE MODEL
-// ─────────────────────────────────────────────
-
-model Invoice {
-  id            String        @id @default(uuid())
-  invoiceNumber String        @unique
-  status        InvoiceStatus @default(DRAFT)
-
-  // Billed to
-  clientName    String
-  clientEmail   String
-  clientAddress String?
-  clientPhone   String?
-   clientId String?
-  clientGender   String?
-
-  // Dates
-  issueDate DateTime
-  dueDate   DateTime
-
-  // Financials stored in minor units (kobo/cents) to avoid float issues
-  subtotal   Int     @default(0)
-  taxRate    Decimal @default(0)
-  taxAmount  Int     @default(0)
-  discount   Int     @default(0)
-  grandTotal Int     @default(0)
-  amountPaid Int     @default(0)
-
-  currency String  @default("NGN")
-  notes    String?
-
-  lineItems LineItem[]
-
-  createdById String
-  createdBy   User   @relation("InvoiceCreator", fields: [createdById], references: [id])
-
-  createdAt DateTime @default(now())
-  updatedAt DateTime @updatedAt
-
-  @@map("invoices")
-}
-
-// ─────────────────────────────────────────────
-// LINE ITEM MODEL
-// ─────────────────────────────────────────────
-
-model LineItem {
-  id          String @id @default(uuid())
-  description String
-  quantity    Int
-  unitPrice   Int
-  total       Int
-
-  invoiceId String
-  invoice   Invoice @relation(fields: [invoiceId], references: [id], onDelete: Cascade)
-
-  @@map("line_items")
-}
-
-// ─────────────────────────────────────────────
-// DASHBOARD STATS MODEL
-// ─────────────────────────────────────────────
-
-model DashboardStats {
-  id               String @id @default(uuid())
-  totalAttendance  String @default("0")
-  newRegistration  String @default("0")
-  followUp         String @default("0")
-  totalPatients    String @default("0")
-  today            String @default("0")
-  thisWeek         String @default("0")
-  thisMonth        String @default("0")
-  totalPayments    String @default("0")
-
-  userId String @unique
-  user   User   @relation(fields: [userId], references: [id])
-
-  createdAt DateTime @default(now())
-  updatedAt DateTime @updatedAt
-
-  @@map("dashboard_stats")
 }

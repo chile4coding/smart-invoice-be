@@ -1,0 +1,977 @@
+{
+  "unit": "DENTAL CLINIC",
+  "items": [
+    {
+      "billname": "CONSULTATION FEE",
+      "billcost": 2500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 83,
+      "id": "2500:83:CONSULTATION FEE:0:DENTAL CLINIC:CNSLT"
+    },
+    {
+      "billname": "MONTHLY RENEWAL",
+      "billcost": 1500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 158,
+      "id": "1500:158:MONTHLY RENEWAL:0:DENTAL CLINIC:MR"
+    },
+    {
+      "billname": "DENTAL CERTIFICATE",
+      "billcost": 6000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 159,
+      "id": "6000:159:DENTAL CERTIFICATE:0:DENTAL CLINIC:DC"
+    },
+    {
+      "billname": "INTRAORAL X-RAYS (PERIAPICALS)",
+      "billcost": 3500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 160,
+      "id": "3500:160:INTRAORAL X-RAYS (PERIAPICALS):0:DENTAL CLINIC:IXP"
+    },
+    {
+      "billname": "INTRAORAL X-RAYS (OCCLUSALS)",
+      "billcost": 5500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 161,
+      "id": "5500:161:INTRAORAL X-RAYS (OCCLUSALS):0:DENTAL CLINIC:IXO"
+    },
+    {
+      "billname": "INTRAORAL X-RAYS (BITEWINGS)",
+      "billcost": 2500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 162,
+      "id": "2500:162:INTRAORAL X-RAYS (BITEWINGS):0:DENTAL CLINIC:IXB"
+    },
+    {
+      "billname": "EXTRACTIONS (ONE TOOTH)",
+      "billcost": 12000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 163,
+      "id": "12000:163:EXTRACTIONS (ONE TOOTH):0:DENTAL CLINIC:EOT"
+    },
+    {
+      "billname": "EXTRACTIONS (FRACTURED TOOTH/RETAINED ROOTS)",
+      "billcost": 15000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 164,
+      "id": "15000:164:EXTRACTIONS (FRACTURED TOOTH/RETAINED ROOTS):0:DENTAL CLINIC:EFT"
+    },
+    {
+      "billname": "EXTRACTIONS (DRY SOCKET)",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 165,
+      "id": "5000:165:EXTRACTIONS (DRY SOCKET):0:DENTAL CLINIC:EDS"
+    },
+    {
+      "billname": "CONSERVATION/RESTORATION (POLISH AMALGAM)",
+      "billcost": 1000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 166,
+      "id": "1000:166:CONSERVATION/RESTORATION (POLISH AMALGAM):0:DENTAL CLINIC:CRP"
+    },
+    {
+      "billname": "CONSERVATION/RESTORATION (OCCLUSAL RELIEF PER TOOTH)",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 167,
+      "id": "2000:167:CONSERVATION/RESTORATION (OCCLUSAL RELIEF PER TOOTH):0:DENTAL CLINIC:CRO"
+    },
+    {
+      "billname": "CONSERVATION/RESTORATION (AMALGAM/ONE SURFACE)",
+      "billcost": 12000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 168,
+      "id": "12000:168:CONSERVATION/RESTORATION (AMALGAM/ONE SURFACE):0:DENTAL CLINIC:CRA1"
+    },
+    {
+      "billname": "CONSERVATION/RESTORATION (AMALGAM/TWO SURFACE)",
+      "billcost": 10000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 169,
+      "id": "10000:169:CONSERVATION/RESTORATION (AMALGAM/TWO SURFACE):0:DENTAL CLINIC:CRA2"
+    },
+    {
+      "billname": "CONSERVATION/RESTORATION (MESIO-OCCLUSO-DISTAL)",
+      "billcost": 8000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 170,
+      "id": "8000:170:CONSERVATION/RESTORATION (MESIO-OCCLUSO-DISTAL):0:DENTAL CLINIC:CRM"
+    },
+    {
+      "billname": "CONSERVATION/RESTORATION (COMPOSITE FILLINGS (LIGHT CURE))",
+      "billcost": 12000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 171,
+      "id": "12000:171:CONSERVATION/RESTORATION (COMPOSITE FILLINGS (LIGHT CURE)):0:DENTAL CLINIC:CRC"
+    },
+    {
+      "billname": "CONSERVATION/RESTORATION (COMPOSITE FILLINGS (CHEMICAL CURE))",
+      "billcost": 8000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 172,
+      "id": "8000:172:CONSERVATION/RESTORATION (COMPOSITE FILLINGS (CHEMICAL CURE)):0:DENTAL CLINIC:CRCF"
+    },
+    {
+      "billname": "CONSERVATION/RESTORATION (TEMPORARY DRESSINGS)",
+      "billcost": 6000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 173,
+      "id": "6000:173:CONSERVATION/RESTORATION (TEMPORARY DRESSINGS):0:DENTAL CLINIC:CRT"
+    },
+    {
+      "billname": "CONSERVATION/RESTORATION (CROWN RECEMENTATION)",
+      "billcost": 5500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 174,
+      "id": "5500:174:CONSERVATION/RESTORATION (CROWN RECEMENTATION):0:DENTAL CLINIC:CRCR"
+    },
+    {
+      "billname": "ROOT TREATMENT/PULP THERAPY (SINGLE ROOTS)",
+      "billcost": 32000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 175,
+      "id": "32000:175:ROOT TREATMENT/PULP THERAPY (SINGLE ROOTS):0:DENTAL CLINIC:RTSR"
+    },
+    {
+      "billname": "ROOT TREATMENT/PULP THERAPY (MULTIPLE ROOTS)",
+      "billcost": 38000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 176,
+      "id": "38000:176:ROOT TREATMENT/PULP THERAPY (MULTIPLE ROOTS):0:DENTAL CLINIC:RTMR"
+    },
+    {
+      "billname": "ROOT TREATMENT/PULP THERAPY (PULPOTOMY)",
+      "billcost": 20000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 177,
+      "id": "20000:177:ROOT TREATMENT/PULP THERAPY (PULPOTOMY):0:DENTAL CLINIC:RTP"
+    },
+    {
+      "billname": "ROOT TREATMENT/PULP THERAPY (APICECTOMY)",
+      "billcost": 50000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 178,
+      "id": "50000:178:ROOT TREATMENT/PULP THERAPY (APICECTOMY):0:DENTAL CLINIC:RTA"
+    },
+    {
+      "billname": "ADVANCED CONSERVATION (ACRYLIC JACKET CROWN)",
+      "billcost": 40000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 179,
+      "id": "40000:179:ADVANCED CONSERVATION (ACRYLIC JACKET CROWN):0:DENTAL CLINIC:ACAJ"
+    },
+    {
+      "billname": "ADVANCED CONSERVATION (PREFABRICATED POST RETAINED CROWN)",
+      "billcost": 15000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 180,
+      "id": "15000:180:ADVANCED CONSERVATION (PREFABRICATED POST RETAINED CROWN):0:DENTAL CLINIC:ACPP"
+    },
+    {
+      "billname": "ADVANCED CONSERVATION (PORCELAIN FUSED TO METAL CROWN)",
+      "billcost": 90000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 181,
+      "id": "90000:181:ADVANCED CONSERVATION (PORCELAIN FUSED TO METAL CROWN):0:DENTAL CLINIC:ACPF"
+    },
+    {
+      "billname": "ADVANCED CONSERVATION (GOLD INLAY)",
+      "billcost": 100000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 182,
+      "id": "100000:182:ADVANCED CONSERVATION (GOLD INLAY):0:DENTAL CLINIC:ACGI"
+    },
+    {
+      "billname": "ADVANCED CONSERVATION (ALUMINIUM SHELLS (TEMPORARY CROWNS))",
+      "billcost": 15000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 183,
+      "id": "15000:183:ADVANCED CONSERVATION (ALUMINIUM SHELLS (TEMPORARY CROWNS)):0:DENTAL CLINIC:ACAS"
+    },
+    {
+      "billname": "ADVANCED CONSERVATION (BRIDGE PER UNIT)",
+      "billcost": 90000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 184,
+      "id": "90000:184:ADVANCED CONSERVATION (BRIDGE PER UNIT):0:DENTAL CLINIC:ACB"
+    },
+    {
+      "billname": "ADVANCED CONSERVATION (PALLADIUM CROWN)",
+      "billcost": 70000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 185,
+      "id": "70000:185:ADVANCED CONSERVATION (PALLADIUM CROWN):0:DENTAL CLINIC:ACP"
+    },
+    {
+      "billname": "PERIODONTOLOGY (SCALING AND POLISHING)",
+      "billcost": 15000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 186,
+      "id": "15000:186:PERIODONTOLOGY (SCALING AND POLISHING):0:DENTAL CLINIC:PSP"
+    },
+    {
+      "billname": "PERIODONTOLOGY (ROOT PLAINING PER TOOTH)",
+      "billcost": 1000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 187,
+      "id": "1000:187:PERIODONTOLOGY (ROOT PLAINING PER TOOTH):0:DENTAL CLINIC:PRP"
+    },
+    {
+      "billname": "PERIODONTOLOGY (DEEP CURETTAGE PER TOOTH)",
+      "billcost": 1000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 188,
+      "id": "1000:188:PERIODONTOLOGY (DEEP CURETTAGE PER TOOTH):0:DENTAL CLINIC:PDC"
+    },
+    {
+      "billname": "PERIODONTOLOGY (GINGIVECTOMY PER TOOTH)",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 189,
+      "id": "5000:189:PERIODONTOLOGY (GINGIVECTOMY PER TOOTH):0:DENTAL CLINIC:PG"
+    },
+    {
+      "billname": "PERIODONTOLOGY (FLUORIDE APPLICATION (TOPICAL) (PER ARCH))",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 190,
+      "id": "5000:190:PERIODONTOLOGY (FLUORIDE APPLICATION (TOPICAL) (PER ARCH)):0:DENTAL CLINIC:PFA"
+    },
+    {
+      "billname": "PERIODONTOLOGY (SPLINTS (ACRYLIC, ARCH BARS OR EYELETS) (PER TOOTH))",
+      "billcost": 35000,
+      "status": 0,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 191,
+      "id": "35000:191:PERIODONTOLOGY (SPLINTS (ACRYLIC, ARCH BARS OR EYELETS) (PER TOOTH)):0:DENTAL CLINIC:PSA"
+    },
+    {
+      "billname": "PERIODONTOLOGY (DESENSITIZATION (PER TOOTH))",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 192,
+      "id": "2000:192:PERIODONTOLOGY (DESENSITIZATION (PER TOOTH)):0:DENTAL CLINIC:PD"
+    },
+    {
+      "billname": "PROSTHODONTICS (ONE TOOTH DENTURE)",
+      "billcost": 20000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 193,
+      "id": "20000:193:PROSTHODONTICS (ONE TOOTH DENTURE):0:DENTAL CLINIC:PR1"
+    },
+    {
+      "billname": "PROSTHODONTICS (ADDITIONAL TEETH)",
+      "billcost": 5500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 194,
+      "id": "5500:194:PROSTHODONTICS (ADDITIONAL TEETH):0:DENTAL CLINIC:PR2"
+    },
+    {
+      "billname": "PROSTHODONTICS (FULL DENTURES)",
+      "billcost": 70000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 195,
+      "id": "70000:195:PROSTHODONTICS (FULL DENTURES):0:DENTAL CLINIC:PFD"
+    },
+    {
+      "billname": "PROSTHODONTICS (DENTURE REPAIR)",
+      "billcost": 7000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 196,
+      "id": "7000:196:PROSTHODONTICS (DENTURE REPAIR):0:DENTAL CLINIC:PDR"
+    },
+    {
+      "billname": "PROSTHODONTICS (DENTURE RELINE)",
+      "billcost": 80000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 197,
+      "id": "80000:197:PROSTHODONTICS (DENTURE RELINE):0:DENTAL CLINIC:PDRE"
+    },
+    {
+      "billname": "PROSTHODONTICS (ORTHODONTIC APPLIANCE (REMOVABLE) PER JAW)",
+      "billcost": 80000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 198,
+      "id": "80000:198:PROSTHODONTICS (ORTHODONTIC APPLIANCE (REMOVABLE) PER JAW):0:DENTAL CLINIC:POA"
+    },
+    {
+      "billname": "PROSTHODONTICS (RECONSTRUCTION OF FRACTURED ORTHODONTIC APPLIANCE)",
+      "billcost": 80000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 199,
+      "id": "80000:199:PROSTHODONTICS (RECONSTRUCTION OF FRACTURED ORTHODONTIC APPLIANCE):0:DENTAL CLINIC:PRF"
+    },
+    {
+      "billname": "ORAL AND MAXILLOFACIAL SURGERY (SURGICAL EXTRACTION OF IMPACTED WISDOM TOOTH)",
+      "billcost": 20000,
+      "status": 0,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 200,
+      "id": "20000:200:ORAL AND MAXILLOFACIAL SURGERY (SURGICAL EXTRACTION OF IMPACTED WISDOM TOOTH):0:DENTAL CLINIC:OSA"
+    },
+    {
+      "billname": "ORAL AND MAXILLOFACIAL SURGERY (OPERCULECTOMY)",
+      "billcost": 10000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 201,
+      "id": "10000:201:ORAL AND MAXILLOFACIAL SURGERY (OPERCULECTOMY):0:DENTAL CLINIC:OO"
+    },
+    {
+      "billname": "ORAL AND MAXILLOFACIAL SURGERY (ENUCLEATION OF CYSTIC LESIONS)",
+      "billcost": 60000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 202,
+      "id": "60000:202:ORAL AND MAXILLOFACIAL SURGERY (ENUCLEATION OF CYSTIC LESIONS):0:DENTAL CLINIC:OE"
+    },
+    {
+      "billname": "ORAL AND MAXILLOFACIAL SURGERY (EXCISION OF LARGE TUMOR EXCLUDING (G.A))",
+      "billcost": 200000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 203,
+      "id": "200000:203:ORAL AND MAXILLOFACIAL SURGERY (EXCISION OF LARGE TUMOR EXCLUDING (G.A)):0:DENTAL CLINIC:OEX"
+    },
+    {
+      "billname": "ORAL AND MAXILLOFACIAL SURGERY (INCISION AND DRAINAGE)",
+      "billcost": 30000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 204,
+      "id": "30000:204:ORAL AND MAXILLOFACIAL SURGERY (INCISION AND DRAINAGE):0:DENTAL CLINIC:OINC"
+    },
+    {
+      "billname": "ORAL AND MAXILLOFACIAL SURGERY (EXCISION OF BENIGN TUMOURS)",
+      "billcost": 50000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 205,
+      "id": "50000:205:ORAL AND MAXILLOFACIAL SURGERY (EXCISION OF BENIGN TUMOURS):0:DENTAL CLINIC:OEXB"
+    },
+    {
+      "billname": "FRACTURES (MANDIBULAR PER FRACTURE SITE)",
+      "billcost": 70000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 206,
+      "id": "70000:206:FRACTURES (MANDIBULAR PER FRACTURE SITE):0:DENTAL CLINIC:FRAM"
+    },
+    {
+      "billname": "FRACTURES (ADDITIONAL FRACTURE SITE)",
+      "billcost": 35000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 207,
+      "id": "35000:207:FRACTURES (ADDITIONAL FRACTURE SITE):0:DENTAL CLINIC:FRAM2"
+    },
+    {
+      "billname": "FRACTURES (MAXILLARY FRACTURES)",
+      "billcost": 150000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 208,
+      "id": "150000:208:FRACTURES (MAXILLARY FRACTURES):0:DENTAL CLINIC:FRAMF"
+    },
+    {
+      "billname": "FRACTURES (COMBINED MANDIBULAR/MAXILLARY)",
+      "billcost": 250000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 209,
+      "id": "250000:209:FRACTURES (COMBINED MANDIBULAR/MAXILLARY):0:DENTAL CLINIC:FRACM"
+    },
+    {
+      "billname": "FRACTURES (OSTEOTOMY)",
+      "billcost": 150000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 210,
+      "id": "150000:210:FRACTURES (OSTEOTOMY):0:DENTAL CLINIC:FRAO"
+    },
+    {
+      "billname": "FRACTURES (PREPROSTHETIC SURGERY)",
+      "billcost": 75000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 211,
+      "id": "75000:211:FRACTURES (PREPROSTHETIC SURGERY):0:DENTAL CLINIC:FRAPS"
+    },
+    {
+      "billname": "MANDIBULAR FRACTURES (DEPOSIT)",
+      "billcost": 0,
+      "status": 1,
+      "nf_price": 1,
+      "hmo_fees": "",
+      "sno": 419,
+      "id": "0:419:MANDIBULAR FRACTURES (DEPOSIT):1:DENTAL CLINIC:MANFD"
+    },
+    {
+      "billname": "SCALING AND POLISHING (MAJOR)",
+      "billcost": 6000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 421,
+      "id": "6000:421:SCALING AND POLISHING (MAJOR):0:DENTAL CLINIC:DENT100"
+    },
+    {
+      "billname": "DENTAL CERT EXCLUDING INVESTIGATION/REGISTRATION",
+      "billcost": 3000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 545,
+      "id": "3000:545:DENTAL CERT EXCLUDING INVESTIGATION/REGISTRATION:0:DENTAL CLINIC:DCEIR001"
+    },
+    {
+      "billname": "UTILITY200",
+      "billcost": 200,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 600,
+      "id": "200:600:UTILITY200:0:DENTAL CLINIC:UTC001"
+    },
+    {
+      "billname": "UTILITY500",
+      "billcost": 500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 666,
+      "id": "500:666:UTILITY500:0:DENTAL CLINIC:UTDEN002"
+    },
+    {
+      "billname": "UTILITY1000",
+      "billcost": 1000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 667,
+      "id": "1000:667:UTILITY1000:0:DENTAL CLINIC:UTDEN003"
+    },
+    {
+      "billname": "UTILITY2000",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 668,
+      "id": "2000:668:UTILITY2000:0:DENTAL CLINIC:UTDEN004"
+    },
+    {
+      "billname": "UTILITY3000",
+      "billcost": 3000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 669,
+      "id": "3000:669:UTILITY3000:0:DENTAL CLINIC:UTDEN005"
+    },
+    {
+      "billname": "UTILITY5000",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 670,
+      "id": "5000:670:UTILITY5000:0:DENTAL CLINIC:UTDEN006"
+    },
+    {
+      "billname": "UTILITY10000",
+      "billcost": 10000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 671,
+      "id": "10000:671:UTILITY10000:0:DENTAL CLINIC:UTDEN007"
+    },
+    {
+      "billname": "PROCELAIN FUSED TO METAL CROWN",
+      "billcost": 80000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 716,
+      "id": "80000:716:PROCELAIN FUSED TO METAL CROWN:0:DENTAL CLINIC:PFM"
+    },
+    {
+      "billname": "UPPER + LOWER",
+      "billcost": 130000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 717,
+      "id": "130000:717:UPPER + LOWER:0:DENTAL CLINIC:UPL"
+    },
+    {
+      "billname": "ADVANCED CONSERVATION (ZIR)",
+      "billcost": 120000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1356,
+      "id": "120000:1356:ADVANCED CONSERVATION (ZIR):0:DENTAL CLINIC:"
+    },
+    {
+      "billname": "PROSTHODONTICS (FLEXIBLE DENTURE)",
+      "billcost": 60000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1357,
+      "id": "60000:1357:PROSTHODONTICS (FLEXIBLE DENTURE):0:DENTAL CLINIC:"
+    },
+    {
+      "billname": "Ecclesia Relief per tooth",
+      "billcost": 2500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1515,
+      "id": "2500:1515:Ecclesia Relief per tooth:0:DENTAL CLINIC:"
+    },
+    {
+      "billname": "Amalgams filling",
+      "billcost": 15000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1516,
+      "id": "15000:1516:Amalgams filling:0:DENTAL CLINIC:"
+    },
+    {
+      "billname": "Composite filling (light cure)",
+      "billcost": 12000,
+      "status": 0,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1517,
+      "id": "12000:1517:Composite filling (light cure):0:DENTAL CLINIC:"
+    },
+    {
+      "billname": "Temporary Dressings with Zoe",
+      "billcost": 6000,
+      "status": 0,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1518,
+      "id": "6000:1518:Temporary Dressings with Zoe:0:DENTAL CLINIC:"
+    },
+    {
+      "billname": "Crown Recementation",
+      "billcost": 5500,
+      "status": 0,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1519,
+      "id": "5500:1519:Crown Recementation:0:DENTAL CLINIC:"
+    },
+    {
+      "billname": "Recementation with Gig",
+      "billcost": 12000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1520,
+      "id": "12000:1520:Recementation with Gig:0:DENTAL CLINIC:"
+    },
+    {
+      "billname": "Crown build up",
+      "billcost": 20000,
+      "status": 0,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1521,
+      "id": "20000:1521:Crown build up:0:DENTAL CLINIC:"
+    },
+    {
+      "billname": "Scaling and polishing(moderate) ",
+      "billcost": 18000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1522,
+      "id": "18000:1522:Scaling and polishing(moderate) :0:DENTAL CLINIC:"
+    },
+    {
+      "billname": "Scaling and polishing(severe)",
+      "billcost": 20000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1523,
+      "id": "20000:1523:Scaling and polishing(severe):0:DENTAL CLINIC:"
+    },
+    {
+      "billname": "Deep curettage per tooth",
+      "billcost": 1500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1524,
+      "id": "1500:1524:Deep curettage per tooth:0:DENTAL CLINIC:"
+    },
+    {
+      "billname": "Gingivectomy per tooth",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1525,
+      "id": "5000:1525:Gingivectomy per tooth:0:DENTAL CLINIC:"
+    },
+    {
+      "billname": "Full Denture Lower",
+      "billcost": 80000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1526,
+      "id": "80000:1526:Full Denture Lower:0:DENTAL CLINIC:"
+    },
+    {
+      "billname": "Biopsy",
+      "billcost": 30000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1527,
+      "id": "30000:1527:Biopsy:0:DENTAL CLINIC:"
+    },
+    {
+      "billname": "Osteotomy per jaw",
+      "billcost": 150000,
+      "status": 0,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1528,
+      "id": "150000:1528:Osteotomy per jaw:0:DENTAL CLINIC:"
+    },
+    {
+      "billname": "Mouth Guard",
+      "billcost": 30000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1529,
+      "id": "30000:1529:Mouth Guard:0:DENTAL CLINIC:"
+    },
+    {
+      "billname": "Recementation of fractured orthodontic appliance",
+      "billcost": 50000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1530,
+      "id": "50000:1530:Recementation of fractured orthodontic appliance:0:DENTAL CLINIC:"
+    },
+    {
+      "billname": "Composite",
+      "billcost": 30000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1531,
+      "id": "30000:1531:Composite:0:DENTAL CLINIC:"
+    },
+    {
+      "billname": "Space Maintainer",
+      "billcost": 15000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1532,
+      "id": "15000:1532:Space Maintainer:0:DENTAL CLINIC:"
+    },
+    {
+      "billname": "Zirconia excluding way bill",
+      "billcost": 130000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1533,
+      "id": "130000:1533:Zirconia excluding way bill:0:DENTAL CLINIC:"
+    },
+    {
+      "billname": "Silver Crowns",
+      "billcost": 15000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1534,
+      "id": "15000:1534:Silver Crowns:0:DENTAL CLINIC:"
+    },
+    {
+      "billname": "Temporary Crowns ",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1535,
+      "id": "5000:1535:Temporary Crowns :0:DENTAL CLINIC:"
+    },
+    {
+      "billname": "Regeneration",
+      "billcost": 45000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1536,
+      "id": "45000:1536:Regeneration:0:DENTAL CLINIC:"
+    },
+    {
+      "billname": "Molar ",
+      "billcost": 45000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1537,
+      "id": "45000:1537:Molar :0:DENTAL CLINIC:"
+    },
+    {
+      "billname": "CONSULATION FOR MEDICATION",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1539,
+      "id": "5000:1539:CONSULATION FOR MEDICATION:0:DENTAL CLINIC:DU001"
+    },
+    {
+      "billname": "SPLINT WIRE",
+      "billcost": 16000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1674,
+      "id": "16000:1674:SPLINT WIRE:0:DENTAL CLINIC:"
+    },
+    {
+      "billname": "ACRYLIC",
+      "billcost": 30000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1675,
+      "id": "30000:1675:ACRYLIC:0:DENTAL CLINIC:"
+    },
+    {
+      "billname": "ARCH BARS",
+      "billcost": 35000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1676,
+      "id": "35000:1676:ARCH BARS:0:DENTAL CLINIC:"
+    },
+    {
+      "billname": "EYELETS",
+      "billcost": 25000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1677,
+      "id": "25000:1677:EYELETS:0:DENTAL CLINIC:"
+    },
+    {
+      "billname": "POST RETAINED BUILD UP ADDITION AJC",
+      "billcost": 30000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1678,
+      "id": "30000:1678:POST RETAINED BUILD UP ADDITION AJC:0:DENTAL CLINIC:"
+    },
+    {
+      "billname": "SURGICAL EXTRACTION OF IMPACTED WISDOM TOOTH (MILD)",
+      "billcost": 25000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1679,
+      "id": "25000:1679:SURGICAL EXTRACTION OF IMPACTED WISDOM TOOTH (MILD):0:DENTAL CLINIC:"
+    },
+    {
+      "billname": "SURGICAL EXTRACTION OF IMPACTED WISDOM TOOTH (MODERATE)",
+      "billcost": 28000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1681,
+      "id": "28000:1681:SURGICAL EXTRACTION OF IMPACTED WISDOM TOOTH (MODERATE):0:DENTAL CLINIC:"
+    },
+    {
+      "billname": "SURGICAL EXTRACTION OF IMPACTED WISDOM TOOTH (SEVERE)",
+      "billcost": 35000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1682,
+      "id": "35000:1682:SURGICAL EXTRACTION OF IMPACTED WISDOM TOOTH (SEVERE):0:DENTAL CLINIC:"
+    },
+    {
+      "billname": "TOOTH WHITENING (MILD)",
+      "billcost": 50000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1796,
+      "id": "50000:1796:TOOTH WHITENING (MILD):0:DENTAL CLINIC:TWM"
+    },
+    {
+      "billname": "TOOTH WHITENING (MORDERATE)",
+      "billcost": "60000",
+      "status": 1,
+      "nf_price": "0",
+      "hmo_fees": "",
+      "sno": 1797,
+      "id": "60000:1797:TOOTH WHITENING (MORDERATE):0:DENTAL CLINIC:TWM002"
+    },
+    {
+      "billname": "TOOTH WHITENING (SEVERE)",
+      "billcost": "70000",
+      "status": 1,
+      "nf_price": "0",
+      "hmo_fees": "",
+      "sno": 1798,
+      "id": "70000:1798:TOOTH WHITENING (SEVERE):0:DENTAL CLINIC:TWS"
+    },
+    {
+      "billname": "INTERDENTAL BRUSH",
+      "billcost": "2300",
+      "status": 1,
+      "nf_price": "0",
+      "hmo_fees": "",
+      "sno": 1799,
+      "id": "2300:1799:INTERDENTAL BRUSH:0:DENTAL CLINIC:INTB001"
+    },
+    {
+      "billname": "WOUND DRESSING (SMALL)",
+      "billcost": "10000",
+      "status": 1,
+      "nf_price": "0",
+      "hmo_fees": "",
+      "sno": 1800,
+      "id": "10000:1800:WOUND DRESSING (SMALL):0:DENTAL CLINIC:WDR"
+    },
+    {
+      "billname": "WOUND DRESSING (LARGE)",
+      "billcost": "20000",
+      "status": 1,
+      "nf_price": "0",
+      "hmo_fees": "",
+      "sno": 1801,
+      "id": "20000:1801:WOUND DRESSING (LARGE):0:DENTAL CLINIC:WDL"
+    },
+    {
+      "billname": "SOY BEANS MIX",
+      "billcost": "5000",
+      "status": 1,
+      "nf_price": "0",
+      "hmo_fees": "NO",
+      "sno": 1833,
+      "id": "5000:1833:SOY BEANS MIX:0:DENTAL CLINIC:SOB001"
+    }
+  ]
+}

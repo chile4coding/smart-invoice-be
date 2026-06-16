@@ -1,0 +1,59 @@
+{
+  "unit": "MEDICAL OXYGEN",
+  "items": [
+    {
+      "billname": "SMALL OXYGEN",
+      "billcost": 10000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 773,
+      "id": "10000:773:SMALL OXYGEN:0:MEDICAL OXYGEN:SO001"
+    },
+    {
+      "billname": "LARGE OXYGEN",
+      "billcost": 19000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 774,
+      "id": "19000:774:LARGE OXYGEN:0:MEDICAL OXYGEN:LO001"
+    },
+    {
+      "billname": "OXYGEN FOR O&G THEATRE",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 775,
+      "id": "5000:775:OXYGEN FOR O&G THEATRE:0:MEDICAL OXYGEN:OT001"
+    },
+    {
+      "billname": "UTILITY1000",
+      "billcost": 1000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 776,
+      "id": "1000:776:UTILITY1000:0:MEDICAL OXYGEN:OT001"
+    },
+    {
+      "billname": "OXYGEN FOR MODULAR THEATRE",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1477,
+      "id": "5000:1477:OXYGEN FOR MODULAR THEATRE:0:MEDICAL OXYGEN:"
+    },
+    {
+      "billname": "OXYGEN FOR ANNEX",
+      "billcost": 10000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1730,
+      "id": "10000:1730:OXYGEN FOR ANNEX:0:MEDICAL OXYGEN:00OFA"
+    }
+  ]
+}

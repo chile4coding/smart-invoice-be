@@ -1,0 +1,311 @@
+{
+  "unit": "ANAESTHESIA",
+  "items": [
+    {
+      "billname": "ANAESTHESIA FEE (MINOR)",
+      "billcost": 55000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 39,
+      "id": "55000:39:ANAESTHESIA FEE (MINOR):0:ANAESTHESIA:ANAFM"
+    },
+    {
+      "billname": "ANAESTHESIA FEE (INTERMEDIATE)",
+      "billcost": 70000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 40,
+      "id": "70000:40:ANAESTHESIA FEE (INTERMEDIATE):0:ANAESTHESIA:ANAFI"
+    },
+    {
+      "billname": "ANAESTHESIA FEE (MAJOR)",
+      "billcost": 90000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 41,
+      "id": "90000:41:ANAESTHESIA FEE (MAJOR):0:ANAESTHESIA:ANAFMJ"
+    },
+    {
+      "billname": "ANAESTHESIA FEE (SUPRAMAJOR)",
+      "billcost": 110000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 42,
+      "id": "110000:42:ANAESTHESIA FEE (SUPRAMAJOR):0:ANAESTHESIA:ANAFSM"
+    },
+    {
+      "billname": "ANAESTHETIC FEE (MINOR)",
+      "billcost": 55000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 146,
+      "id": "55000:146:ANAESTHETIC FEE (MINOR):0:ANAESTHESIA:ANAMN"
+    },
+    {
+      "billname": "ANAESTHETIC FEE (INTERMEDIATE)",
+      "billcost": 70000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 147,
+      "id": "70000:147:ANAESTHETIC FEE (INTERMEDIATE):0:ANAESTHESIA:ANAINT"
+    },
+    {
+      "billname": "ANAESTHETIC FEE (MAJOR)",
+      "billcost": 90000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 148,
+      "id": "90000:148:ANAESTHETIC FEE (MAJOR):0:ANAESTHESIA:ANAMJ"
+    },
+    {
+      "billname": "ANAESTHETIC FEE (SUPRAMAJOR)",
+      "billcost": 0,
+      "status": 0,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 149,
+      "id": "0:149:ANAESTHETIC FEE (SUPRAMAJOR):0:ANAESTHESIA:ANASMJ"
+    },
+    {
+      "billname": "ANAESTHESIA FEE (PART PAYMENT)",
+      "billcost": 50000,
+      "status": 1,
+      "nf_price": 1,
+      "hmo_fees": "",
+      "sno": 393,
+      "id": "50000:393:ANAESTHESIA FEE (PART PAYMENT):1:ANAESTHESIA:364"
+    },
+    {
+      "billname": "UTILITY 1",
+      "billcost": 1000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 649,
+      "id": "1000:649:UTILITY 1:0:ANAESTHESIA:UTA001"
+    },
+    {
+      "billname": "UTILITY 2",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 650,
+      "id": "2000:650:UTILITY 2:0:ANAESTHESIA:UTA002"
+    },
+    {
+      "billname": "UTILITY 3",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 651,
+      "id": "5000:651:UTILITY 3:0:ANAESTHESIA:UTA003"
+    },
+    {
+      "billname": "UTILITY 4",
+      "billcost": 7000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 652,
+      "id": "7000:652:UTILITY 4:0:ANAESTHESIA:UTA004"
+    },
+    {
+      "billname": "CENTRAL LINE WITHOUT PACK",
+      "billcost": 40000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 740,
+      "id": "40000:740:CENTRAL LINE WITHOUT PACK:0:ANAESTHESIA:CLWP"
+    },
+    {
+      "billname": "CENTRAL LINE WITH PACK",
+      "billcost": 60000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 741,
+      "id": "60000:741:CENTRAL LINE WITH PACK:0:ANAESTHESIA:CLWP"
+    },
+    {
+      "billname": "LUMBAR PUNCTURE",
+      "billcost": 15000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 742,
+      "id": "15000:742:LUMBAR PUNCTURE:0:ANAESTHESIA:LUP"
+    },
+    {
+      "billname": "EPIDURAL FOR LABOUR ANALGESIA",
+      "billcost": 27000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 743,
+      "id": "27000:743:EPIDURAL FOR LABOUR ANALGESIA:0:ANAESTHESIA:EPL"
+    },
+    {
+      "billname": "MRI FOR CHILD",
+      "billcost": 35000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 853,
+      "id": "35000:853:MRI FOR CHILD:0:ANAESTHESIA:MAI001"
+    },
+    {
+      "billname": "MRI FOR ADULT",
+      "billcost": 35000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 854,
+      "id": "35000:854:MRI FOR ADULT:0:ANAESTHESIA:MAI002"
+    },
+    {
+      "billname": "MONITORED ANAESTHESIA CARE",
+      "billcost": 15000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 855,
+      "id": "15000:855:MONITORED ANAESTHESIA CARE:0:ANAESTHESIA:MAI003"
+    },
+    {
+      "billname": "UTILITY 10000",
+      "billcost": 10000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 856,
+      "id": "10000:856:UTILITY 10000:0:ANAESTHESIA:UTI1000"
+    },
+    {
+      "billname": "MINOR (PAEDIATRIC)",
+      "billcost": 30000,
+      "status": 0,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1416,
+      "id": "30000:1416:MINOR (PAEDIATRIC):0:ANAESTHESIA:"
+    },
+    {
+      "billname": "INTERMIEDIATE (PAEDIATRIC)",
+      "billcost": 60000,
+      "status": 0,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1417,
+      "id": "60000:1417:INTERMIEDIATE (PAEDIATRIC):0:ANAESTHESIA:"
+    },
+    {
+      "billname": "MAJOR (PAEDIATRIC)",
+      "billcost": 80000,
+      "status": 0,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1418,
+      "id": "80000:1418:MAJOR (PAEDIATRIC):0:ANAESTHESIA:"
+    },
+    {
+      "billname": "SUPRAMAJOR (PAEDIATRIC)",
+      "billcost": 100000,
+      "status": 0,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1419,
+      "id": "100000:1419:SUPRAMAJOR (PAEDIATRIC):0:ANAESTHESIA:"
+    },
+    {
+      "billname": "MINOR (ANA PAED)",
+      "billcost": 30000,
+      "status": 0,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1424,
+      "id": "30000:1424:MINOR (ANA PAED):0:ANAESTHESIA:"
+    },
+    {
+      "billname": "ANAESTHETIC FEE (PAEDIATRIC MINOR)",
+      "billcost": 30000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1432,
+      "id": "30000:1432:ANAESTHETIC FEE (PAEDIATRIC MINOR):0:ANAESTHESIA:"
+    },
+    {
+      "billname": "ANAESTHETIC FEE (PAEDIATRIC INTERMEDIATE)",
+      "billcost": 60000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1433,
+      "id": "60000:1433:ANAESTHETIC FEE (PAEDIATRIC INTERMEDIATE):0:ANAESTHESIA:"
+    },
+    {
+      "billname": "ANAESTHETIC FEE (PAEDIATRIC MAJOR)",
+      "billcost": 80000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1434,
+      "id": "80000:1434:ANAESTHETIC FEE (PAEDIATRIC MAJOR):0:ANAESTHESIA:"
+    },
+    {
+      "billname": "ANAESTHETIC FEE (PAEDIATRIC SUPRAMAJOR)",
+      "billcost": 100000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1435,
+      "id": "100000:1435:ANAESTHETIC FEE (PAEDIATRIC SUPRAMAJOR):0:ANAESTHESIA:"
+    },
+    {
+      "billname": "SURGICAL OXYGEN - O&G ",
+      "billcost": 6000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1733,
+      "id": "6000:1733:SURGICAL OXYGEN - O&G :0:ANAESTHESIA:SOOG001"
+    },
+    {
+      "billname": "SURGICAL OXYGEN - ANNEX",
+      "billcost": 6000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1734,
+      "id": "6000:1734:SURGICAL OXYGEN - ANNEX:0:ANAESTHESIA:SOA001"
+    },
+    {
+      "billname": "SURGICAL OXYGEN - SURGERY",
+      "billcost": 6000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1735,
+      "id": "6000:1735:SURGICAL OXYGEN - SURGERY:0:ANAESTHESIA:SOA002"
+    },
+    {
+      "billname": "ANAESTHETIC FEE (SUPRAMAJOR)",
+      "billcost": "90000",
+      "status": 1,
+      "nf_price": "0",
+      "hmo_fees": "",
+      "sno": 1785,
+      "id": "90000:1785:ANAESTHETIC FEE (SUPRAMAJOR):0:ANAESTHESIA:ANASUP"
+    }
+  ]
+}

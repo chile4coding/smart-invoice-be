@@ -1,0 +1,4 @@
+-- AlterTable
+ALTER TABLE "department_fees" ALTER COLUMN "status" DROP NOT NULL,
+ALTER COLUMN "status" DROP DEFAULT,
+ALTER COLUMN "status" SET DATA TYPE TEXT;

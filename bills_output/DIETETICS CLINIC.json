@@ -1,0 +1,86 @@
+{
+  "unit": "DIETETICS CLINIC",
+  "items": [
+    {
+      "billname": "NUTRITION ASSESSMENT AND COUNSELING",
+      "billcost": 3000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1544,
+      "id": "3000:1544:NUTRITION ASSESSMENT AND COUNSELING:0:DIETETICS CLINIC:"
+    },
+    {
+      "billname": "DIET PLANS",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1545,
+      "id": "2000:1545:DIET PLANS:0:DIETETICS CLINIC:"
+    },
+    {
+      "billname": "IN-PATIENT MANAGEMENT",
+      "billcost": "4300",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1775,
+      "id": "4300:1775:IN-PATIENT MANAGEMENT:0:DIETETICS CLINIC:IPM001"
+    },
+    {
+      "billname": "Therapeutic Juice Diet",
+      "billcost": "150000",
+      "status": 1,
+      "nf_price": "1",
+      "hmo_fees": "",
+      "sno": 1811,
+      "id": "150000:1811:Therapeutic Juice Diet:1:DIETETICS CLINIC:TH001"
+    },
+    {
+      "billname": "CONSULTATION AND MEAL PLANNING",
+      "billcost": "5300",
+      "status": 1,
+      "nf_price": "0",
+      "hmo_fees": "NO",
+      "sno": 1829,
+      "id": "5300:1829:CONSULTATION AND MEAL PLANNING:0:DIETETICS CLINIC:CNSLT"
+    },
+    {
+      "billname": "PRODUCTION AND SALES OF TIGER NUT",
+      "billcost": "1000",
+      "status": 1,
+      "nf_price": "0",
+      "hmo_fees": "NO",
+      "sno": 1830,
+      "id": "1000:1830:PRODUCTION AND SALES OF TIGER NUT:0:DIETETICS CLINIC:PST0001"
+    },
+    {
+      "billname": "PRODUCTION AND SALES OF BEETROOT AND ZOBO",
+      "billcost": "1000",
+      "status": 1,
+      "nf_price": "0",
+      "hmo_fees": "NO",
+      "sno": 1831,
+      "id": "1000:1831:PRODUCTION AND SALES OF BEETROOT AND ZOBO:0:DIETETICS CLINIC:PST002"
+    },
+    {
+      "billname": "PRODUCTION AND SALES OF PINEAPPLE",
+      "billcost": "1000",
+      "status": 1,
+      "nf_price": "0",
+      "hmo_fees": "NO",
+      "sno": 1832,
+      "id": "1000:1832:PRODUCTION AND SALES OF PINEAPPLE:0:DIETETICS CLINIC:PST003"
+    },
+    {
+      "billname": "OAT SWALLOW",
+      "billcost": "10000",
+      "status": 1,
+      "nf_price": "0",
+      "hmo_fees": "NO",
+      "sno": 1834,
+      "id": "10000:1834:OAT SWALLOW:0:DIETETICS CLINIC:OSW001"
+    }
+  ]
+}

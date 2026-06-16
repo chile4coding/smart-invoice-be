@@ -1,0 +1,410 @@
+{
+  "unit": "MINIMAL ACCESS UNIT",
+  "items": [
+    {
+      "billname": "TURP - ENDOUROLOGY",
+      "billcost": 365500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1489,
+      "id": "365500:1489:TURP - ENDOUROLOGY:0:MINIMAL ACCESS UNIT:"
+    },
+    {
+      "billname": "CYSTOSCOPY - ENDOUROLOGY",
+      "billcost": 115500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1490,
+      "id": "115500:1490:CYSTOSCOPY - ENDOUROLOGY:0:MINIMAL ACCESS UNIT:"
+    },
+    {
+      "billname": "DIANOSTIC URETEROSOCOPY- ENDOUROLOGY",
+      "billcost": 400000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1491,
+      "id": "400000:1491:DIANOSTIC URETEROSOCOPY- ENDOUROLOGY:0:MINIMAL ACCESS UNIT:"
+    },
+    {
+      "billname": "RETROGRADE INTRA RENAL SURGERY -ENDOUROLOGY ",
+      "billcost": 458000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1492,
+      "id": "458000:1492:RETROGRADE INTRA RENAL SURGERY -ENDOUROLOGY :0:MINIMAL ACCESS UNIT:"
+    },
+    {
+      "billname": "PCNL - ENDOUROLOGY",
+      "billcost": 458000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1493,
+      "id": "458000:1493:PCNL - ENDOUROLOGY:0:MINIMAL ACCESS UNIT:"
+    },
+    {
+      "billname": "LAPAROSCOPIC VARICOCELECTOMY - ENDOUROLOGY",
+      "billcost": 543000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1494,
+      "id": "543000:1494:LAPAROSCOPIC VARICOCELECTOMY - ENDOUROLOGY:0:MINIMAL ACCESS UNIT:"
+    },
+    {
+      "billname": "LAPROSCOPIC NEPHRECTOMY - ENDOUROLOGY",
+      "billcost": 1200000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1495,
+      "id": "1200000:1495:LAPROSCOPIC NEPHRECTOMY - ENDOUROLOGY:0:MINIMAL ACCESS UNIT:"
+    },
+    {
+      "billname": "LAPROSCOPIC PYELOPLASTY - ENDOUROLOGY",
+      "billcost": 1000000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1496,
+      "id": "1000000:1496:LAPROSCOPIC PYELOPLASTY - ENDOUROLOGY:0:MINIMAL ACCESS UNIT:"
+    },
+    {
+      "billname": "LAPROSCOPIC RADICAL PROSTATECTOMY - ENDOUROLOGY",
+      "billcost": 2000000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1497,
+      "id": "2000000:1497:LAPROSCOPIC RADICAL PROSTATECTOMY - ENDOUROLOGY:0:MINIMAL ACCESS UNIT:"
+    },
+    {
+      "billname": "DIAGNOSTIC HYSTEROSCOPY - O&G",
+      "billcost": 200000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1498,
+      "id": "200000:1498:DIAGNOSTIC HYSTEROSCOPY - O&G:0:MINIMAL ACCESS UNIT:"
+    },
+    {
+      "billname": "DIAGNOSTIC LAPAROSCOPY - O&G",
+      "billcost": 200000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1499,
+      "id": "200000:1499:DIAGNOSTIC LAPAROSCOPY - O&G:0:MINIMAL ACCESS UNIT:"
+    },
+    {
+      "billname": "HYSTEROSCOPIC ADHESIOLYSIS - O&G",
+      "billcost": 400000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1500,
+      "id": "400000:1500:HYSTEROSCOPIC ADHESIOLYSIS - O&G:0:MINIMAL ACCESS UNIT:"
+    },
+    {
+      "billname": "HYSTEROSCOPIC POLYPECTOMY - O&G",
+      "billcost": 500000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1501,
+      "id": "500000:1501:HYSTEROSCOPIC POLYPECTOMY - O&G:0:MINIMAL ACCESS UNIT:"
+    },
+    {
+      "billname": "HYSTEROSCOPIC MYOMECTOMY - O&G",
+      "billcost": 1200000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1502,
+      "id": "1200000:1502:HYSTEROSCOPIC MYOMECTOMY - O&G:0:MINIMAL ACCESS UNIT:"
+    },
+    {
+      "billname": "LAPAROSCOPIC OVARIAN CYSTECTOMY - O&G",
+      "billcost": 1500000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1503,
+      "id": "1500000:1503:LAPAROSCOPIC OVARIAN CYSTECTOMY - O&G:0:MINIMAL ACCESS UNIT:"
+    },
+    {
+      "billname": "LAPAROSCOPIC MYOMECTOMY - O&G",
+      "billcost": 0,
+      "status": 1,
+      "nf_price": 1,
+      "hmo_fees": "",
+      "sno": 1504,
+      "id": "0:1504:LAPAROSCOPIC MYOMECTOMY - O&G:1:MINIMAL ACCESS UNIT:LAMY"
+    },
+    {
+      "billname": "UTILITY(15000)- O&G",
+      "billcost": 15000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1506,
+      "id": "15000:1506:UTILITY(15000)- O&G:0:MINIMAL ACCESS UNIT:"
+    },
+    {
+      "billname": "UTILITY(10000)- SURGERY",
+      "billcost": 10000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1507,
+      "id": "10000:1507:UTILITY(10000)- SURGERY:0:MINIMAL ACCESS UNIT:"
+    },
+    {
+      "billname": "ANAESTHESIA MINOR",
+      "billcost": 50000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1582,
+      "id": "50000:1582:ANAESTHESIA MINOR:0:MINIMAL ACCESS UNIT:"
+    },
+    {
+      "billname": "ANAESTHESIA INTERMEDIATE",
+      "billcost": 100000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1583,
+      "id": "100000:1583:ANAESTHESIA INTERMEDIATE:0:MINIMAL ACCESS UNIT:"
+    },
+    {
+      "billname": "UTILITY(10000)- O&G",
+      "billcost": 10000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1584,
+      "id": "10000:1584:UTILITY(10000)- O&G:0:MINIMAL ACCESS UNIT:"
+    },
+    {
+      "billname": "UTILITY(15000)- SURGERY",
+      "billcost": 15000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1585,
+      "id": "15000:1585:UTILITY(15000)- SURGERY:0:MINIMAL ACCESS UNIT:"
+    },
+    {
+      "billname": "LAPAROSCOPIC CHOLECYSTECTOMY - SURGERY",
+      "billcost": 1200000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1586,
+      "id": "1200000:1586:LAPAROSCOPIC CHOLECYSTECTOMY - SURGERY:0:MINIMAL ACCESS UNIT:"
+    },
+    {
+      "billname": "LAPAROSCOPIC APPENDICECTOMY - SURGERY",
+      "billcost": 1000000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1587,
+      "id": "1000000:1587:LAPAROSCOPIC APPENDICECTOMY - SURGERY:0:MINIMAL ACCESS UNIT:"
+    },
+    {
+      "billname": "DIAGNOSTIC LAPAROSCOPY - SURGEY",
+      "billcost": 800000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1588,
+      "id": "800000:1588:DIAGNOSTIC LAPAROSCOPY - SURGEY:0:MINIMAL ACCESS UNIT:"
+    },
+    {
+      "billname": "LAPAROSCOPIC ADHESIOLYSIS - SURGERY",
+      "billcost": 1000000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1589,
+      "id": "1000000:1589:LAPAROSCOPIC ADHESIOLYSIS - SURGERY:0:MINIMAL ACCESS UNIT:"
+    },
+    {
+      "billname": "LAPAROSCOPIC HERNIORRHAPHY - SURGERY",
+      "billcost": 1500000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1590,
+      "id": "1500000:1590:LAPAROSCOPIC HERNIORRHAPHY - SURGERY:0:MINIMAL ACCESS UNIT:"
+    },
+    {
+      "billname": "LAPAROSCOPIC GASTRECTOMY - SURGEY",
+      "billcost": 2500000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1592,
+      "id": "2500000:1592:LAPAROSCOPIC GASTRECTOMY - SURGEY:0:MINIMAL ACCESS UNIT:"
+    },
+    {
+      "billname": "LAPAROSCOPIC FUNDOPLICATION- SURGERY",
+      "billcost": 2500000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1593,
+      "id": "2500000:1593:LAPAROSCOPIC FUNDOPLICATION- SURGERY:0:MINIMAL ACCESS UNIT:"
+    },
+    {
+      "billname": "LAPAROSCOPIC RIGHT HEMICOLECTOMY - SURGERY",
+      "billcost": 2000000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1594,
+      "id": "2000000:1594:LAPAROSCOPIC RIGHT HEMICOLECTOMY - SURGERY:0:MINIMAL ACCESS UNIT:"
+    },
+    {
+      "billname": "LAPAROSCOPIC RESECTION OF SMALL BOWEL TUMOUR",
+      "billcost": 2000000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1595,
+      "id": "2000000:1595:LAPAROSCOPIC RESECTION OF SMALL BOWEL TUMOUR:0:MINIMAL ACCESS UNIT:"
+    },
+    {
+      "billname": "ANAESTHESIA MAJOR",
+      "billcost": 250000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1597,
+      "id": "250000:1597:ANAESTHESIA MAJOR:0:MINIMAL ACCESS UNIT:"
+    },
+    {
+      "billname": "ANAESTHESIA SUPRA MAJOR B",
+      "billcost": 350000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1598,
+      "id": "350000:1598:ANAESTHESIA SUPRA MAJOR B:0:MINIMAL ACCESS UNIT:"
+    },
+    {
+      "billname": "ANAESTHESIA SUPRA MAJOR C",
+      "billcost": 400000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1600,
+      "id": "400000:1600:ANAESTHESIA SUPRA MAJOR C:0:MINIMAL ACCESS UNIT:"
+    },
+    {
+      "billname": "THEATRE FEE MINOR",
+      "billcost": 16000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1605,
+      "id": "16000:1605:THEATRE FEE MINOR:0:MINIMAL ACCESS UNIT:"
+    },
+    {
+      "billname": "THEATRE FEE INTERMEDIATE",
+      "billcost": 16000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1608,
+      "id": "16000:1608:THEATRE FEE INTERMEDIATE:0:MINIMAL ACCESS UNIT:"
+    },
+    {
+      "billname": "THEATRE FEE MAJOR",
+      "billcost": 22000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1611,
+      "id": "22000:1611:THEATRE FEE MAJOR:0:MINIMAL ACCESS UNIT:"
+    },
+    {
+      "billname": "THEATRE FEE SUPRAMAJOR B",
+      "billcost": 30000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1612,
+      "id": "30000:1612:THEATRE FEE SUPRAMAJOR B:0:MINIMAL ACCESS UNIT:"
+    },
+    {
+      "billname": "THEATRE FEE SUPRAMAJOR C",
+      "billcost": 30000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1613,
+      "id": "30000:1613:THEATRE FEE SUPRAMAJOR C:0:MINIMAL ACCESS UNIT:"
+    },
+    {
+      "billname": "CSSD MINOR",
+      "billcost": 3500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1614,
+      "id": "3500:1614:CSSD MINOR:0:MINIMAL ACCESS UNIT:"
+    },
+    {
+      "billname": "CSSD INTERMEDIATE",
+      "billcost": 3500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1615,
+      "id": "3500:1615:CSSD INTERMEDIATE:0:MINIMAL ACCESS UNIT:"
+    },
+    {
+      "billname": "CSSD MAJOR",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1616,
+      "id": "5000:1616:CSSD MAJOR:0:MINIMAL ACCESS UNIT:"
+    },
+    {
+      "billname": "CSSD SUPRAMAJOR B",
+      "billcost": 7000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1617,
+      "id": "7000:1617:CSSD SUPRAMAJOR B:0:MINIMAL ACCESS UNIT:"
+    },
+    {
+      "billname": "CSSD SUPRAMAJOR C",
+      "billcost": 7000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1618,
+      "id": "7000:1618:CSSD SUPRAMAJOR C:0:MINIMAL ACCESS UNIT:"
+    },
+    {
+      "billname": "ADMISSION DEPOSIT",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1619,
+      "id": "5000:1619:ADMISSION DEPOSIT:0:MINIMAL ACCESS UNIT:"
+    }
+  ]
+}

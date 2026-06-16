@@ -1,0 +1,986 @@
+{
+  "unit": "OBSTETRICS AND GYNAECOLOGY",
+  "items": [
+    {
+      "billname": "CONSULTATION FEE",
+      "billcost": 2200,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 145,
+      "id": "2200:145:CONSULTATION FEE:0:OBSTETRICS AND GYNAECOLOGY:CNSLT"
+    },
+    {
+      "billname": "IMMUNIZATION CARD",
+      "billcost": 500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 225,
+      "id": "500:225:IMMUNIZATION CARD:0:OBSTETRICS AND GYNAECOLOGY:IMC"
+    },
+    {
+      "billname": "ANTENATAL CARE REGISTRATION",
+      "billcost": 15000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 226,
+      "id": "15000:226:ANTENATAL CARE REGISTRATION:0:OBSTETRICS AND GYNAECOLOGY:ANC"
+    },
+    {
+      "billname": "ADMISSION-INITIAL DEPOSIT",
+      "billcost": 10000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 228,
+      "id": "10000:228:ADMISSION-INITIAL DEPOSIT:0:OBSTETRICS AND GYNAECOLOGY:AND"
+    },
+    {
+      "billname": "NURSING CARE (PER DAY)",
+      "billcost": 1000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 229,
+      "id": "1000:229:NURSING CARE (PER DAY):0:OBSTETRICS AND GYNAECOLOGY:NC"
+    },
+    {
+      "billname": "BED FEE (PER DAY)",
+      "billcost": 1000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 230,
+      "id": "1000:230:BED FEE (PER DAY):0:OBSTETRICS AND GYNAECOLOGY:BF"
+    },
+    {
+      "billname": "CONSUMABLES",
+      "billcost": 1000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 231,
+      "id": "1000:231:CONSUMABLES:0:OBSTETRICS AND GYNAECOLOGY:CSM"
+    },
+    {
+      "billname": "ADMISSION (OBSERVATION)",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 232,
+      "id": "2000:232:ADMISSION (OBSERVATION):0:OBSTETRICS AND GYNAECOLOGY:ADOB"
+    },
+    {
+      "billname": "INITIAL DEPOSIT (DELIVERY)",
+      "billcost": 15000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 233,
+      "id": "15000:233:INITIAL DEPOSIT (DELIVERY):0:OBSTETRICS AND GYNAECOLOGY:INTD"
+    },
+    {
+      "billname": "PLACENTA MANUAL REMOVAL (REGISTERED)",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 234,
+      "id": "5000:234:PLACENTA MANUAL REMOVAL (REGISTERED):0:OBSTETRICS AND GYNAECOLOGY:MPR"
+    },
+    {
+      "billname": "PLACENTA MANUAL REMOVAL (UNREGISTERED)",
+      "billcost": 10000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 235,
+      "id": "10000:235:PLACENTA MANUAL REMOVAL (UNREGISTERED):0:OBSTETRICS AND GYNAECOLOGY:MPR2"
+    },
+    {
+      "billname": "INDUCTION OF LABOUR",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 236,
+      "id": "5000:236:INDUCTION OF LABOUR:0:OBSTETRICS AND GYNAECOLOGY:INDL"
+    },
+    {
+      "billname": "CERVICAL TEAR REPAIR",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 237,
+      "id": "5000:237:CERVICAL TEAR REPAIR:0:OBSTETRICS AND GYNAECOLOGY:CVTR"
+    },
+    {
+      "billname": "MANUAL VACUUM ASPIRATION",
+      "billcost": 15000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 238,
+      "id": "15000:238:MANUAL VACUUM ASPIRATION:0:OBSTETRICS AND GYNAECOLOGY:MVAS"
+    },
+    {
+      "billname": "BLOOD TRANSFUSION (EXCLUDING BLOOD)",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 243,
+      "id": "2000:243:BLOOD TRANSFUSION (EXCLUDING BLOOD):0:OBSTETRICS AND GYNAECOLOGY:BTF"
+    },
+    {
+      "billname": "NEBULIZATION ( PER SESSION)",
+      "billcost": 2500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 244,
+      "id": "2500:244:NEBULIZATION ( PER SESSION):0:OBSTETRICS AND GYNAECOLOGY:NBLZ"
+    },
+    {
+      "billname": "OXYGEN THERAPHY (PER DAY)",
+      "billcost": 3000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 245,
+      "id": "3000:245:OXYGEN THERAPHY (PER DAY):0:OBSTETRICS AND GYNAECOLOGY:OXY"
+    },
+    {
+      "billname": "PHOTOTHERAPHY (PER DAY)",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 246,
+      "id": "5000:246:PHOTOTHERAPHY (PER DAY):0:OBSTETRICS AND GYNAECOLOGY:PHT"
+    },
+    {
+      "billname": "RECTAL EXAMINATION",
+      "billcost": 1000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 247,
+      "id": "1000:247:RECTAL EXAMINATION:0:OBSTETRICS AND GYNAECOLOGY:RECEX"
+    },
+    {
+      "billname": "INCISION AND DRAINAGE OF ABCESSES",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 249,
+      "id": "2000:249:INCISION AND DRAINAGE OF ABCESSES:0:OBSTETRICS AND GYNAECOLOGY:IADAB"
+    },
+    {
+      "billname": "CIRCUMCISION (WITH PLASTIBEL)",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 250,
+      "id": "5000:250:CIRCUMCISION (WITH PLASTIBEL):0:OBSTETRICS AND GYNAECOLOGY:CIRCU"
+    },
+    {
+      "billname": "SUTURING: MINOR",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 251,
+      "id": "2000:251:SUTURING: MINOR:0:OBSTETRICS AND GYNAECOLOGY:SUTMIN"
+    },
+    {
+      "billname": "SUTURING: MEDIUM",
+      "billcost": 3000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 252,
+      "id": "3000:252:SUTURING: MEDIUM:0:OBSTETRICS AND GYNAECOLOGY:SUTMED"
+    },
+    {
+      "billname": "WOUND DRESSING/REMOVAL OF STITCHES: MINOR",
+      "billcost": 500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 253,
+      "id": "500:253:WOUND DRESSING/REMOVAL OF STITCHES: MINOR:0:OBSTETRICS AND GYNAECOLOGY:WNDR"
+    },
+    {
+      "billname": "WOUND DRESSING/REMOVAL OF STITCHES: MEDIUM",
+      "billcost": 1500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 254,
+      "id": "1500:254:WOUND DRESSING/REMOVAL OF STITCHES: MEDIUM:0:OBSTETRICS AND GYNAECOLOGY:WNDR2"
+    },
+    {
+      "billname": "WOUND DRESSING/REMOVAL OF STITCHES: LARGE",
+      "billcost": 3000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 255,
+      "id": "3000:255:WOUND DRESSING/REMOVAL OF STITCHES: LARGE:0:OBSTETRICS AND GYNAECOLOGY:WNDR3"
+    },
+    {
+      "billname": "EPISIOTOMY",
+      "billcost": 20000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 258,
+      "id": "20000:258:EPISIOTOMY:0:OBSTETRICS AND GYNAECOLOGY:EPIST"
+    },
+    {
+      "billname": "DELIVERY",
+      "billcost": 75000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 328,
+      "id": "75000:328:DELIVERY:0:OBSTETRICS AND GYNAECOLOGY:DELV"
+    },
+    {
+      "billname": "SURGERY FEE (O&G)",
+      "billcost": -2,
+      "status": 1,
+      "nf_price": 1,
+      "hmo_fees": "",
+      "sno": 392,
+      "id": "-2:392:SURGERY FEE (O&G):1:OBSTETRICS AND GYNAECOLOGY:SOG"
+    },
+    {
+      "billname": "OPERATION FEE (SUPRA MAJOR) - O&G",
+      "billcost": 270000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 400,
+      "id": "270000:400:OPERATION FEE (SUPRA MAJOR) - O&G:0:OBSTETRICS AND GYNAECOLOGY:OPFEE"
+    },
+    {
+      "billname": "OPERATION FEE (MAJOR C/S) - O& G",
+      "billcost": 50000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 401,
+      "id": "50000:401:OPERATION FEE (MAJOR C/S) - O& G:0:OBSTETRICS AND GYNAECOLOGY:OPFEE"
+    },
+    {
+      "billname": "OPERATION FEE (INTERMEDIATE) - O&G",
+      "billcost": 90000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 402,
+      "id": "90000:402:OPERATION FEE (INTERMEDIATE) - O&G:0:OBSTETRICS AND GYNAECOLOGY:OPFEE"
+    },
+    {
+      "billname": "OPERATION FEE (MINOR) - O&G",
+      "billcost": 20000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 403,
+      "id": "20000:403:OPERATION FEE (MINOR) - O&G:0:OBSTETRICS AND GYNAECOLOGY:OPFEE"
+    },
+    {
+      "billname": "ADMISSION DEPOSIT (GYNEA WARD)",
+      "billcost": 25000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 404,
+      "id": "25000:404:ADMISSION DEPOSIT (GYNEA WARD):0:OBSTETRICS AND GYNAECOLOGY:ADMFEE"
+    },
+    {
+      "billname": "ADMISSION DEPOSIT HEALTH CENTER UNBOOKED",
+      "billcost": 20000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 405,
+      "id": "20000:405:ADMISSION DEPOSIT HEALTH CENTER UNBOOKED:0:OBSTETRICS AND GYNAECOLOGY:ADMFEE"
+    },
+    {
+      "billname": "ADMISSION DEPOSIT HEALTH CENTER BOOKED",
+      "billcost": 12000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 406,
+      "id": "12000:406:ADMISSION DEPOSIT HEALTH CENTER BOOKED:0:OBSTETRICS AND GYNAECOLOGY:ADMFEE"
+    },
+    {
+      "billname": "ADMISSION DEPOSIT (RSUTH BOOKED)",
+      "billcost": 10000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 407,
+      "id": "10000:407:ADMISSION DEPOSIT (RSUTH BOOKED):0:OBSTETRICS AND GYNAECOLOGY:ADMFEE"
+    },
+    {
+      "billname": "DELIVERY FEE",
+      "billcost": 75000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 408,
+      "id": "75000:408:DELIVERY FEE:0:OBSTETRICS AND GYNAECOLOGY:DVFEE"
+    },
+    {
+      "billname": "MVA",
+      "billcost": 45000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 409,
+      "id": "45000:409:MVA:0:OBSTETRICS AND GYNAECOLOGY:MVA"
+    },
+    {
+      "billname": "CERVICAL/VAGINAL REPAIR",
+      "billcost": 55000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 410,
+      "id": "55000:410:CERVICAL/VAGINAL REPAIR:0:OBSTETRICS AND GYNAECOLOGY:CVR"
+    },
+    {
+      "billname": "BED FEE (EXTRA DAY)",
+      "billcost": 2500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 411,
+      "id": "2500:411:BED FEE (EXTRA DAY):0:OBSTETRICS AND GYNAECOLOGY:CVR"
+    },
+    {
+      "billname": "EPISIOTOMY REPAIR",
+      "billcost": 20000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 412,
+      "id": "20000:412:EPISIOTOMY REPAIR:0:OBSTETRICS AND GYNAECOLOGY:ER"
+    },
+    {
+      "billname": "SERVICE CHARGE (EXTRA DAY)",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 413,
+      "id": "2000:413:SERVICE CHARGE (EXTRA DAY):0:OBSTETRICS AND GYNAECOLOGY:SCH"
+    },
+    {
+      "billname": "DISCHARGE FEE",
+      "billcost": 0,
+      "status": 1,
+      "nf_price": 1,
+      "hmo_fees": "",
+      "sno": 416,
+      "id": "0:416:DISCHARGE FEE:1:OBSTETRICS AND GYNAECOLOGY:DFEE"
+    },
+    {
+      "billname": "FAMILY PLANNING FEE (LEVEL 1)",
+      "billcost": 500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 428,
+      "id": "500:428:FAMILY PLANNING FEE (LEVEL 1):0:OBSTETRICS AND GYNAECOLOGY:465"
+    },
+    {
+      "billname": "FAMILY PLANNING FEE (LEVEL 2)",
+      "billcost": 1000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 429,
+      "id": "1000:429:FAMILY PLANNING FEE (LEVEL 2):0:OBSTETRICS AND GYNAECOLOGY:466"
+    },
+    {
+      "billname": "FAMILY PLANNING FEE (LEVEL 3)",
+      "billcost": 1500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 430,
+      "id": "1500:430:FAMILY PLANNING FEE (LEVEL 3):0:OBSTETRICS AND GYNAECOLOGY:467"
+    },
+    {
+      "billname": "FAMILY PLANNING FEE (LEVEL 4)",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 431,
+      "id": "2000:431:FAMILY PLANNING FEE (LEVEL 4):0:OBSTETRICS AND GYNAECOLOGY:468"
+    },
+    {
+      "billname": "FAMILY PLANNING FEE (LEVEL 5)",
+      "billcost": 2500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 432,
+      "id": "2500:432:FAMILY PLANNING FEE (LEVEL 5):0:OBSTETRICS AND GYNAECOLOGY:469"
+    },
+    {
+      "billname": "MATERNITY LEAVE",
+      "billcost": 500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 433,
+      "id": "500:433:MATERNITY LEAVE:0:OBSTETRICS AND GYNAECOLOGY:470"
+    },
+    {
+      "billname": "CONSULTATION FEE (FIRST ANC)",
+      "billcost": 0,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 470,
+      "id": "0:470:CONSULTATION FEE (FIRST ANC):0:OBSTETRICS AND GYNAECOLOGY:CNSLT"
+    },
+    {
+      "billname": "VACUM EXTRATION",
+      "billcost": 12000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 566,
+      "id": "12000:566:VACUM EXTRATION:0:OBSTETRICS AND GYNAECOLOGY:VE001"
+    },
+    {
+      "billname": "CARDIO",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 567,
+      "id": "5000:567:CARDIO:0:OBSTETRICS AND GYNAECOLOGY:CAD001"
+    },
+    {
+      "billname": "TOCOGRAPHIC",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 568,
+      "id": "5000:568:TOCOGRAPHIC:0:OBSTETRICS AND GYNAECOLOGY:TOG001"
+    },
+    {
+      "billname": "MONITORING IN LABOUR(CTG)",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 569,
+      "id": "5000:569:MONITORING IN LABOUR(CTG):0:OBSTETRICS AND GYNAECOLOGY:CTG001"
+    },
+    {
+      "billname": "OYGEN ADMINSTRATION(ADULT)",
+      "billcost": 6000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 570,
+      "id": "6000:570:OYGEN ADMINSTRATION(ADULT):0:OBSTETRICS AND GYNAECOLOGY:OA001"
+    },
+    {
+      "billname": "OYGEN ADMINSTRATION(CHILD)",
+      "billcost": 3000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 571,
+      "id": "3000:571:OYGEN ADMINSTRATION(CHILD):0:OBSTETRICS AND GYNAECOLOGY:OA002"
+    },
+    {
+      "billname": "IMPLANT INSERTION",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 572,
+      "id": "2000:572:IMPLANT INSERTION:0:OBSTETRICS AND GYNAECOLOGY:IMI001"
+    },
+    {
+      "billname": "IMPLANT REMOVAL",
+      "billcost": 1500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 573,
+      "id": "1500:573:IMPLANT REMOVAL:0:OBSTETRICS AND GYNAECOLOGY:IMR001"
+    },
+    {
+      "billname": "IUCD INSERTION",
+      "billcost": 1500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 574,
+      "id": "1500:574:IUCD INSERTION:0:OBSTETRICS AND GYNAECOLOGY:IUC001"
+    },
+    {
+      "billname": "IUCD REMOVAL",
+      "billcost": 1500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 575,
+      "id": "1500:575:IUCD REMOVAL:0:OBSTETRICS AND GYNAECOLOGY:IUCR001"
+    },
+    {
+      "billname": "NEW CASE CARD",
+      "billcost": 1000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 576,
+      "id": "1000:576:NEW CASE CARD:0:OBSTETRICS AND GYNAECOLOGY:NCCR002"
+    },
+    {
+      "billname": "OLD CASE CARD",
+      "billcost": 1000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 577,
+      "id": "1000:577:OLD CASE CARD:0:OBSTETRICS AND GYNAECOLOGY:OCCR002"
+    },
+    {
+      "billname": "INJECTABLE FOLLOW UP",
+      "billcost": 1000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 578,
+      "id": "1000:578:INJECTABLE FOLLOW UP:0:OBSTETRICS AND GYNAECOLOGY:IFU001"
+    },
+    {
+      "billname": "PAPSMEAR/VIA/THERMAL ABLATION",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 586,
+      "id": "5000:586:PAPSMEAR/VIA/THERMAL ABLATION:0:OBSTETRICS AND GYNAECOLOGY:PVTA001"
+    },
+    {
+      "billname": "LEEP/LLETZ",
+      "billcost": 15000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 587,
+      "id": "15000:587:LEEP/LLETZ:0:OBSTETRICS AND GYNAECOLOGY:LLET001"
+    },
+    {
+      "billname": "CULPOSCOPY",
+      "billcost": 8000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 588,
+      "id": "8000:588:CULPOSCOPY:0:OBSTETRICS AND GYNAECOLOGY:CPS001"
+    },
+    {
+      "billname": "UTILITY CHARGE (EXTRA DAYS)",
+      "billcost": 200,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 593,
+      "id": "200:593:UTILITY CHARGE (EXTRA DAYS):0:OBSTETRICS AND GYNAECOLOGY:UTC002"
+    },
+    {
+      "billname": "UTILITY200",
+      "billcost": 200,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 604,
+      "id": "200:604:UTILITY200:0:OBSTETRICS AND GYNAECOLOGY:UTC001"
+    },
+    {
+      "billname": "POST-NATAL PAP SMEAR",
+      "billcost": 1000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 615,
+      "id": "1000:615:POST-NATAL PAP SMEAR:0:OBSTETRICS AND GYNAECOLOGY:PNP001"
+    },
+    {
+      "billname": "ANTA-NATAL  (HMO)",
+      "billcost": 300,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 645,
+      "id": "300:645:ANTA-NATAL  (HMO):0:OBSTETRICS AND GYNAECOLOGY:AHM"
+    },
+    {
+      "billname": "ANTENATAL MOTHER REVISIT",
+      "billcost": 300,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 647,
+      "id": "300:647:ANTENATAL MOTHER REVISIT:0:OBSTETRICS AND GYNAECOLOGY:AMV"
+    },
+    {
+      "billname": "UTILITY500",
+      "billcost": 500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 697,
+      "id": "500:697:UTILITY500:0:OBSTETRICS AND GYNAECOLOGY:UTOG002"
+    },
+    {
+      "billname": "UTILITY1000",
+      "billcost": 1000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 698,
+      "id": "1000:698:UTILITY1000:0:OBSTETRICS AND GYNAECOLOGY:UTOG003"
+    },
+    {
+      "billname": "UTILITY2000",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 699,
+      "id": "2000:699:UTILITY2000:0:OBSTETRICS AND GYNAECOLOGY:UTOG004"
+    },
+    {
+      "billname": "UTILITY3000",
+      "billcost": 3000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 700,
+      "id": "3000:700:UTILITY3000:0:OBSTETRICS AND GYNAECOLOGY:UTOG005"
+    },
+    {
+      "billname": "UTILITY5000",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 701,
+      "id": "5000:701:UTILITY5000:0:OBSTETRICS AND GYNAECOLOGY:UTOG006"
+    },
+    {
+      "billname": "HYSTEROSCOPY PROCEDURE",
+      "billcost": 150000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 734,
+      "id": "150000:734:HYSTEROSCOPY PROCEDURE:0:OBSTETRICS AND GYNAECOLOGY:OGH001"
+    },
+    {
+      "billname": "ADMISSION DEPOSIT (ANTENATAL)",
+      "billcost": 20000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 753,
+      "id": "20000:753:ADMISSION DEPOSIT (ANTENATAL):0:OBSTETRICS AND GYNAECOLOGY:ADAN003"
+    },
+    {
+      "billname": "ADMISSION DEPOSIT (POSTNATAL)",
+      "billcost": 20000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 754,
+      "id": "20000:754:ADMISSION DEPOSIT (POSTNATAL):0:OBSTETRICS AND GYNAECOLOGY:ADAN003"
+    },
+    {
+      "billname": "ADMISSION DEPOSIT LABOUR WARD (BOOKED)",
+      "billcost": 14000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 755,
+      "id": "14000:755:ADMISSION DEPOSIT LABOUR WARD (BOOKED):0:OBSTETRICS AND GYNAECOLOGY:ADAN003"
+    },
+    {
+      "billname": "ADMISSION DEPOSIT LABOUR WARD (PHC BOOKED)",
+      "billcost": 19000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 756,
+      "id": "19000:756:ADMISSION DEPOSIT LABOUR WARD (PHC BOOKED):0:OBSTETRICS AND GYNAECOLOGY:ADAN003"
+    },
+    {
+      "billname": "ADMISSION DEPOSIT LABOUR WARD (UNBOOKED)",
+      "billcost": 24000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 757,
+      "id": "24000:757:ADMISSION DEPOSIT LABOUR WARD (UNBOOKED):0:OBSTETRICS AND GYNAECOLOGY:ADAN004"
+    },
+    {
+      "billname": "ROUTINE GROWTH SCAN",
+      "billcost": 4500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 827,
+      "id": "4500:827:ROUTINE GROWTH SCAN:0:OBSTETRICS AND GYNAECOLOGY:2222"
+    },
+    {
+      "billname": "DATING SCAN",
+      "billcost": 4500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 828,
+      "id": "4500:828:DATING SCAN:0:OBSTETRICS AND GYNAECOLOGY:OG001"
+    },
+    {
+      "billname": "ANOMALY SCAN(1ST TRIMESTER)",
+      "billcost": 7000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 829,
+      "id": "7000:829:ANOMALY SCAN(1ST TRIMESTER):0:OBSTETRICS AND GYNAECOLOGY:OG002"
+    },
+    {
+      "billname": "ANOMALY SCAN(MID TRIMESTER)",
+      "billcost": 7000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 830,
+      "id": "7000:830:ANOMALY SCAN(MID TRIMESTER):0:OBSTETRICS AND GYNAECOLOGY:OG003"
+    },
+    {
+      "billname": "SCREENING FOR CHROMOSOMAL ABNORMALITIES(1ST TRIMESTER)",
+      "billcost": 3000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 831,
+      "id": "3000:831:SCREENING FOR CHROMOSOMAL ABNORMALITIES(1ST TRIMESTER):0:OBSTETRICS AND GYNAECOLOGY:OG004"
+    },
+    {
+      "billname": "SCREENING FOR CHROMOSOMAL ABNORMALITIES(2ND TRIMESTER)",
+      "billcost": 3000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 832,
+      "id": "3000:832:SCREENING FOR CHROMOSOMAL ABNORMALITIES(2ND TRIMESTER):0:OBSTETRICS AND GYNAECOLOGY:OG005"
+    },
+    {
+      "billname": "SCREENING FOR PRETERM LABOUR(1ST TRIMESTER)",
+      "billcost": 3000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 833,
+      "id": "3000:833:SCREENING FOR PRETERM LABOUR(1ST TRIMESTER):0:OBSTETRICS AND GYNAECOLOGY:OG006"
+    },
+    {
+      "billname": "SCREENING FOR PRETERM LABOUR(MID TRIMESTER)",
+      "billcost": 3000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 834,
+      "id": "3000:834:SCREENING FOR PRETERM LABOUR(MID TRIMESTER):0:OBSTETRICS AND GYNAECOLOGY:OG007"
+    },
+    {
+      "billname": "SCREENING FOR PREECLAMPSIA(MID TRIMESTER)",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 835,
+      "id": "2000:835:SCREENING FOR PREECLAMPSIA(MID TRIMESTER):0:OBSTETRICS AND GYNAECOLOGY:OG008"
+    },
+    {
+      "billname": "SCREENING FOR PREECLAMPSIA(1ST TRIMESTER)",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 836,
+      "id": "2000:836:SCREENING FOR PREECLAMPSIA(1ST TRIMESTER):0:OBSTETRICS AND GYNAECOLOGY:OG009"
+    },
+    {
+      "billname": "GROWTH SCAN WITHOUT DOPPLER STUDIES",
+      "billcost": 4500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 837,
+      "id": "4500:837:GROWTH SCAN WITHOUT DOPPLER STUDIES:0:OBSTETRICS AND GYNAECOLOGY:OG010"
+    },
+    {
+      "billname": "GROWTH SCAN WITH DOPPLER STUDIES",
+      "billcost": 7000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 838,
+      "id": "7000:838:GROWTH SCAN WITH DOPPLER STUDIES:0:OBSTETRICS AND GYNAECOLOGY:OG011"
+    },
+    {
+      "billname": "MULTIPLE PREGNANCY",
+      "billcost": 0,
+      "status": 1,
+      "nf_price": 1,
+      "hmo_fees": "",
+      "sno": 839,
+      "id": "0:839:MULTIPLE PREGNANCY:1:OBSTETRICS AND GYNAECOLOGY:OG012"
+    },
+    {
+      "billname": "ABDOMINAL SCAN FOR EARLY PREGNANCY BLEEDING",
+      "billcost": 4500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 840,
+      "id": "4500:840:ABDOMINAL SCAN FOR EARLY PREGNANCY BLEEDING:0:OBSTETRICS AND GYNAECOLOGY:OG013"
+    },
+    {
+      "billname": "TRANS-VAGINAL SCAN FOR EARLY PREGNANCY BLEEDING",
+      "billcost": 7000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 841,
+      "id": "7000:841:TRANS-VAGINAL SCAN FOR EARLY PREGNANCY BLEEDING:0:OBSTETRICS AND GYNAECOLOGY:OG013"
+    },
+    {
+      "billname": "SCAN FOR PELVIC TUMORS",
+      "billcost": 4500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 842,
+      "id": "4500:842:SCAN FOR PELVIC TUMORS:0:OBSTETRICS AND GYNAECOLOGY:OG013"
+    },
+    {
+      "billname": "SPECIALISED SCAN(SUBFERTILE PATIENTS",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 843,
+      "id": "2000:843:SPECIALISED SCAN(SUBFERTILE PATIENTS:0:OBSTETRICS AND GYNAECOLOGY:OG014"
+    },
+    {
+      "billname": "CTG(ANTENATAL)",
+      "billcost": 1000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 844,
+      "id": "1000:844:CTG(ANTENATAL):0:OBSTETRICS AND GYNAECOLOGY:OG015"
+    },
+    {
+      "billname": "CTG(LABOUR WARD 30 MINS)",
+      "billcost": 1000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 845,
+      "id": "1000:845:CTG(LABOUR WARD 30 MINS):0:OBSTETRICS AND GYNAECOLOGY:OG016"
+    },
+    {
+      "billname": "CTG(ABNORMAL INTERMITTENT AUSCULTATION-30 MINS)",
+      "billcost": 1000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 846,
+      "id": "1000:846:CTG(ABNORMAL INTERMITTENT AUSCULTATION-30 MINS):0:OBSTETRICS AND GYNAECOLOGY:OG017"
+    },
+    {
+      "billname": "CTG(2ND STAGE OF LABOUR)",
+      "billcost": 4000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 847,
+      "id": "4000:847:CTG(2ND STAGE OF LABOUR):0:OBSTETRICS AND GYNAECOLOGY:OG018"
+    },
+    {
+      "billname": "OPERATION FEE(INTERMEDIATE)  - O&G",
+      "billcost": 90000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1481,
+      "id": "90000:1481:OPERATION FEE(INTERMEDIATE)  - O&G:0:OBSTETRICS AND GYNAECOLOGY:"
+    },
+    {
+      "billname": "OPERATION FEE(MAJOR)  - O&G",
+      "billcost": 170000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1482,
+      "id": "170000:1482:OPERATION FEE(MAJOR)  - O&G:0:OBSTETRICS AND GYNAECOLOGY:"
+    },
+    {
+      "billname": "OPERATION FEE(SUPRA MAJOR)  - O&G",
+      "billcost": 270000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1483,
+      "id": "270000:1483:OPERATION FEE(SUPRA MAJOR)  - O&G:0:OBSTETRICS AND GYNAECOLOGY:"
+    },
+    {
+      "billname": "NEW BORN SCREENING",
+      "billcost": 79300,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1742,
+      "id": "79300:1742:NEW BORN SCREENING:0:OBSTETRICS AND GYNAECOLOGY:NBS001"
+    },
+    {
+      "billname": "ANTE-NATAL O&G",
+      "billcost": 21000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1774,
+      "id": "21000:1774:ANTE-NATAL O&G:0:OBSTETRICS AND GYNAECOLOGY:AN005"
+    }
+  ]
+}

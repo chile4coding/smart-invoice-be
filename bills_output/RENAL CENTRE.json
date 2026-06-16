@@ -1,0 +1,230 @@
+{
+  "unit": "RENAL CENTRE",
+  "items": [
+    {
+      "billname": "CENTRAL LINE",
+      "billcost": 250000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 613,
+      "id": "250000:613:CENTRAL LINE:0:RENAL CENTRE:CL001"
+    },
+    {
+      "billname": "DIALYSIS",
+      "billcost": 0,
+      "status": 0,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 614,
+      "id": "0:614:DIALYSIS:0:RENAL CENTRE:DL001"
+    },
+    {
+      "billname": "HEMODIALYSIS FILE",
+      "billcost": 500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 616,
+      "id": "500:616:HEMODIALYSIS FILE:0:RENAL CENTRE:HMF001"
+    },
+    {
+      "billname": "HEMODIALYSIS (4008S FRESENIUS MACHINE)",
+      "billcost": 58500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 617,
+      "id": "58500:617:HEMODIALYSIS (4008S FRESENIUS MACHINE):0:RENAL CENTRE:HMF002"
+    },
+    {
+      "billname": "HEMODIALYSIS (5008S FRESENIUS MACHINE)",
+      "billcost": 73500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 618,
+      "id": "73500:618:HEMODIALYSIS (5008S FRESENIUS MACHINE):0:RENAL CENTRE:HMF002"
+    },
+    {
+      "billname": "RENAL BIOPSY",
+      "billcost": 40000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 619,
+      "id": "40000:619:RENAL BIOPSY:0:RENAL CENTRE:RENBYOO1"
+    },
+    {
+      "billname": "IRON SUCROSE ADMIN. (SERVICE CHARGE)",
+      "billcost": 3000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 620,
+      "id": "3000:620:IRON SUCROSE ADMIN. (SERVICE CHARGE):0:RENAL CENTRE:ISUCA001"
+    },
+    {
+      "billname": "CLEANING AND DRESSING OF CENTRAL LINE CANNULATION",
+      "billcost": 3000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 621,
+      "id": "3000:621:CLEANING AND DRESSING OF CENTRAL LINE CANNULATION:0:RENAL CENTRE:ISUCA001"
+    },
+    {
+      "billname": "ISOLATED BLODD TRANSFUSION",
+      "billcost": 3000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 761,
+      "id": "3000:761:ISOLATED BLODD TRANSFUSION:0:RENAL CENTRE:IBT001"
+    },
+    {
+      "billname": "UTILITY 200",
+      "billcost": 200,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 762,
+      "id": "200:762:UTILITY 200:0:RENAL CENTRE:IBT002"
+    },
+    {
+      "billname": "UTILITY 300",
+      "billcost": 300,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 763,
+      "id": "300:763:UTILITY 300:0:RENAL CENTRE:IBT002"
+    },
+    {
+      "billname": "UTILITY 500",
+      "billcost": 500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 764,
+      "id": "500:764:UTILITY 500:0:RENAL CENTRE:IBT003"
+    },
+    {
+      "billname": "UTILITY 2000",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 765,
+      "id": "2000:765:UTILITY 2000:0:RENAL CENTRE:IBT004"
+    },
+    {
+      "billname": "UTILITY 3000",
+      "billcost": 3000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 766,
+      "id": "3000:766:UTILITY 3000:0:RENAL CENTRE:IBT005"
+    },
+    {
+      "billname": "UTILITY 10000",
+      "billcost": 10000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 767,
+      "id": "10000:767:UTILITY 10000:0:RENAL CENTRE:IBT005"
+    },
+    {
+      "billname": "EXTRA FEMORAL CATHETER",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 777,
+      "id": "5000:777:EXTRA FEMORAL CATHETER:0:RENAL CENTRE:EFC001"
+    },
+    {
+      "billname": "EXTRA GUIDEWIRE",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 778,
+      "id": "5000:778:EXTRA GUIDEWIRE:0:RENAL CENTRE:EGW001"
+    },
+    {
+      "billname": "Consultation",
+      "billcost": 3000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1370,
+      "id": "3000:1370:Consultation:0:RENAL CENTRE:"
+    },
+    {
+      "billname": "HEMODIALYSIS (4008S FRESENIUS MACHINE) (PART PAYMENT)",
+      "billcost": 0,
+      "status": 1,
+      "nf_price": 1,
+      "hmo_fees": "",
+      "sno": 1401,
+      "id": "0:1401:HEMODIALYSIS (4008S FRESENIUS MACHINE) (PART PAYMENT):1:RENAL CENTRE:HDPT"
+    },
+    {
+      "billname": "Double Lumen Central Line",
+      "billcost": 30000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1402,
+      "id": "30000:1402:Double Lumen Central Line:0:RENAL CENTRE:"
+    },
+    {
+      "billname": "BLOOD GLUCOSE ESTIMATION",
+      "billcost": 1000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1427,
+      "id": "1000:1427:BLOOD GLUCOSE ESTIMATION:0:RENAL CENTRE:"
+    },
+    {
+      "billname": "CENTRAL LINE CANNULATION WITH 1 SESSION OF HEMODIALYSIS",
+      "billcost": 450000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1428,
+      "id": "450000:1428:CENTRAL LINE CANNULATION WITH 1 SESSION OF HEMODIALYSIS:0:RENAL CENTRE:"
+    },
+    {
+      "billname": "OXYGEN",
+      "billcost": 10000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1429,
+      "id": "10000:1429:OXYGEN:0:RENAL CENTRE:"
+    },
+    {
+      "billname": "UTILITY 1000",
+      "billcost": "1000",
+      "status": 1,
+      "nf_price": "0",
+      "hmo_fees": "",
+      "sno": 1769,
+      "id": "1000:1769:UTILITY 1000:0:RENAL CENTRE:UT1000"
+    },
+    {
+      "billname": "Hemodialysis Unit Folder/Filerena",
+      "billcost": "500",
+      "status": 1,
+      "nf_price": "0",
+      "hmo_fees": "NO",
+      "sno": 1850,
+      "id": "500:1850:Hemodialysis Unit Folder/Filerena:0:RENAL CENTRE:HE001"
+    }
+  ]
+}

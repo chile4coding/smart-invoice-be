@@ -1,0 +1,68 @@
+{
+  "unit": "HAEMATOLOGY CLINIC",
+  "items": [
+    {
+      "billname": "CONSULTATION FEE",
+      "billcost": 4000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 81,
+      "id": "4000:81:CONSULTATION FEE:0:HAEMATOLOGY CLINIC:CNSLT"
+    },
+    {
+      "billname": "HAEMATOLOGY DAY CARE",
+      "billcost": 7000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 464,
+      "id": "7000:464:HAEMATOLOGY DAY CARE:0:HAEMATOLOGY CLINIC:HDC"
+    },
+    {
+      "billname": "BONE MARROW ASPIRATION",
+      "billcost": 10000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 465,
+      "id": "10000:465:BONE MARROW ASPIRATION:0:HAEMATOLOGY CLINIC:BMAX"
+    },
+    {
+      "billname": "POCT HAEMOGLOBIN ",
+      "billcost": 500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 561,
+      "id": "500:561:POCT HAEMOGLOBIN :0:HAEMATOLOGY CLINIC:123"
+    },
+    {
+      "billname": "POCT BLOOD GLUCOSE",
+      "billcost": 500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 562,
+      "id": "500:562:POCT BLOOD GLUCOSE:0:HAEMATOLOGY CLINIC:1234"
+    },
+    {
+      "billname": "UTILITY200",
+      "billcost": 200,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 602,
+      "id": "200:602:UTILITY200:0:HAEMATOLOGY CLINIC:UTC001"
+    },
+    {
+      "billname": "UTILITY 500",
+      "billcost": 500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 848,
+      "id": "500:848:UTILITY 500:0:HAEMATOLOGY CLINIC:UT5IN"
+    }
+  ]
+}

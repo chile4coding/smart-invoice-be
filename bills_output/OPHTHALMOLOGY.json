@@ -1,0 +1,770 @@
+{
+  "unit": "OPHTHALMOLOGY",
+  "items": [
+    {
+      "billname": "CONSULTATION FEE",
+      "billcost": 3500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 80,
+      "id": "3500:80:CONSULTATION FEE:0:OPHTHALMOLOGY:CNSLT"
+    },
+    {
+      "billname": "APPLANATION TONOMETRY",
+      "billcost": 4000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 85,
+      "id": "4000:85:APPLANATION TONOMETRY:0:OPHTHALMOLOGY:APT"
+    },
+    {
+      "billname": "DILATION",
+      "billcost": 2500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 86,
+      "id": "2500:86:DILATION:0:OPHTHALMOLOGY:DIL"
+    },
+    {
+      "billname": "EYE IRRIGATION/TOILETING",
+      "billcost": 6500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 87,
+      "id": "6500:87:EYE IRRIGATION/TOILETING:0:OPHTHALMOLOGY:EYERIG"
+    },
+    {
+      "billname": "PERIBULBAR INJECTION",
+      "billcost": 6500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 88,
+      "id": "6500:88:PERIBULBAR INJECTION:0:OPHTHALMOLOGY:PNJ"
+    },
+    {
+      "billname": "FOREIGN BODY REMOVAL",
+      "billcost": 10000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 89,
+      "id": "10000:89:FOREIGN BODY REMOVAL:0:OPHTHALMOLOGY:FBRE"
+    },
+    {
+      "billname": "INCISION AND CURETTAGE",
+      "billcost": 40000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 90,
+      "id": "40000:90:INCISION AND CURETTAGE:0:OPHTHALMOLOGY:IAC"
+    },
+    {
+      "billname": "PTERYGIUM EXCISION WITH MMC",
+      "billcost": 50000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 91,
+      "id": "50000:91:PTERYGIUM EXCISION WITH MMC:0:OPHTHALMOLOGY:PEWM"
+    },
+    {
+      "billname": "PTERYGIUM EXCISION WITH AUTOGRAFT",
+      "billcost": 75000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 92,
+      "id": "75000:92:PTERYGIUM EXCISION WITH AUTOGRAFT:0:OPHTHALMOLOGY:PEWA"
+    },
+    {
+      "billname": "CATARACT SURGERY FEE AND CONSUMABLES",
+      "billcost": 150000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 93,
+      "id": "150000:93:CATARACT SURGERY FEE AND CONSUMABLES:0:OPHTHALMOLOGY:CSFC"
+    },
+    {
+      "billname": "BIO (BINOCULAR INDIRECT OPHTHALMOSCOPY)",
+      "billcost": 0,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 94,
+      "id": "0:94:BIO (BINOCULAR INDIRECT OPHTHALMOSCOPY):0:OPHTHALMOLOGY:BIO"
+    },
+    {
+      "billname": "GONIOSCOPY",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 95,
+      "id": "2000:95:GONIOSCOPY:0:OPHTHALMOLOGY:GON"
+    },
+    {
+      "billname": "EUA WITH KETALAR",
+      "billcost": 7000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 96,
+      "id": "7000:96:EUA WITH KETALAR:0:OPHTHALMOLOGY:EUA"
+    },
+    {
+      "billname": "SUBCONJUCTIVAL INJECTION",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 97,
+      "id": "5000:97:SUBCONJUCTIVAL INJECTION:0:OPHTHALMOLOGY:SCI"
+    },
+    {
+      "billname": "POSTERIOR SUBTENONʼS INJECTION",
+      "billcost": 5500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "NO",
+      "sno": 98,
+      "id": "5500:98:POSTERIOR SUBTENONʼS INJECTION:0:OPHTHALMOLOGY:PSI"
+    },
+    {
+      "billname": "INTRA VITREAL INJECTION",
+      "billcost": 10000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 99,
+      "id": "10000:99:INTRA VITREAL INJECTION:0:OPHTHALMOLOGY:IVI"
+    },
+    {
+      "billname": "IV LINE SETUP",
+      "billcost": 1500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 100,
+      "id": "1500:100:IV LINE SETUP:0:OPHTHALMOLOGY:ILS"
+    },
+    {
+      "billname": "EYE DRESSING/EYE PAD",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 101,
+      "id": "2000:101:EYE DRESSING/EYE PAD:0:OPHTHALMOLOGY:EDP"
+    },
+    {
+      "billname": "EPILATION",
+      "billcost": 6000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 102,
+      "id": "6000:102:EPILATION:0:OPHTHALMOLOGY:EPI"
+    },
+    {
+      "billname": "INCISION AND DRAINAGE",
+      "billcost": 15000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 103,
+      "id": "15000:103:INCISION AND DRAINAGE:0:OPHTHALMOLOGY:IAD"
+    },
+    {
+      "billname": "LACRIMAL PROBING/WASHOUT",
+      "billcost": 10000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 104,
+      "id": "10000:104:LACRIMAL PROBING/WASHOUT:0:OPHTHALMOLOGY:LPW"
+    },
+    {
+      "billname": "EXCISION OF CONJUCTIVAL MASS",
+      "billcost": 70000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 105,
+      "id": "70000:105:EXCISION OF CONJUCTIVAL MASS:0:OPHTHALMOLOGY:ECM"
+    },
+    {
+      "billname": "DEBRIDEMENT",
+      "billcost": 11000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 106,
+      "id": "11000:106:DEBRIDEMENT:0:OPHTHALMOLOGY:DEB"
+    },
+    {
+      "billname": "EXCISION OF LID MASS",
+      "billcost": 70000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 107,
+      "id": "70000:107:EXCISION OF LID MASS:0:OPHTHALMOLOGY:ELM"
+    },
+    {
+      "billname": "LID LACERATION (MINOR)",
+      "billcost": 50000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 108,
+      "id": "50000:108:LID LACERATION (MINOR):0:OPHTHALMOLOGY:LLM"
+    },
+    {
+      "billname": "LID LACERATION (MAJOR)",
+      "billcost": 60000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 109,
+      "id": "60000:109:LID LACERATION (MAJOR):0:OPHTHALMOLOGY:LLMJ"
+    },
+    {
+      "billname": "CORNEAL LACERATION (MINOR)",
+      "billcost": 80000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 110,
+      "id": "80000:110:CORNEAL LACERATION (MINOR):0:OPHTHALMOLOGY:CLM"
+    },
+    {
+      "billname": "CORNEOSCLERAL LACERATION (MAJOR)",
+      "billcost": 90000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 111,
+      "id": "90000:111:CORNEOSCLERAL LACERATION (MAJOR):0:OPHTHALMOLOGY:CLMJ"
+    },
+    {
+      "billname": "AC WASHOUT",
+      "billcost": 50000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 112,
+      "id": "50000:112:AC WASHOUT:0:OPHTHALMOLOGY:ACW"
+    },
+    {
+      "billname": "TRABECULECTOMY",
+      "billcost": 120000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 113,
+      "id": "120000:113:TRABECULECTOMY:0:OPHTHALMOLOGY:TRA"
+    },
+    {
+      "billname": "COMBINED CATARACT + IOL + TRABECULECTOMY",
+      "billcost": 160000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 114,
+      "id": "160000:114:COMBINED CATARACT + IOL + TRABECULECTOMY:0:OPHTHALMOLOGY:CCIT"
+    },
+    {
+      "billname": "EVISCERATION",
+      "billcost": 50000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 115,
+      "id": "50000:115:EVISCERATION:0:OPHTHALMOLOGY:EVIS"
+    },
+    {
+      "billname": "ENUCLEATION",
+      "billcost": 65000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 116,
+      "id": "65000:116:ENUCLEATION:0:OPHTHALMOLOGY:ENUC"
+    },
+    {
+      "billname": "EXENTERATION",
+      "billcost": 75000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 117,
+      "id": "75000:117:EXENTERATION:0:OPHTHALMOLOGY:EXTR"
+    },
+    {
+      "billname": "STRABISMUS SURGERY",
+      "billcost": 150000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 118,
+      "id": "150000:118:STRABISMUS SURGERY:0:OPHTHALMOLOGY:STRA"
+    },
+    {
+      "billname": "PTOSIS SURGERY",
+      "billcost": 150000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 119,
+      "id": "150000:119:PTOSIS SURGERY:0:OPHTHALMOLOGY:PTS"
+    },
+    {
+      "billname": "ENTROPION/ECTROPION SURGERY",
+      "billcost": 150000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 120,
+      "id": "150000:120:ENTROPION/ECTROPION SURGERY:0:OPHTHALMOLOGY:ENCS"
+    },
+    {
+      "billname": "CONTACT LENS FITTINGS (RSUTH PATIENT)",
+      "billcost": 8000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 121,
+      "id": "8000:121:CONTACT LENS FITTINGS (RSUTH PATIENT):0:OPHTHALMOLOGY:CLF"
+    },
+    {
+      "billname": "CONTACT LENS FITTINGS (EXTERNAL PATIENT)",
+      "billcost": 11000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 122,
+      "id": "11000:122:CONTACT LENS FITTINGS (EXTERNAL PATIENT):0:OPHTHALMOLOGY:CLF2"
+    },
+    {
+      "billname": "SUTURE REMOVAL (FROM OUTSIDE)",
+      "billcost": 12500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 123,
+      "id": "12500:123:SUTURE REMOVAL (FROM OUTSIDE):0:OPHTHALMOLOGY:SREM"
+    },
+    {
+      "billname": "IOL CALCULATION",
+      "billcost": 15000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 124,
+      "id": "15000:124:IOL CALCULATION:0:OPHTHALMOLOGY:IOLC"
+    },
+    {
+      "billname": "KERATOMETRIC READING",
+      "billcost": 8500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 125,
+      "id": "8500:125:KERATOMETRIC READING:0:OPHTHALMOLOGY:KERA"
+    },
+    {
+      "billname": "AXIAL LENGTH TEST",
+      "billcost": 7000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 126,
+      "id": "7000:126:AXIAL LENGTH TEST:0:OPHTHALMOLOGY:AXLT"
+    },
+    {
+      "billname": "PACHYMETRY (CCT)",
+      "billcost": 8500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 127,
+      "id": "8500:127:PACHYMETRY (CCT):0:OPHTHALMOLOGY:PACH"
+    },
+    {
+      "billname": "CENTRAL VISUAL FIELD (CVF) TEST (INTERNAL)",
+      "billcost": 10000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 128,
+      "id": "10000:128:CENTRAL VISUAL FIELD (CVF) TEST (INTERNAL):0:OPHTHALMOLOGY:CVF"
+    },
+    {
+      "billname": "CENTRAL VISUAL FIELD (CVF) TEST (EXTERNAL)",
+      "billcost": 10000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 129,
+      "id": "10000:129:CENTRAL VISUAL FIELD (CVF) TEST (EXTERNAL):0:OPHTHALMOLOGY:CVF2"
+    },
+    {
+      "billname": "THEATRE FEE - EYE SURGERY/PROCEDURE",
+      "billcost": 17000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 130,
+      "id": "17000:130:THEATRE FEE - EYE SURGERY/PROCEDURE:0:OPHTHALMOLOGY:THF"
+    },
+    {
+      "billname": "THEATRE FEE - INTRAVITREAL INJECTION",
+      "billcost": 2500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 131,
+      "id": "2500:131:THEATRE FEE - INTRAVITREAL INJECTION:0:OPHTHALMOLOGY:THF2"
+    },
+    {
+      "billname": "WARD DEPOSIT/MSW/FSW (FOR 3DAYS)",
+      "billcost": 40000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 132,
+      "id": "40000:132:WARD DEPOSIT/MSW/FSW (FOR 3DAYS):0:OPHTHALMOLOGY:WDM"
+    },
+    {
+      "billname": "EXTRA DAY MSW/FSW",
+      "billcost": 13500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 133,
+      "id": "13500:133:EXTRA DAY MSW/FSW:0:OPHTHALMOLOGY:EXTD"
+    },
+    {
+      "billname": "CONSUMABLES/MSW/FSW",
+      "billcost": 15000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 134,
+      "id": "15000:134:CONSUMABLES/MSW/FSW:0:OPHTHALMOLOGY:CONS"
+    },
+    {
+      "billname": "WARD DEPOSIT (CHILDRENʼS WARD)",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "NO",
+      "sno": 135,
+      "id": "5000:135:WARD DEPOSIT (CHILDRENʼS WARD):0:OPHTHALMOLOGY:WDC"
+    },
+    {
+      "billname": "EXTRA DAY CHILDRENʼS WARD",
+      "billcost": 1800,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "NO",
+      "sno": 136,
+      "id": "1800:136:EXTRA DAY CHILDRENʼS WARD:0:OPHTHALMOLOGY:EXTC"
+    },
+    {
+      "billname": "OPTOMETRY SERVICE CHARGE (OSC)",
+      "billcost": 2500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 137,
+      "id": "2500:137:OPTOMETRY SERVICE CHARGE (OSC):0:OPHTHALMOLOGY:OPSC"
+    },
+    {
+      "billname": "CYCLOPLEGIC REFRACTION",
+      "billcost": 2500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 138,
+      "id": "2500:138:CYCLOPLEGIC REFRACTION:0:OPHTHALMOLOGY:CYLR"
+    },
+    {
+      "billname": "LENS PRESCRIPTION",
+      "billcost": 0,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 139,
+      "id": "0:139:LENS PRESCRIPTION:0:OPHTHALMOLOGY:LPRE"
+    },
+    {
+      "billname": "LENS CLEANER SOLUTION",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 140,
+      "id": "2000:140:LENS CLEANER SOLUTION:0:OPHTHALMOLOGY:LCLS"
+    },
+    {
+      "billname": "SUNGLASSES",
+      "billcost": 0,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 141,
+      "id": "0:141:SUNGLASSES:0:OPHTHALMOLOGY:SUNG"
+    },
+    {
+      "billname": "SPECTACLE LACE",
+      "billcost": 2500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 142,
+      "id": "2500:142:SPECTACLE LACE:0:OPHTHALMOLOGY:SPEL"
+    },
+    {
+      "billname": "LENS FITTING CHARGE (REGULAR FRAME)",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 143,
+      "id": "2000:143:LENS FITTING CHARGE (REGULAR FRAME):0:OPHTHALMOLOGY:LFC"
+    },
+    {
+      "billname": "CONSULTATION FEE (OLD)",
+      "billcost": 1300,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 144,
+      "id": "1300:144:CONSULTATION FEE (OLD):0:OPHTHALMOLOGY:CNSLT2"
+    },
+    {
+      "billname": "REFRACTION",
+      "billcost": 1000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 221,
+      "id": "1000:221:REFRACTION:0:OPHTHALMOLOGY:REFR"
+    },
+    {
+      "billname": "EYE PRESSURE",
+      "billcost": 1000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 222,
+      "id": "1000:222:EYE PRESSURE:0:OPHTHALMOLOGY:EYPR"
+    },
+    {
+      "billname": "REGRESSION",
+      "billcost": 1000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 223,
+      "id": "1000:223:REGRESSION:0:OPHTHALMOLOGY:REGR"
+    },
+    {
+      "billname": "OPHTHALMIC LENSES",
+      "billcost": 0,
+      "status": 1,
+      "nf_price": 1,
+      "hmo_fees": "",
+      "sno": 340,
+      "id": "0:340:OPHTHALMIC LENSES:1:OPHTHALMOLOGY:OPHLEN"
+    },
+    {
+      "billname": "PARACENTHESIS",
+      "billcost": 1000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 420,
+      "id": "1000:420:PARACENTHESIS:0:OPHTHALMOLOGY:EYE101"
+    },
+    {
+      "billname": "FRAME",
+      "billcost": 0,
+      "status": 1,
+      "nf_price": 1,
+      "hmo_fees": "",
+      "sno": 422,
+      "id": "0:422:FRAME:1:OPHTHALMOLOGY:FRM"
+    },
+    {
+      "billname": "UTILITY200",
+      "billcost": 200,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 605,
+      "id": "200:605:UTILITY200:0:OPHTHALMOLOGY:UTC001"
+    },
+    {
+      "billname": "MAJOR",
+      "billcost": 35000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 735,
+      "id": "35000:735:MAJOR:0:OPHTHALMOLOGY:MAJ"
+    },
+    {
+      "billname": "INTERMEDIATE",
+      "billcost": 25000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 736,
+      "id": "25000:736:INTERMEDIATE:0:OPHTHALMOLOGY:INT"
+    },
+    {
+      "billname": "EXPRESS LENS CHARGE",
+      "billcost": 7000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 737,
+      "id": "7000:737:EXPRESS LENS CHARGE:0:OPHTHALMOLOGY:EXL"
+    },
+    {
+      "billname": "UTILITY500",
+      "billcost": 500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 748,
+      "id": "500:748:UTILITY500:0:OPHTHALMOLOGY:UTI002"
+    },
+    {
+      "billname": "UTILITY1000",
+      "billcost": 1000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 749,
+      "id": "1000:749:UTILITY1000:0:OPHTHALMOLOGY:UTI003"
+    },
+    {
+      "billname": "UTILITY5000",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 750,
+      "id": "5000:750:UTILITY5000:0:OPHTHALMOLOGY:UTI004"
+    },
+    {
+      "billname": "UTILITY 2000",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 826,
+      "id": "2000:826:UTILITY 2000:0:OPHTHALMOLOGY:UTE002"
+    },
+    {
+      "billname": "Ophthalmic Surgery Theatre fee",
+      "billcost": 15000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1361,
+      "id": "15000:1361:Ophthalmic Surgery Theatre fee:0:OPHTHALMOLOGY:"
+    },
+    {
+      "billname": "CVF(NHIS)",
+      "billcost": 300,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1362,
+      "id": "300:1362:CVF(NHIS):0:OPHTHALMOLOGY:"
+    },
+    {
+      "billname": "CVF+CCT (NHIS)",
+      "billcost": 8600,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1363,
+      "id": "8600:1363:CVF+CCT (NHIS):0:OPHTHALMOLOGY:"
+    },
+    {
+      "billname": "IOL CALCULATION(NHIS)",
+      "billcost": 3000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1364,
+      "id": "3000:1364:IOL CALCULATION(NHIS):0:OPHTHALMOLOGY:"
+    },
+    {
+      "billname": "FLUORESCEIN STAINING",
+      "billcost": 1500,
+      "status": 0,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1672,
+      "id": "1500:1672:FLUORESCEIN STAINING:0:OPHTHALMOLOGY:"
+    },
+    {
+      "billname": "B-SCAN(ULTRA SOUND)",
+      "billcost": 10000,
+      "status": 0,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1673,
+      "id": "10000:1673:B-SCAN(ULTRA SOUND):0:OPHTHALMOLOGY:"
+    },
+    {
+      "billname": "B-SCAN",
+      "billcost": 10000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1685,
+      "id": "10000:1685:B-SCAN:0:OPHTHALMOLOGY:001BS"
+    },
+    {
+      "billname": "FLUORESCEIN STAIN",
+      "billcost": 1500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1686,
+      "id": "1500:1686:FLUORESCEIN STAIN:0:OPHTHALMOLOGY:001FS"
+    },
+    {
+      "billname": "TINT (GLASSES)",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1688,
+      "id": "2000:1688:TINT (GLASSES):0:OPHTHALMOLOGY:"
+    },
+    {
+      "billname": "MEDICAL REPORT",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1712,
+      "id": "5000:1712:MEDICAL REPORT:0:OPHTHALMOLOGY:0101MR"
+    }
+  ]
+}

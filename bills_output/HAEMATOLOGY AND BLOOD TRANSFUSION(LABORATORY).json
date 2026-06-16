@@ -1,0 +1,637 @@
+{
+  "unit": "HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)",
+  "items": [
+    {
+      "billname": "PCV/HB (Hemocue)",
+      "billcost": "1500",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "1500:6:PCV/HB (Hemocue):0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "FBC",
+      "billcost": "6000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "6000:7:FBC:0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "ESR",
+      "billcost": "2000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "2000:8:ESR:0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "GENOTYPE",
+      "billcost": "3000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "3000:9:GENOTYPE:0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "Prothrombin Time",
+      "billcost": "4500",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "4500:10:Prothrombin Time:0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "APTT",
+      "billcost": "5000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "5000:11:APTT:0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "G-6 PO",
+      "billcost": "2000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "2000:13:G-6 PO:0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "Retics",
+      "billcost": "1500",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "1500:14:Retics:0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "HB Quantification",
+      "billcost": "10000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "10000:15:HB Quantification:0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "Sickling Test",
+      "billcost": "1500",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "1500:16:Sickling Test:0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "BLEEDING TIME",
+      "billcost": "1000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "1000:17:BLEEDING TIME:0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "Blood Grouping (ABO-Rh)",
+      "billcost": "1000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "1000:34:Blood Grouping (ABO-Rh):0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "Hepatitis B",
+      "billcost": "1500",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "1500:35:Hepatitis B:0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "Grouping/Cross-Matching (Exra)",
+      "billcost": "12000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "NO",
+      "id": "12000:37:Grouping/Cross-Matching (Exra):0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "Coombs Test (Direct)",
+      "billcost": "2000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "2000:38:Coombs Test (Direct):0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "Coombs Test (Indirect)",
+      "billcost": "2000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "2000:39:Coombs Test (Indirect):0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "HIV Screening",
+      "billcost": "1",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "1:65:HIV Screening:0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "Cd4 Count",
+      "billcost": "2500",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "2500:66:Cd4 Count:0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "HIV Viral load",
+      "billcost": "1",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "1:67:HIV Viral load:0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "HB Viral Markers",
+      "billcost": "10000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "10000:68:HB Viral Markers:0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "HC Viral load",
+      "billcost": "30000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "30000:69:HC Viral load:0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "HB Viral load",
+      "billcost": "40000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "40000:70:HB Viral load:0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "Haemoglobin",
+      "billcost": "1000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "1000:71:Haemoglobin:0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "PT/INR",
+      "billcost": "10000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "10000:72:PT/INR:0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "G-6-PD  Screening",
+      "billcost": "2000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "2000:74:G-6-PD  Screening:0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "Hepatitis B Surface Antigen",
+      "billcost": "3500",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "3500:110:Hepatitis B Surface Antigen:0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "Haemoglobin Quantification (HPLC)",
+      "billcost": "10000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "10000:125:Haemoglobin Quantification (HPLC):0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "Blood Group",
+      "billcost": "1500",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "1500:126:Blood Group:0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "HIV Confirmation",
+      "billcost": "1",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "1:132:HIV Confirmation:0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "Hepatitis C Antibody",
+      "billcost": "3500",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "3500:133:Hepatitis C Antibody:0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "Fresh Frozen Plasma (FFP)",
+      "billcost": "32000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "32000:147:Fresh Frozen Plasma (FFP):0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "Blood component screening",
+      "billcost": "7000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "7000:148:Blood component screening:0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "BLOOD GROUP",
+      "billcost": "700",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "700:162:BLOOD GROUP:0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "GENOTYPE",
+      "billcost": "3000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "3000:166:GENOTYPE:0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "HBsAg",
+      "billcost": "1200",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "1200:167:HBsAg:0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "HCV",
+      "billcost": "1400",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "1400:168:HCV:0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "Peripheral Blood Film",
+      "billcost": "1000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "1000:189:Peripheral Blood Film:0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "Haematology Day Care",
+      "billcost": "2000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "2000:195:Haematology Day Care:0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "MANTUS TEST",
+      "billcost": "1500",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "1500:198:MANTUS TEST:0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "HBV Serelogy",
+      "billcost": "8000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "8000:217:HBV Serelogy:0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "HCV RNA",
+      "billcost": "30000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "30000:218:HCV RNA:0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "HBV DNA Load",
+      "billcost": "30000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "30000:219:HBV DNA Load:0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "Bone Marrow Aspiration",
+      "billcost": "10000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "10000:223:Bone Marrow Aspiration:0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "HBsAG, HCV, VDRL",
+      "billcost": "1000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "1000:235:HBsAG, HCV, VDRL:0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "DAY CARE",
+      "billcost": "7000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "7000:236:DAY CARE:0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "THERAPEUTIC VENESECTION",
+      "billcost": "3000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "3000:237:THERAPEUTIC VENESECTION:0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "Call Pack(Carton)",
+      "billcost": "60000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "60000:238:Call Pack(Carton):0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "Stromatolyzer(Pack)",
+      "billcost": "120000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "120000:239:Stromatolyzer(Pack):0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "Anti Sera A,B (Pack)",
+      "billcost": "13000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "13000:240:Anti Sera A,B (Pack):0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "Anti Sera AB,D (Pack)",
+      "billcost": "15000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "15000:241:Anti Sera AB,D (Pack):0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "Capillary Tube(Pack)",
+      "billcost": "9000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "9000:242:Capillary Tube(Pack):0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "HBV Strip(Pack)",
+      "billcost": "9000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "9000:243:HBV Strip(Pack):0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "HCV Strip(Pack)",
+      "billcost": "9000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "9000:244:HCV Strip(Pack):0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "Plain Non Vacutainer bottle(Carton)",
+      "billcost": "35000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "35000:246:Plain Non Vacutainer bottle(Carton):0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "Plain Vacutainer bottle(Carton)",
+      "billcost": "40000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "40000:247:Plain Vacutainer bottle(Carton):0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "EDTA Vacutainer bottle(Carton)",
+      "billcost": "40000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "40000:248:EDTA Vacutainer bottle(Carton):0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "Vacutainer needle(Park)",
+      "billcost": "3000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "3000:249:Vacutainer needle(Park):0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "Blood Bag(Carton)",
+      "billcost": "100000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "100000:250:Blood Bag(Carton):0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "Tris Buffer(Bottle)",
+      "billcost": "700",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "700:251:Tris Buffer(Bottle):0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "Cellulose acetate paper(Pack)",
+      "billcost": "70000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "70000:252:Cellulose acetate paper(Pack):0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "Coagulation reagents(Pack)",
+      "billcost": "36000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "36000:253:Coagulation reagents(Pack):0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "UTILITY200",
+      "billcost": "200",
+      "status": 0,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "200:284:UTILITY200:0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "UTILITY200",
+      "billcost": "200",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "200:287:UTILITY200:0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "UTILITY500",
+      "billcost": "500",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "500:289:UTILITY500:0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "UTILITY 1000",
+      "billcost": "1000",
+      "status": 0,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "1000:294:UTILITY 1000:0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "UTILITY1000",
+      "billcost": "1000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "1000:296:UTILITY1000:0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "Retroviral Test",
+      "billcost": "2000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "2000:309:Retroviral Test:0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "MANUAL EXCHANGE BLOOD TRANSFUSION",
+      "billcost": "50000",
+      "status": "",
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "50000:310:MANUAL EXCHANGE BLOOD TRANSFUSION:0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "ANTE-NATAL REGISTRATION(LAB TEST)",
+      "billcost": "5000",
+      "status": "",
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "5000:311:ANTE-NATAL REGISTRATION(LAB TEST):0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "Plasmapherisis",
+      "billcost": "1000000",
+      "status": "",
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "1000000:312:Plasmapherisis:0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "Red Cell Exchange",
+      "billcost": "1000000",
+      "status": "",
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "1000000:313:Red Cell Exchange:0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "Utility15000",
+      "billcost": "15000",
+      "status": "",
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "15000:315:Utility15000:0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "Utility50000",
+      "billcost": "50000",
+      "status": "",
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "50000:316:Utility50000:0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "Utility20000",
+      "billcost": "20000",
+      "status": "",
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "20000:317:Utility20000:0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "Leuko-depleted Red Cells",
+      "billcost": "84999",
+      "status": "",
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "84999:318:Leuko-depleted Red Cells:0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "Cryoprecipitate (Per Bag)",
+      "billcost": "30000",
+      "status": "",
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "30000:319:Cryoprecipitate (Per Bag):0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "Platelet Rich Plasma (Cold Centrifuge)",
+      "billcost": "200000",
+      "status": "",
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "200000:320:Platelet Rich Plasma (Cold Centrifuge):0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "PLATELET CONCENTRATE (1/2 UNIT)",
+      "billcost": "200000",
+      "status": "",
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "200000:321:PLATELET CONCENTRATE (1/2 UNIT):0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    },
+    {
+      "billname": "Utility10000",
+      "billcost": "10000",
+      "status": "",
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "10000:331:Utility10000:0:HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)"
+    }
+  ]
+}

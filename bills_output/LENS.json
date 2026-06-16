@@ -1,0 +1,149 @@
+{
+  "unit": "LENS",
+  "items": [
+    {
+      "billname": "OPTOMETRY SERVICE CHARGE (OSC)",
+      "billcost": 2500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 859,
+      "id": "2500:859:OPTOMETRY SERVICE CHARGE (OSC):0:LENS:OSC001"
+    },
+    {
+      "billname": "CYCLOPLEGIC REFRACTION",
+      "billcost": 2500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 860,
+      "id": "2500:860:CYCLOPLEGIC REFRACTION:0:LENS:CYF001"
+    },
+    {
+      "billname": "LENS PRESCRIPTION",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 861,
+      "id": "5000:861:LENS PRESCRIPTION:0:LENS:LE001"
+    },
+    {
+      "billname": "LENS CLEANER SOLUTION",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 862,
+      "id": "2000:862:LENS CLEANER SOLUTION:0:LENS:LE002"
+    },
+    {
+      "billname": "SUNGLASSES",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 863,
+      "id": "5000:863:SUNGLASSES:0:LENS:SU001"
+    },
+    {
+      "billname": "SPECTACLE LACE",
+      "billcost": 2500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 864,
+      "id": "2500:864:SPECTACLE LACE:0:LENS:SUL001"
+    },
+    {
+      "billname": "LENS FITTING CHARGE (REGULAR FRAME)",
+      "billcost": 2500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 865,
+      "id": "2500:865:LENS FITTING CHARGE (REGULAR FRAME):0:LENS:LE003"
+    },
+    {
+      "billname": "OPHTHALMIC LENSES",
+      "billcost": 0,
+      "status": 1,
+      "nf_price": 1,
+      "hmo_fees": "",
+      "sno": 866,
+      "id": "0:866:OPHTHALMIC LENSES:1:LENS:OP003"
+    },
+    {
+      "billname": "FRAME",
+      "billcost": 0,
+      "status": 1,
+      "nf_price": 1,
+      "hmo_fees": "",
+      "sno": 867,
+      "id": "0:867:FRAME:1:LENS:FRA001"
+    },
+    {
+      "billname": "EXPRESS LENS CHARGE",
+      "billcost": 7000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 868,
+      "id": "7000:868:EXPRESS LENS CHARGE:0:LENS:LE004"
+    },
+    {
+      "billname": "UTITY 500",
+      "billcost": 500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 869,
+      "id": "500:869:UTITY 500:0:LENS:UT01"
+    },
+    {
+      "billname": "UTITY 200",
+      "billcost": 200,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 870,
+      "id": "200:870:UTITY 200:0:LENS:UT02"
+    },
+    {
+      "billname": "UTITY1000",
+      "billcost": 1000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 871,
+      "id": "1000:871:UTITY1000:0:LENS:UT03"
+    },
+    {
+      "billname": "MEDICAL REPORT",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1711,
+      "id": "5000:1711:MEDICAL REPORT:0:LENS:0101MR"
+    },
+    {
+      "billname": "TINT (GLASSES)",
+      "billcost": 2500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1744,
+      "id": "2500:1744:TINT (GLASSES):0:LENS:tg009"
+    },
+    {
+      "billname": "CASE",
+      "billcost": 0,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1745,
+      "id": "0:1745:CASE:0:LENS:AS222"
+    }
+  ]
+}

@@ -1,0 +1,581 @@
+{
+  "unit": "RECONSTRUCTIVE PLASTIC SURGERY",
+  "items": [
+    {
+      "billname": "BURNS PATIENT INITIAL DEPOSIT FEE",
+      "billcost": 50000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 785,
+      "id": "50000:785:BURNS PATIENT INITIAL DEPOSIT FEE:0:RECONSTRUCTIVE PLASTIC SURGERY:BPID001"
+    },
+    {
+      "billname": " INITIAL DEPOSIT(PLASTIC CASES) - RPS UNIT",
+      "billcost": 33000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 786,
+      "id": "33000:786: INITIAL DEPOSIT(PLASTIC CASES) - RPS UNIT:0:RECONSTRUCTIVE PLASTIC SURGERY:IDPC001"
+    },
+    {
+      "billname": "ADMISSION DEPOSIT (BURNS WARD) ",
+      "billcost": 43000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 787,
+      "id": "43000:787:ADMISSION DEPOSIT (BURNS WARD) :0:RECONSTRUCTIVE PLASTIC SURGERY:ADM001"
+    },
+    {
+      "billname": "BED FEE (EXTRA DAY) - BURNS WARD",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 788,
+      "id": "5000:788:BED FEE (EXTRA DAY) - BURNS WARD:0:RECONSTRUCTIVE PLASTIC SURGERY:BEF001"
+    },
+    {
+      "billname": "BURNS WARD NURSING CARE/DAY",
+      "billcost": 1500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 789,
+      "id": "1500:789:BURNS WARD NURSING CARE/DAY:0:RECONSTRUCTIVE PLASTIC SURGERY:BWNC"
+    },
+    {
+      "billname": "PLASTIC WARD NURSING CARE/DAY ",
+      "billcost": 1000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 790,
+      "id": "1000:790:PLASTIC WARD NURSING CARE/DAY :0:RECONSTRUCTIVE PLASTIC SURGERY:PWNC"
+    },
+    {
+      "billname": "CONSUMABLES - RPS UNIT",
+      "billcost": 1500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 791,
+      "id": "1500:791:CONSUMABLES - RPS UNIT:0:RECONSTRUCTIVE PLASTIC SURGERY:CONS"
+    },
+    {
+      "billname": "THERMOMETER - RPS UNIT",
+      "billcost": 1000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 792,
+      "id": "1000:792:THERMOMETER - RPS UNIT:0:RECONSTRUCTIVE PLASTIC SURGERY:THME"
+    },
+    {
+      "billname": "CONSULATION - RPS UNIT",
+      "billcost": 1000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 793,
+      "id": "1000:793:CONSULATION - RPS UNIT:0:RECONSTRUCTIVE PLASTIC SURGERY:CNSLT"
+    },
+    {
+      "billname": "SURGERY (MINOR) - RPS UNIT",
+      "billcost": 80000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 794,
+      "id": "80000:794:SURGERY (MINOR) - RPS UNIT:0:RECONSTRUCTIVE PLASTIC SURGERY:SURM002"
+    },
+    {
+      "billname": "SURGERY (INTERMEDIATE) - RPS UNIT",
+      "billcost": 120000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 795,
+      "id": "120000:795:SURGERY (INTERMEDIATE) - RPS UNIT:0:RECONSTRUCTIVE PLASTIC SURGERY:SURI003"
+    },
+    {
+      "billname": "SURGERY (MAJOR) - RPS UNIT",
+      "billcost": 250000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 796,
+      "id": "250000:796:SURGERY (MAJOR) - RPS UNIT:0:RECONSTRUCTIVE PLASTIC SURGERY:SURMA004"
+    },
+    {
+      "billname": "SURGERY (SUPRAMAJOR) - RPS UNIT",
+      "billcost": 120500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 797,
+      "id": "120500:797:SURGERY (SUPRAMAJOR) - RPS UNIT:0:RECONSTRUCTIVE PLASTIC SURGERY:SURSMAJ005"
+    },
+    {
+      "billname": "OUTPATIENT DRESSING - RPS UNIT (Extra)",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "NO",
+      "sno": 798,
+      "id": "2000:798:OUTPATIENT DRESSING - RPS UNIT (Extra):0:RECONSTRUCTIVE PLASTIC SURGERY:OUTD001"
+    },
+    {
+      "billname": "DRESSING (MINOR) - RPS UNIT (Extra)",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "NO",
+      "sno": 799,
+      "id": "2000:799:DRESSING (MINOR) - RPS UNIT (Extra):0:RECONSTRUCTIVE PLASTIC SURGERY:DREM001"
+    },
+    {
+      "billname": "DRESSING (MAJOR) - RPS UNIT (Extra)",
+      "billcost": 4000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "NO",
+      "sno": 800,
+      "id": "4000:800:DRESSING (MAJOR) - RPS UNIT (Extra):0:RECONSTRUCTIVE PLASTIC SURGERY:DREMA002"
+    },
+    {
+      "billname": "DRESSING (SUBMAJOR) - RPS UNIT (Extra)",
+      "billcost": 3000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "NO",
+      "sno": 801,
+      "id": "3000:801:DRESSING (SUBMAJOR) - RPS UNIT (Extra):0:RECONSTRUCTIVE PLASTIC SURGERY:DRESMA003"
+    },
+    {
+      "billname": "BURNS / PLASTIC DRESSING MINOR (<15%) (Extra)",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "NO",
+      "sno": 802,
+      "id": "2000:802:BURNS / PLASTIC DRESSING MINOR (<15%) (Extra):0:RECONSTRUCTIVE PLASTIC SURGERY:DRESMA003"
+    },
+    {
+      "billname": "BURNS / PLASTIC DRESSING SUBMAJOR (15-30%) (Extra)",
+      "billcost": 3000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "NO",
+      "sno": 803,
+      "id": "3000:803:BURNS / PLASTIC DRESSING SUBMAJOR (15-30%) (Extra):0:RECONSTRUCTIVE PLASTIC SURGERY:DRESSUMA005"
+    },
+    {
+      "billname": "BURNS / PLASTIC DRESSING MAJOR (31-50%) (Extra)",
+      "billcost": 4000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "NO",
+      "sno": 804,
+      "id": "4000:804:BURNS / PLASTIC DRESSING MAJOR (31-50%) (Extra):0:RECONSTRUCTIVE PLASTIC SURGERY:DREMAJ005"
+    },
+    {
+      "billname": "BURNS / PLASTIC DRESSING SUPRAMAJOR (>50%) (Extra)",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "NO",
+      "sno": 805,
+      "id": "5000:805:BURNS / PLASTIC DRESSING SUPRAMAJOR (>50%) (Extra):0:RECONSTRUCTIVE PLASTIC SURGERY:DRESUPMAJ005"
+    },
+    {
+      "billname": "DEBRIDEMENT MINOR - RPS UNIT",
+      "billcost": 3000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 806,
+      "id": "3000:806:DEBRIDEMENT MINOR - RPS UNIT:0:RECONSTRUCTIVE PLASTIC SURGERY:DBR001"
+    },
+    {
+      "billname": "DEBRIDEMENT SUB-MAJOR - RPS UNIT",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 807,
+      "id": "5000:807:DEBRIDEMENT SUB-MAJOR - RPS UNIT:0:RECONSTRUCTIVE PLASTIC SURGERY:DBRSUB002"
+    },
+    {
+      "billname": "DEBRIDEMENT MAJOR - RPS UNIT",
+      "billcost": 10000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 808,
+      "id": "10000:808:DEBRIDEMENT MAJOR - RPS UNIT:0:RECONSTRUCTIVE PLASTIC SURGERY:DBRMA003"
+    },
+    {
+      "billname": "SUTURING (MINOR) - RPS UNIT",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 809,
+      "id": "5000:809:SUTURING (MINOR) - RPS UNIT:0:RECONSTRUCTIVE PLASTIC SURGERY:SUTM001"
+    },
+    {
+      "billname": "SUTURE REMOVAL - RPS UNIT",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 810,
+      "id": "2000:810:SUTURE REMOVAL - RPS UNIT:0:RECONSTRUCTIVE PLASTIC SURGERY:SUTRE001"
+    },
+    {
+      "billname": "STAPLE REMOVAL - RPS UNIT",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 811,
+      "id": "2000:811:STAPLE REMOVAL - RPS UNIT:0:RECONSTRUCTIVE PLASTIC SURGERY:STRE002"
+    },
+    {
+      "billname": "NEGATIVE PRESSURE WOUND THERAPY - RPS UNIT",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 812,
+      "id": "5000:812:NEGATIVE PRESSURE WOUND THERAPY - RPS UNIT:0:RECONSTRUCTIVE PLASTIC SURGERY:NEPW001"
+    },
+    {
+      "billname": "INTRALESIONAL KELOID INJECTION(MINOR) - RPS UNIT",
+      "billcost": 3000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 813,
+      "id": "3000:813:INTRALESIONAL KELOID INJECTION(MINOR) - RPS UNIT:0:RECONSTRUCTIVE PLASTIC SURGERY:INKI001"
+    },
+    {
+      "billname": "INTRALESIONAL KELOID INJECTION MAJOR (MULTIPLE SITES) - RPS UNIT",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 814,
+      "id": "5000:814:INTRALESIONAL KELOID INJECTION MAJOR (MULTIPLE SITES) - RPS UNIT:0:RECONSTRUCTIVE PLASTIC SURGERY:INKI002"
+    },
+    {
+      "billname": "K-WIRE REMOVAL (CLINIC) - RPS UNIT",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 815,
+      "id": "2000:815:K-WIRE REMOVAL (CLINIC) - RPS UNIT:0:RECONSTRUCTIVE PLASTIC SURGERY:K-W001"
+    },
+    {
+      "billname": "CAST APPLICATION - RPS UNIT",
+      "billcost": 25000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 816,
+      "id": "25000:816:CAST APPLICATION - RPS UNIT:0:RECONSTRUCTIVE PLASTIC SURGERY:CAP001"
+    },
+    {
+      "billname": "CAST REMOVAL - RPS UNIT",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 817,
+      "id": "5000:817:CAST REMOVAL - RPS UNIT:0:RECONSTRUCTIVE PLASTIC SURGERY:CAR001"
+    },
+    {
+      "billname": "NEBULIZER - RPS UNIT",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 818,
+      "id": "2000:818:NEBULIZER - RPS UNIT:0:RECONSTRUCTIVE PLASTIC SURGERY:NEB001"
+    },
+    {
+      "billname": "OXYGEN CONCENTRATOR - RPS UNIT",
+      "billcost": 3500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 819,
+      "id": "3500:819:OXYGEN CONCENTRATOR - RPS UNIT:0:RECONSTRUCTIVE PLASTIC SURGERY:OXCO001"
+    },
+    {
+      "billname": "SCAR MASSAGE - RPS UNIT",
+      "billcost": 3000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 820,
+      "id": "3000:820:SCAR MASSAGE - RPS UNIT:0:RECONSTRUCTIVE PLASTIC SURGERY:SCM002"
+    },
+    {
+      "billname": "VENOUS CUT DOWN - RPS UNIT",
+      "billcost": 10000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 821,
+      "id": "10000:821:VENOUS CUT DOWN - RPS UNIT:0:RECONSTRUCTIVE PLASTIC SURGERY:VCD002"
+    },
+    {
+      "billname": "CENTRAL LINE INSERTION PROCEDURE - RPS UNIT",
+      "billcost": 20000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 822,
+      "id": "20000:822:CENTRAL LINE INSERTION PROCEDURE - RPS UNIT:0:RECONSTRUCTIVE PLASTIC SURGERY:CLS001"
+    },
+    {
+      "billname": "URETHRAL CATHETERIZATION - RPS UNIT",
+      "billcost": 3500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 823,
+      "id": "3500:823:URETHRAL CATHETERIZATION - RPS UNIT:0:RECONSTRUCTIVE PLASTIC SURGERY:URC001"
+    },
+    {
+      "billname": "INCISION AND DRAINAGE - RPS UNIT",
+      "billcost": 16000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 824,
+      "id": "16000:824:INCISION AND DRAINAGE - RPS UNIT:0:RECONSTRUCTIVE PLASTIC SURGERY:ICD001"
+    },
+    {
+      "billname": "PSYCHOTHERAPY / COUNSELLING/WEEK - RPS UNIT",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 825,
+      "id": "5000:825:PSYCHOTHERAPY / COUNSELLING/WEEK - RPS UNIT:0:RECONSTRUCTIVE PLASTIC SURGERY:PSC001"
+    },
+    {
+      "billname": "INTITAL DEPOSIT - RPS UNIT",
+      "billcost": 0,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 849,
+      "id": "0:849:INTITAL DEPOSIT - RPS UNIT:0:RECONSTRUCTIVE PLASTIC SURGERY:INTD001"
+    },
+    {
+      "billname": "UTITY5000",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 857,
+      "id": "5000:857:UTITY5000:0:RECONSTRUCTIVE PLASTIC SURGERY:UT0001"
+    },
+    {
+      "billname": "UTITY1000",
+      "billcost": 1000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 858,
+      "id": "1000:858:UTITY1000:0:RECONSTRUCTIVE PLASTIC SURGERY:UT0002"
+    },
+    {
+      "billname": "DEBRIDEMENT MAJOR - RPS UNIT",
+      "billcost": 10000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1567,
+      "id": "10000:1567:DEBRIDEMENT MAJOR - RPS UNIT:0:RECONSTRUCTIVE PLASTIC SURGERY:"
+    },
+    {
+      "billname": "DRESSING (MINOR) - RPS UNIT",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1568,
+      "id": "2000:1568:DRESSING (MINOR) - RPS UNIT:0:RECONSTRUCTIVE PLASTIC SURGERY:"
+    },
+    {
+      "billname": "BED FEE (EXTRA DAY) - BURNS WARD",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1569,
+      "id": "5000:1569:BED FEE (EXTRA DAY) - BURNS WARD:0:RECONSTRUCTIVE PLASTIC SURGERY:"
+    },
+    {
+      "billname": "SURGERY(MINOR) - RPS UNIT",
+      "billcost": 80000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1572,
+      "id": "80000:1572:SURGERY(MINOR) - RPS UNIT:0:RECONSTRUCTIVE PLASTIC SURGERY:"
+    },
+    {
+      "billname": "SURGERY(MAJOR)  - RPS UNIT",
+      "billcost": 250000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1573,
+      "id": "250000:1573:SURGERY(MAJOR)  - RPS UNIT:0:RECONSTRUCTIVE PLASTIC SURGERY:"
+    },
+    {
+      "billname": "SURGERY(SUPRA MAJOR  A)  - RPS UNIT",
+      "billcost": 385000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1574,
+      "id": "385000:1574:SURGERY(SUPRA MAJOR  A)  - RPS UNIT:0:RECONSTRUCTIVE PLASTIC SURGERY:"
+    },
+    {
+      "billname": "SURGERY(SUPRA MAJOR  B)  - RPS UNIT",
+      "billcost": 535000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1575,
+      "id": "535000:1575:SURGERY(SUPRA MAJOR  B)  - RPS UNIT:0:RECONSTRUCTIVE PLASTIC SURGERY:"
+    },
+    {
+      "billname": "SURGERY(SUPRA MAJOR  C)  - RPS UNIT",
+      "billcost": 635000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1576,
+      "id": "635000:1576:SURGERY(SUPRA MAJOR  C)  - RPS UNIT:0:RECONSTRUCTIVE PLASTIC SURGERY:"
+    },
+    {
+      "billname": "DEBRIDEMENT SUB-MAJOR - RPS UNIT",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1577,
+      "id": "5000:1577:DEBRIDEMENT SUB-MAJOR - RPS UNIT:0:RECONSTRUCTIVE PLASTIC SURGERY:"
+    },
+    {
+      "billname": "INTRALESIONAL KELOID INJECTION (MINOR) - RPS UNIT",
+      "billcost": 3000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1578,
+      "id": "3000:1578:INTRALESIONAL KELOID INJECTION (MINOR) - RPS UNIT:0:RECONSTRUCTIVE PLASTIC SURGERY:"
+    },
+    {
+      "billname": "CONSULTATION - RPS UNIT",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1580,
+      "id": "2000:1580:CONSULTATION - RPS UNIT:0:RECONSTRUCTIVE PLASTIC SURGERY:CNSLT"
+    },
+    {
+      "billname": "Modified VAC Therapy",
+      "billcost": 50000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1581,
+      "id": "50000:1581:Modified VAC Therapy:0:RECONSTRUCTIVE PLASTIC SURGERY:"
+    },
+    {
+      "billname": "Burns Intermediate",
+      "billcost": "120000",
+      "status": 1,
+      "nf_price": "0",
+      "hmo_fees": "",
+      "sno": 1768,
+      "id": "120000:1768:Burns Intermediate:0:RECONSTRUCTIVE PLASTIC SURGERY:BI00"
+    },
+    {
+      "billname": "SUGAR - RPS UNIT",
+      "billcost": 700,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1787,
+      "id": "700:1787:SUGAR - RPS UNIT:0:RECONSTRUCTIVE PLASTIC SURGERY:SU0010"
+    },
+    {
+      "billname": "CENTRAL LINE INSERTION - RPS UNIT",
+      "billcost": "50000",
+      "status": 1,
+      "nf_price": "0",
+      "hmo_fees": "",
+      "sno": 1789,
+      "id": "50000:1789:CENTRAL LINE INSERTION - RPS UNIT:0:RECONSTRUCTIVE PLASTIC SURGERY:CLIRPS001"
+    },
+    {
+      "billname": "BURNS WARD NURSING CARE(10 DAYS)",
+      "billcost": 15000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1791,
+      "id": "15000:1791:BURNS WARD NURSING CARE(10 DAYS):0:RECONSTRUCTIVE PLASTIC SURGERY:BWNC10"
+    },
+    {
+      "billname": "BED FEE (10 DAYS) - BURNS WARD",
+      "billcost": "50000",
+      "status": 1,
+      "nf_price": "1",
+      "hmo_fees": "",
+      "sno": 1792,
+      "id": "50000:1792:BED FEE (10 DAYS) - BURNS WARD:1:RECONSTRUCTIVE PLASTIC SURGERY:BFBW10"
+    },
+    {
+      "billname": "KELIOD INJ (MAJOR)",
+      "billcost": 10000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1793,
+      "id": "10000:1793:KELIOD INJ (MAJOR):0:RECONSTRUCTIVE PLASTIC SURGERY:KIM009"
+    },
+    {
+      "billname": "CLINICAL DRESSING",
+      "billcost": "2500",
+      "status": 1,
+      "nf_price": "0",
+      "hmo_fees": "NO",
+      "sno": 1835,
+      "id": "2500:1835:CLINICAL DRESSING:0:RECONSTRUCTIVE PLASTIC SURGERY:rps001"
+    },
+    {
+      "billname": "UTILITY",
+      "billcost": "500",
+      "status": 1,
+      "nf_price": "0",
+      "hmo_fees": "NO",
+      "sno": 1836,
+      "id": "500:1836:UTILITY:0:RECONSTRUCTIVE PLASTIC SURGERY:rps001"
+    }
+  ]
+}

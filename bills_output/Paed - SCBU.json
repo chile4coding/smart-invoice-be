@@ -1,0 +1,482 @@
+{
+  "unit": "Paed - SCBU ",
+  "items": [
+    {
+      "billname": "CONSULTATION FEE",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1191,
+      "id": "2000:1191:CONSULTATION FEE:0:Paed - SCBU :"
+    },
+    {
+      "billname": "BED FEE SCBU",
+      "billcost": 4000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1192,
+      "id": "4000:1192:BED FEE SCBU:0:Paed - SCBU :"
+    },
+    {
+      "billname": "INCUBATOR CARE",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1194,
+      "id": "5000:1194:INCUBATOR CARE:0:Paed - SCBU :"
+    },
+    {
+      "billname": "PHOTOTHERAPY",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1196,
+      "id": "5000:1196:PHOTOTHERAPY:0:Paed - SCBU :"
+    },
+    {
+      "billname": "NURSES SERVICES",
+      "billcost": 1000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1198,
+      "id": "1000:1198:NURSES SERVICES:0:Paed - SCBU :"
+    },
+    {
+      "billname": "CONSUMABLES (SCBU)",
+      "billcost": 1500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1200,
+      "id": "1500:1200:CONSUMABLES (SCBU):0:Paed - SCBU :"
+    },
+    {
+      "billname": "NASOGASTRIC TUBE INSERTION",
+      "billcost": 1200,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1201,
+      "id": "1200:1201:NASOGASTRIC TUBE INSERTION:0:Paed - SCBU :"
+    },
+    {
+      "billname": "GASTRIC LARVAGE",
+      "billcost": 1500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1203,
+      "id": "1500:1203:GASTRIC LARVAGE:0:Paed - SCBU :"
+    },
+    {
+      "billname": "RANDOM BLOOD SUGAR",
+      "billcost": 700,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1204,
+      "id": "700:1204:RANDOM BLOOD SUGAR:0:Paed - SCBU :"
+    },
+    {
+      "billname": "RADIANT WARMER",
+      "billcost": 1000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1206,
+      "id": "1000:1206:RADIANT WARMER:0:Paed - SCBU :"
+    },
+    {
+      "billname": "NEBULISATION WITH SALBUTAMOL",
+      "billcost": 3000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1208,
+      "id": "3000:1208:NEBULISATION WITH SALBUTAMOL:0:Paed - SCBU :"
+    },
+    {
+      "billname": "OXYGEN CONCENTRATOR",
+      "billcost": 2500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1210,
+      "id": "2500:1210:OXYGEN CONCENTRATOR:0:Paed - SCBU :"
+    },
+    {
+      "billname": "THEATRE RESUSCITATION (SCBU)",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1211,
+      "id": "5000:1211:THEATRE RESUSCITATION (SCBU):0:Paed - SCBU :"
+    },
+    {
+      "billname": "TOP UP TRANSFUSION",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1213,
+      "id": "5000:1213:TOP UP TRANSFUSION:0:Paed - SCBU :"
+    },
+    {
+      "billname": "OXYGEN CYLINDER",
+      "billcost": 8000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1214,
+      "id": "8000:1214:OXYGEN CYLINDER:0:Paed - SCBU :"
+    },
+    {
+      "billname": "LUMBAR PUNCTURE",
+      "billcost": 3500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1218,
+      "id": "3500:1218:LUMBAR PUNCTURE:0:Paed - SCBU :"
+    },
+    {
+      "billname": "INCISION AND DRAINAGE",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1219,
+      "id": "5000:1219:INCISION AND DRAINAGE:0:Paed - SCBU :"
+    },
+    {
+      "billname": "APNOEA MONITOR",
+      "billcost": 2500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1222,
+      "id": "2500:1222:APNOEA MONITOR:0:Paed - SCBU :"
+    },
+    {
+      "billname": "INFUSION PUMP",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1224,
+      "id": "2000:1224:INFUSION PUMP:0:Paed - SCBU :"
+    },
+    {
+      "billname": "ADMISSION",
+      "billcost": 10000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1225,
+      "id": "10000:1225:ADMISSION:0:Paed - SCBU :"
+    },
+    {
+      "billname": "NASAL PRONGS",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1227,
+      "id": "2000:1227:NASAL PRONGS:0:Paed - SCBU :"
+    },
+    {
+      "billname": "EXCHANGE BLOOD TRANSFUSION",
+      "billcost": 25000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1229,
+      "id": "25000:1229:EXCHANGE BLOOD TRANSFUSION:0:Paed - SCBU :"
+    },
+    {
+      "billname": "ADMISSION DEPOSIT (SCBU)",
+      "billcost": 50000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1231,
+      "id": "50000:1231:ADMISSION DEPOSIT (SCBU):0:Paed - SCBU :"
+    },
+    {
+      "billname": "PRETERM ADMISSION DEPOSIT FOR INCUBATOR CARE",
+      "billcost": 50000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1233,
+      "id": "50000:1233:PRETERM ADMISSION DEPOSIT FOR INCUBATOR CARE:0:Paed - SCBU :"
+    },
+    {
+      "billname": "NURSES SERVICES (EXTRA DAYS)",
+      "billcost": 500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1234,
+      "id": "500:1234:NURSES SERVICES (EXTRA DAYS):0:Paed - SCBU :"
+    },
+    {
+      "billname": "1ST NEBULIZATION",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1236,
+      "id": "5000:1236:1ST NEBULIZATION:0:Paed - SCBU :"
+    },
+    {
+      "billname": "REPEAT NEBULIZATION",
+      "billcost": 3500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1238,
+      "id": "3500:1238:REPEAT NEBULIZATION:0:Paed - SCBU :"
+    },
+    {
+      "billname": "SCBU TRANSIT (SHORT STAY)",
+      "billcost": 10000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1240,
+      "id": "10000:1240:SCBU TRANSIT (SHORT STAY):0:Paed - SCBU :"
+    },
+    {
+      "billname": "WOUND DRESSING - MINIOR",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1242,
+      "id": "2000:1242:WOUND DRESSING - MINIOR:0:Paed - SCBU :"
+    },
+    {
+      "billname": "WOUND DRESSING - MAJOR",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1243,
+      "id": "5000:1243:WOUND DRESSING - MAJOR:0:Paed - SCBU :"
+    },
+    {
+      "billname": "INPATIENT DOCTORS REVIEW",
+      "billcost": 1500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1245,
+      "id": "1500:1245:INPATIENT DOCTORS REVIEW:0:Paed - SCBU :"
+    },
+    {
+      "billname": "PAEDIATRIC CARDIOLOGY ECHOCARDIOGRAPHY",
+      "billcost": 40000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1247,
+      "id": "40000:1247:PAEDIATRIC CARDIOLOGY ECHOCARDIOGRAPHY:0:Paed - SCBU :"
+    },
+    {
+      "billname": "PAEDIATRIC V-SCAN",
+      "billcost": 10000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1249,
+      "id": "10000:1249:PAEDIATRIC V-SCAN:0:Paed - SCBU :"
+    },
+    {
+      "billname": "PRETERM ADMISSION DEPOSIT (BIRTH WEIGHT 1.5-2.4KG)",
+      "billcost": 80000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1250,
+      "id": "80000:1250:PRETERM ADMISSION DEPOSIT (BIRTH WEIGHT 1.5-2.4KG):0:Paed - SCBU :"
+    },
+    {
+      "billname": "PRETERM ADMISSION DEPOSIT (BIRTH WEIGHT 1.0-1.4KG)",
+      "billcost": 150000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1252,
+      "id": "150000:1252:PRETERM ADMISSION DEPOSIT (BIRTH WEIGHT 1.0-1.4KG):0:Paed - SCBU :"
+    },
+    {
+      "billname": "PRETERM ADMISSION DEPOSIT (BIRTH WEIGHT LESS THAN 1.0KG )",
+      "billcost": 200000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1254,
+      "id": "200000:1254:PRETERM ADMISSION DEPOSIT (BIRTH WEIGHT LESS THAN 1.0KG ):0:Paed - SCBU :"
+    },
+    {
+      "billname": "ECG",
+      "billcost": 7000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1256,
+      "id": "7000:1256:ECG:0:Paed - SCBU :"
+    },
+    {
+      "billname": "LED PHOTOTHERAPY",
+      "billcost": 7000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1257,
+      "id": "7000:1257:LED PHOTOTHERAPY:0:Paed - SCBU :"
+    },
+    {
+      "billname": "CPAP",
+      "billcost": 35000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1259,
+      "id": "35000:1259:CPAP:0:Paed - SCBU :"
+    },
+    {
+      "billname": "PULSE OXIMETRY (CONTINUOUS)",
+      "billcost": 3500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1261,
+      "id": "3500:1261:PULSE OXIMETRY (CONTINUOUS):0:Paed - SCBU :"
+    },
+    {
+      "billname": "PULSE OXIMETRY (INTERMEDIATE)",
+      "billcost": 1000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1263,
+      "id": "1000:1263:PULSE OXIMETRY (INTERMEDIATE):0:Paed - SCBU :"
+    },
+    {
+      "billname": "UTILITY CHARGE (EXTRA DAYS)",
+      "billcost": 200,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1265,
+      "id": "200:1265:UTILITY CHARGE (EXTRA DAYS):0:Paed - SCBU :"
+    },
+    {
+      "billname": "UTILITY 200",
+      "billcost": 200,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1267,
+      "id": "200:1267:UTILITY 200:0:Paed - SCBU :"
+    },
+    {
+      "billname": "UTILITY 300",
+      "billcost": 300,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1269,
+      "id": "300:1269:UTILITY 300:0:Paed - SCBU :"
+    },
+    {
+      "billname": "UTILITY 500",
+      "billcost": 500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1271,
+      "id": "500:1271:UTILITY 500:0:Paed - SCBU :"
+    },
+    {
+      "billname": "UTILITY 1000",
+      "billcost": 1000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1272,
+      "id": "1000:1272:UTILITY 1000:0:Paed - SCBU :"
+    },
+    {
+      "billname": "UTILITY 2000",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1274,
+      "id": "2000:1274:UTILITY 2000:0:Paed - SCBU :"
+    },
+    {
+      "billname": "UTILITY 5000",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1276,
+      "id": "5000:1276:UTILITY 5000:0:Paed - SCBU :"
+    },
+    {
+      "billname": "ADMISSION DEPOSIT(MOTHERʼS ROOM)",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "NO",
+      "sno": 1278,
+      "id": "2000:1278:ADMISSION DEPOSIT(MOTHERʼS ROOM):0:Paed - SCBU :ADMIN"
+    },
+    {
+      "billname": "ADMISSION DEPOSIT(PERITONEAL DIALYSIS ROOM)",
+      "billcost": 50000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1279,
+      "id": "50000:1279:ADMISSION DEPOSIT(PERITONEAL DIALYSIS ROOM):0:Paed - SCBU :"
+    },
+    {
+      "billname": "ADMISSION DEPOSIT(TETANUS)",
+      "billcost": 50000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1281,
+      "id": "50000:1281:ADMISSION DEPOSIT(TETANUS):0:Paed - SCBU :"
+    },
+    {
+      "billname": "DISCHARGE FEE",
+      "billcost": 0,
+      "status": 1,
+      "nf_price": 1,
+      "hmo_fees": "",
+      "sno": 1285,
+      "id": "0:1285:DISCHARGE FEE:1:Paed - SCBU :DIS444"
+    },
+    {
+      "billname": "MOTHERʼS ROOM",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "NO",
+      "sno": 1743,
+      "id": "2000:1743:MOTHERʼS ROOM:0:Paed - SCBU :MR009"
+    }
+  ]
+}

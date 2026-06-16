@@ -6,6 +6,7 @@ import { errorHandler } from './middlewares/error.middleware';
 import authRouter from './modules/auth/auth.router';
 import userRouter from './modules/users/user.router';
 import invoiceRouter from './modules/invoices/invoice.router';
+import departmentRouter from './modules/departments/department.router';
 import swaggerSpec from './docs/swagger';
 
 const createApp = () => {
@@ -35,6 +36,7 @@ const createApp = () => {
   app.use('/api/auth', authRouter);
   app.use('/api/users', userRouter);
   app.use('/api/invoices', invoiceRouter);
+  app.use('/api/departments', departmentRouter);
 
   app.use(errorHandler);
 

@@ -1,0 +1,518 @@
+{
+  "unit": "FAMILY MEDICINE",
+  "items": [
+    {
+      "billname": "CONSULTATION FEE",
+      "billcost": 3500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1,
+      "id": "3500:1:CONSULTATION FEE:0:FAMILY MEDICINE:CNSLT"
+    },
+    {
+      "billname": "FASTING BLOOD SUGAR TEST",
+      "billcost": 1500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 4,
+      "id": "1500:4:FASTING BLOOD SUGAR TEST:0:FAMILY MEDICINE:FBST"
+    },
+    {
+      "billname": "OBSERVATION",
+      "billcost": 3000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 6,
+      "id": "3000:6:OBSERVATION:0:FAMILY MEDICINE:OBSV"
+    },
+    {
+      "billname": "WOUND DRESSING (MINOR)",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 67,
+      "id": "2000:67:WOUND DRESSING (MINOR):0:FAMILY MEDICINE:DWMJ"
+    },
+    {
+      "billname": "REMOVAL OF STITCHES",
+      "billcost": 2500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 68,
+      "id": "2500:68:REMOVAL OF STITCHES:0:FAMILY MEDICINE:ROST"
+    },
+    {
+      "billname": "CATHETERIZATION",
+      "billcost": 3000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 69,
+      "id": "3000:69:CATHETERIZATION:0:FAMILY MEDICINE:CTHZ"
+    },
+    {
+      "billname": "NEBULIZATION",
+      "billcost": 4000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 70,
+      "id": "4000:70:NEBULIZATION:0:FAMILY MEDICINE:NBLZ"
+    },
+    {
+      "billname": "NEBULIZATION (WITH NEBULES PROVIDED)",
+      "billcost": 3000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 71,
+      "id": "3000:71:NEBULIZATION (WITH NEBULES PROVIDED):0:FAMILY MEDICINE:NBLZ2"
+    },
+    {
+      "billname": "URINALYSIS",
+      "billcost": 1300,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 72,
+      "id": "1300:72:URINALYSIS:0:FAMILY MEDICINE:URNY"
+    },
+    {
+      "billname": "FAST TRACK COUNSELLING",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 73,
+      "id": "5000:73:FAST TRACK COUNSELLING:0:FAMILY MEDICINE:FTC"
+    },
+    {
+      "billname": "INCISION AND DRAINAGE",
+      "billcost": 10000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 74,
+      "id": "10000:74:INCISION AND DRAINAGE:0:FAMILY MEDICINE:IAD"
+    },
+    {
+      "billname": "GROWTH (LESS THAN 2CM)",
+      "billcost": 13500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 75,
+      "id": "13500:75:GROWTH (LESS THAN 2CM):0:FAMILY MEDICINE:GRW1"
+    },
+    {
+      "billname": "GROWTH (3CM AND ABOVE)",
+      "billcost": 21500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 76,
+      "id": "21500:76:GROWTH (3CM AND ABOVE):0:FAMILY MEDICINE:GRW2"
+    },
+    {
+      "billname": "LUMPECTOMY",
+      "billcost": 23500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 77,
+      "id": "23500:77:LUMPECTOMY:0:FAMILY MEDICINE:LMP"
+    },
+    {
+      "billname": "MINI THEATRE FEE",
+      "billcost": 28000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 84,
+      "id": "28000:84:MINI THEATRE FEE:0:FAMILY MEDICINE:MTF"
+    },
+    {
+      "billname": "MALARIA PARASITE TEST",
+      "billcost": 1500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 347,
+      "id": "1500:347:MALARIA PARASITE TEST:0:FAMILY MEDICINE:MPT"
+    },
+    {
+      "billname": "GIVING OF INJECTION",
+      "billcost": 1200,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 434,
+      "id": "1200:434:GIVING OF INJECTION:0:FAMILY MEDICINE:GOI"
+    },
+    {
+      "billname": "ISSUANCE OF EXCUSE DUTY (NON STAFF)",
+      "billcost": 3500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 435,
+      "id": "3500:435:ISSUANCE OF EXCUSE DUTY (NON STAFF):0:FAMILY MEDICINE:IOED"
+    },
+    {
+      "billname": "COUNSELLING",
+      "billcost": 500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 436,
+      "id": "500:436:COUNSELLING:0:FAMILY MEDICINE:CNSL"
+    },
+    {
+      "billname": "SHAVING",
+      "billcost": 1500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 437,
+      "id": "1500:437:SHAVING:0:FAMILY MEDICINE:SHVN"
+    },
+    {
+      "billname": "SUTURING OF WOUND",
+      "billcost": 8000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 438,
+      "id": "8000:438:SUTURING OF WOUND:0:FAMILY MEDICINE:STRN"
+    },
+    {
+      "billname": "INCISION AND DRAINAGE (INTERMEDIATE)",
+      "billcost": 15000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 439,
+      "id": "15000:439:INCISION AND DRAINAGE (INTERMEDIATE):0:FAMILY MEDICINE:IAD2"
+    },
+    {
+      "billname": "LIPOMA (2-5 CM)",
+      "billcost": 30000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 440,
+      "id": "30000:440:LIPOMA (2-5 CM):0:FAMILY MEDICINE:LIPMIN"
+    },
+    {
+      "billname": "LIPOMA (5 - 8 CM)",
+      "billcost": 35000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 441,
+      "id": "35000:441:LIPOMA (5 - 8 CM):0:FAMILY MEDICINE:LIPMIN2"
+    },
+    {
+      "billname": "LIPOMA (MINOR)",
+      "billcost": 50000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 442,
+      "id": "50000:442:LIPOMA (MINOR):0:FAMILY MEDICINE:LIPMIN3"
+    },
+    {
+      "billname": "MINOR OBSERVATION",
+      "billcost": 3000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 455,
+      "id": "3000:455:MINOR OBSERVATION:0:FAMILY MEDICINE:MINOB"
+    },
+    {
+      "billname": "INTERMEDIATE OBSERVATION",
+      "billcost": 3500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 456,
+      "id": "3500:456:INTERMEDIATE OBSERVATION:0:FAMILY MEDICINE:INTOB"
+    },
+    {
+      "billname": "MAJOR OBSERVATION",
+      "billcost": 4000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 457,
+      "id": "4000:457:MAJOR OBSERVATION:0:FAMILY MEDICINE:MAJOB"
+    },
+    {
+      "billname": "SUPRAMAJOR OBSERVATION",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 458,
+      "id": "5000:458:SUPRAMAJOR OBSERVATION:0:FAMILY MEDICINE:SUPRAOB"
+    },
+    {
+      "billname": "MINOR SURGERY",
+      "billcost": 13500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 459,
+      "id": "13500:459:MINOR SURGERY:0:FAMILY MEDICINE:MINSUR"
+    },
+    {
+      "billname": "MAJOR SURGERY",
+      "billcost": 23500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 460,
+      "id": "23500:460:MAJOR SURGERY:0:FAMILY MEDICINE:MAJSUR"
+    },
+    {
+      "billname": "SWAB COLLECTION",
+      "billcost": 900,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 461,
+      "id": "900:461:SWAB COLLECTION:0:FAMILY MEDICINE:SWACO"
+    },
+    {
+      "billname": "CONSULTATION FEE (FOLLOW UP)",
+      "billcost": 3500,
+      "status": 0,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 474,
+      "id": "3500:474:CONSULTATION FEE (FOLLOW UP):0:FAMILY MEDICINE:CNSLT"
+    },
+    {
+      "billname": "LIPOMA ( 8 - 15 CM)",
+      "billcost": 28000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 475,
+      "id": "28000:475:LIPOMA ( 8 - 15 CM):0:FAMILY MEDICINE:LFM"
+    },
+    {
+      "billname": "UTILITY200",
+      "billcost": 200,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 589,
+      "id": "200:589:UTILITY200:0:FAMILY MEDICINE:UTC001"
+    },
+    {
+      "billname": "UTILITY CHARGE (EXTRA DAYS)",
+      "billcost": 200,
+      "status": 0,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 590,
+      "id": "200:590:UTILITY CHARGE (EXTRA DAYS):0:FAMILY MEDICINE:UTC002"
+    },
+    {
+      "billname": "WOUND DRESSING (INTERMEDIATE)",
+      "billcost": 3500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 656,
+      "id": "3500:656:WOUND DRESSING (INTERMEDIATE):0:FAMILY MEDICINE:WDI"
+    },
+    {
+      "billname": "ADMISSION FOR OBSERVATION PER DAY",
+      "billcost": 4500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 664,
+      "id": "4500:664:ADMISSION FOR OBSERVATION PER DAY:0:FAMILY MEDICINE:AOP"
+    },
+    {
+      "billname": "MASS EXCISION =< 2CM",
+      "billcost": 25000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 672,
+      "id": "25000:672:MASS EXCISION =< 2CM:0:FAMILY MEDICINE:VMI"
+    },
+    {
+      "billname": "MASS EXCISION (2-5CM)",
+      "billcost": 35000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 676,
+      "id": "35000:676:MASS EXCISION (2-5CM):0:FAMILY MEDICINE:VMI"
+    },
+    {
+      "billname": "MASS EXCISION 5-8CM (LUMPECTOMY)",
+      "billcost": 42000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 680,
+      "id": "42000:680:MASS EXCISION 5-8CM (LUMPECTOMY):0:FAMILY MEDICINE:MI"
+    },
+    {
+      "billname": "UTILITY 200",
+      "billcost": 200,
+      "status": 0,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 681,
+      "id": "200:681:UTILITY 200:0:FAMILY MEDICINE:UTFM002"
+    },
+    {
+      "billname": "UTILITY 3",
+      "billcost": 500,
+      "status": 0,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 682,
+      "id": "500:682:UTILITY 3:0:FAMILY MEDICINE:UTFM003"
+    },
+    {
+      "billname": "UTILITY 1000",
+      "billcost": 1000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 683,
+      "id": "1000:683:UTILITY 1000:0:FAMILY MEDICINE:UTFM004"
+    },
+    {
+      "billname": "UTILITY 5",
+      "billcost": 2000,
+      "status": 0,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 684,
+      "id": "2000:684:UTILITY 5:0:FAMILY MEDICINE:UTFM005"
+    },
+    {
+      "billname": "UTILITY 2000",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 685,
+      "id": "2000:685:UTILITY 2000:0:FAMILY MEDICINE:UTFM006"
+    },
+    {
+      "billname": "UTILITY 500",
+      "billcost": 500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 769,
+      "id": "500:769:UTILITY 500:0:FAMILY MEDICINE:UTI500"
+    },
+    {
+      "billname": "Pulse Oximetry",
+      "billcost": 1000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1624,
+      "id": "1000:1624:Pulse Oximetry:0:FAMILY MEDICINE:POX"
+    },
+    {
+      "billname": "Keliod Injection",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1625,
+      "id": "5000:1625:Keliod Injection:0:FAMILY MEDICINE:"
+    },
+    {
+      "billname": "Gluteal/Breast Abscess",
+      "billcost": 25000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1626,
+      "id": "25000:1626:Gluteal/Breast Abscess:0:FAMILY MEDICINE:"
+    },
+    {
+      "billname": "INGROWN TOENAIL",
+      "billcost": 30000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1627,
+      "id": "30000:1627:INGROWN TOENAIL:0:FAMILY MEDICINE:"
+    },
+    {
+      "billname": "MARSUPIALIZATION",
+      "billcost": 30000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1628,
+      "id": "30000:1628:MARSUPIALIZATION:0:FAMILY MEDICINE:"
+    },
+    {
+      "billname": "GANGLION EXCISION",
+      "billcost": 25000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1629,
+      "id": "25000:1629:GANGLION EXCISION:0:FAMILY MEDICINE:"
+    },
+    {
+      "billname": "SEBACEOUS CYST EXCISION",
+      "billcost": 30000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1630,
+      "id": "30000:1630:SEBACEOUS CYST EXCISION:0:FAMILY MEDICINE:"
+    },
+    {
+      "billname": "HVS (SWAB)",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1631,
+      "id": "2000:1631:HVS (SWAB):0:FAMILY MEDICINE:"
+    },
+    {
+      "billname": "CANNULIZATION",
+      "billcost": 1500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1632,
+      "id": "1500:1632:CANNULIZATION:0:FAMILY MEDICINE:"
+    },
+    {
+      "billname": "WOUND DRESSING ",
+      "billcost": 0,
+      "status": 1,
+      "nf_price": 1,
+      "hmo_fees": "",
+      "sno": 1687,
+      "id": "0:1687:WOUND DRESSING :1:FAMILY MEDICINE:001"
+    }
+  ]
+}

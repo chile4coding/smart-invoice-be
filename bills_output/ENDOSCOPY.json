@@ -1,0 +1,41 @@
+{
+  "unit": "ENDOSCOPY",
+  "items": [
+    {
+      "billname": "Upper GI endoscopy",
+      "billcost": 77000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1512,
+      "id": "77000:1512:Upper GI endoscopy:0:ENDOSCOPY:"
+    },
+    {
+      "billname": "Colonoscopy",
+      "billcost": 137000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1513,
+      "id": "137000:1513:Colonoscopy:0:ENDOSCOPY:"
+    },
+    {
+      "billname": "Utility10000",
+      "billcost": 10000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1542,
+      "id": "10000:1542:Utility10000:0:ENDOSCOPY:"
+    },
+    {
+      "billname": "Utility5000",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1543,
+      "id": "5000:1543:Utility5000:0:ENDOSCOPY:"
+    }
+  ]
+}

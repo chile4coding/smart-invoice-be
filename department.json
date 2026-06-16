@@ -1,0 +1,961 @@
+{
+    "statuscode": 0,
+    "status": [
+        {
+            "_id": {
+                "$oid": "68ed7216cfa0ea41ac08dd6b"
+            },
+            "created_at": 1760390000,
+            "created_by": "test",
+            "desc": "ACCIDENT AND EMERGENCY",
+            "dtype": "clinic",
+            "hcode": "1",
+            "id": "11",
+            "name": "ACCIDENT AND EMERGENCY",
+            "num": "12",
+            "recno": "11",
+            "status": "1",
+            "dept_staffs": [
+                "A939",
+                "cecila.sampson"
+            ]
+        },
+        {
+            "_id": {
+                "$oid": "68e9949e128ffc790a0aea28"
+            },
+            "id": 54,
+            "recno": 54,
+            "name": "ACCIDENT AND EMERGENCY (CHER)",
+            "hcode": "1",
+            "dtype": "clinic",
+            "status": 1,
+            "dept_group": null,
+            "created_at": 1622636731,
+            "dept_staffs": [
+                "godspower.pepple"
+            ]
+        },
+        {
+            "_id": {
+                "$oid": "68e9949e128ffc790a0aea29"
+            },
+            "id": 55,
+            "recno": 55,
+            "name": "ACCIDENT AND EMERGENCY (LABOUR WARD)",
+            "hcode": "1",
+            "dtype": "clinic",
+            "status": 1,
+            "dept_group": null,
+            "created_at": 1622636751
+        },
+        {
+            "_id": {
+                "$oid": "68e9949e128ffc790a0aea2a"
+            },
+            "id": 56,
+            "recno": 56,
+            "name": "ACCIDENT AND EMERGENCY (SCBU)",
+            "hcode": "1",
+            "dtype": "clinic",
+            "status": 1,
+            "dept_group": "",
+            "created_at": 1622641427
+        },
+        {
+            "_id": {
+                "$oid": "68e9949e128ffc790a0aea3b"
+            },
+            "id": 74,
+            "recno": 74,
+            "name": "ACTIVE STORE",
+            "hcode": "1",
+            "dtype": "department",
+            "status": 1,
+            "dept_group": null,
+            "created_at": 1712562278
+        },
+        {
+            "_id": {
+                "$oid": "68e9949e128ffc790a0aea40"
+            },
+            "id": 79,
+            "recno": 79,
+            "name": "AMBULANCE SERVICES",
+            "hcode": "1",
+            "dtype": "department",
+            "status": 1,
+            "dept_group": null,
+            "created_at": 1732093117
+        },
+        {
+            "_id": {
+                "$oid": "68e9949e128ffc790a0aea1c"
+            },
+            "id": 22,
+            "recno": 22,
+            "name": "ANAESTHESIA",
+            "hcode": "1",
+            "dtype": "department",
+            "status": 1,
+            "dept_group": null,
+            "created_at": 1571744669,
+            "desc": "00",
+            "num": null
+        },
+        {
+            "_id": {
+                "$oid": "68e9949e128ffc790a0aea24"
+            },
+            "id": 50,
+            "recno": 50,
+            "name": "ANATOMICAL PATHOLOGY(LABORATORY)",
+            "hcode": "1",
+            "dtype": "department",
+            "status": 1,
+            "dept_group": "LABORATORY",
+            "created_at": 1607411983,
+            "dept_staffs": [
+                "akasili.mercy"
+            ],
+            "desc": "0000",
+            "num": null,
+            "updated_at": 1778746334
+        },
+        {
+            "_id": {
+                "$oid": "68e9949e128ffc790a0aea46"
+            },
+            "id": 85,
+            "recno": 85,
+            "name": "ANC STORE",
+            "hcode": "1",
+            "dtype": "department",
+            "status": 1,
+            "dept_group": "",
+            "created_at": 1738321163
+        },
+        {
+            "_id": {
+                "$oid": "68e9949e128ffc790a0aea3c"
+            },
+            "id": 75,
+            "recno": 75,
+            "name": "ANNEX STORE",
+            "hcode": "1",
+            "dtype": "department",
+            "status": 1,
+            "dept_group": null,
+            "created_at": 1712562330
+        },
+        {
+            "_id": {
+                "$oid": "69d61401a1aa5132fd074d64"
+            },
+            "created_at": 1775637505,
+            "created_by": "gladys.jasper",
+            "desc": "0000",
+            "dtype": "department",
+            "hcode": "1",
+            "id": 97,
+            "name": "CARDIOLOGY",
+            "num": "5"
+        },
+        {
+            "_id": {
+                "$oid": "68e9949e128ffc790a0aea21"
+            },
+            "id": 41,
+            "recno": 41,
+            "name": "CATERING",
+            "hcode": "1",
+            "dtype": "clinic",
+            "status": 1,
+            "dept_group": "",
+            "created_at": 1576277652
+        },
+        {
+            "_id": {
+                "$oid": "68e9949e128ffc790a0aea25"
+            },
+            "id": 51,
+            "recno": 51,
+            "name": "CHEMICAL PATHOLOGY (LABORATORY)",
+            "hcode": "1",
+            "dtype": "department",
+            "status": 1,
+            "dept_group": "LABORATORY",
+            "created_at": 1607411997,
+            "dept_staffs": [
+                "mercy.akasili"
+            ],
+            "desc": "0000",
+            "num": null,
+            "updated_at": 1778746315
+        },
+        {
+            "_id": {
+                "$oid": "68e9949e128ffc790a0aea2d"
+            },
+            "id": 59,
+            "recno": 59,
+            "name": "COMMUNITY MEDICINE",
+            "hcode": "1",
+            "dtype": "department",
+            "status": 1,
+            "dept_group": null,
+            "created_at": 1679478939
+        },
+        {
+            "_id": {
+                "$oid": "68e9949e128ffc790a0aea1e"
+            },
+            "id": 24,
+            "recno": 24,
+            "name": "CSSD",
+            "hcode": "1",
+            "dtype": "department",
+            "status": 1,
+            "dept_group": null,
+            "created_at": 1571745442,
+            "dept_staffs": [
+                "grace.harry"
+            ],
+            "desc": "000",
+            "num": null
+        },
+        {
+            "_id": {
+                "$oid": "68e9949e128ffc790a0aea10"
+            },
+            "id": 10,
+            "recno": 10,
+            "name": "DENTAL CLINIC",
+            "hcode": "1",
+            "dtype": "clinic",
+            "status": 1,
+            "dept_group": null,
+            "created_at": 1541754507,
+            "dept_staffs": [
+                "chidalu.woyike"
+            ]
+        },
+        {
+            "_id": {
+                "$oid": "68e9949e128ffc790a0aea4b"
+            },
+            "id": 90,
+            "recno": 90,
+            "name": "DIETETICS CLINIC",
+            "hcode": "1",
+            "dtype": "clinic",
+            "status": 1,
+            "dept_group": null,
+            "created_at": 1739356692
+        },
+        {
+            "_id": {
+                "$oid": "68e9949e128ffc790a0aea13"
+            },
+            "id": 13,
+            "recno": 13,
+            "name": "EAR, NOSE AND THROAT",
+            "hcode": "1",
+            "dtype": "clinic",
+            "status": 1,
+            "dept_group": null,
+            "created_at": 1541754558,
+            "dept_staffs": [
+                "gift.odikibiebuma"
+            ]
+        },
+        {
+            "_id": {
+                "$oid": "68e9949e128ffc790a0aea4a"
+            },
+            "id": 89,
+            "recno": 89,
+            "name": "ENDOSCOPY",
+            "hcode": "1",
+            "dtype": "department",
+            "status": 1,
+            "dept_group": null,
+            "created_at": 1738559481
+        },
+        {
+            "_id": {
+                "$oid": "68e9949e128ffc790a0aea15"
+            },
+            "id": 15,
+            "recno": 15,
+            "name": "FAMILY MEDICINE",
+            "hcode": "1",
+            "dtype": "clinic",
+            "status": 1,
+            "dept_group": null,
+            "created_at": 1541805412,
+            "dept_staffs": [
+                "dr.oguzor"
+            ]
+        },
+        {
+            "_id": {
+                "$oid": "68e9949e128ffc790a0aea2c"
+            },
+            "id": 58,
+            "recno": 58,
+            "name": "GENITOURINARY\/STI",
+            "hcode": "1",
+            "dtype": "clinic",
+            "status": 1,
+            "dept_group": null,
+            "created_at": 1677151393
+        },
+        {
+            "_id": {
+                "$oid": "68e9949e128ffc790a0aea32"
+            },
+            "id": 64,
+            "recno": 64,
+            "name": "HAEMATOLOGY AND BLOOD TRANSFUSION(LABORATORY)",
+            "hcode": "1",
+            "dtype": "department",
+            "status": 1,
+            "dept_group": "LABORATORY",
+            "created_at": 1699707690,
+            "dept_staffs": [
+                "oliver.ege"
+            ],
+            "desc": "HBT",
+            "num": null
+        },
+        {
+            "_id": {
+                "$oid": "68e9949e128ffc790a0aea16"
+            },
+            "id": 16,
+            "recno": 16,
+            "name": "HAEMATOLOGY CLINIC",
+            "hcode": "1",
+            "dtype": "clinic",
+            "status": 1,
+            "dept_group": null,
+            "created_at": 1563462109,
+            "dept_staffs": [
+                "faith.ohaka1"
+            ]
+        },
+        {
+            "_id": {
+                "$oid": "68e9949e128ffc790a0aea23"
+            },
+            "id": 49,
+            "recno": 49,
+            "name": "HOLDING CENTRE",
+            "hcode": "1",
+            "dtype": "department",
+            "status": 1,
+            "dept_group": "",
+            "created_at": 1595888247,
+            "desc": "Ho",
+            "num": null
+        },
+        {
+            "_id": {
+                "$oid": "68e9949e128ffc790a0aea27"
+            },
+            "id": 53,
+            "recno": 53,
+            "name": "ICT",
+            "hcode": "1",
+            "dtype": "department",
+            "status": 1,
+            "dept_group": null,
+            "created_at": 1619435669
+        },
+        {
+            "_id": {
+                "$oid": "68e9949e128ffc790a0aea33"
+            },
+            "id": 65,
+            "recno": 65,
+            "name": "IDU MOLECULAR LAB",
+            "hcode": "1",
+            "dtype": "department",
+            "status": 1,
+            "dept_group": "LABORATORY",
+            "created_at": 1699876343,
+            "desc": "0000",
+            "num": null
+        },
+        {
+            "_id": {
+                "$oid": "68e9949e128ffc790a0aea4c"
+            },
+            "id": 91,
+            "recno": 91,
+            "name": "IN-PATIENT STORE",
+            "hcode": "1",
+            "dtype": "department",
+            "status": 1,
+            "dept_group": "PHARMACY",
+            "created_at": 1756303798
+        },
+        {
+            "_id": {
+                "$oid": "68e9949e128ffc790a0aea42"
+            },
+            "id": 81,
+            "recno": 81,
+            "name": "INFECTIOUS DISEASE UNIT (IDU) ",
+            "hcode": "1",
+            "dtype": "department",
+            "status": 1,
+            "dept_group": "",
+            "created_at": 1733094912,
+            "desc": "IDU000",
+            "num": null
+        },
+        {
+            "_id": {
+                "$oid": "68e9949e128ffc790a0aea30"
+            },
+            "id": 62,
+            "recno": 62,
+            "name": "INTENSIVE CARE UNIT (ICU)",
+            "hcode": "1",
+            "dtype": "department",
+            "status": 1,
+            "dept_group": null,
+            "created_at": 1695643771,
+            "desc": "ICU",
+            "num": null
+        },
+        {
+            "_id": {
+                "$oid": "68e9949e128ffc790a0aea0d"
+            },
+            "id": 7,
+            "recno": 7,
+            "name": "INTERNAL MEDICINE",
+            "hcode": "1",
+            "dtype": "clinic",
+            "status": 1,
+            "dept_group": null,
+            "created_at": 1541754461,
+            "dept_staffs": [
+                "blessing.okere1"
+            ]
+        },
+        {
+            "_id": {
+                "$oid": "68e9949e128ffc790a0aea0a"
+            },
+            "id": 3,
+            "recno": 3,
+            "name": "LABORATORY",
+            "hcode": "1",
+            "dtype": "department",
+            "status": 1,
+            "dept_group": "",
+            "created_at": 1540764292,
+            "desc": "000",
+            "num": null,
+            "updated_at": 1778582314
+        },
+        {
+            "_id": {
+                "$oid": "68e9949e128ffc790a0aea1b"
+            },
+            "id": 21,
+            "recno": 21,
+            "name": "LENS",
+            "hcode": "1",
+            "dtype": "department",
+            "status": 1,
+            "dept_group": null,
+            "created_at": 1569320077,
+            "desc": "LENS",
+            "num": null
+        },
+        {
+            "_id": {
+                "$oid": "68e9949e128ffc790a0aea26"
+            },
+            "id": 52,
+            "recno": 52,
+            "name": "MEDICAL MICROBIOLOGY(LABORATORY)",
+            "hcode": "1",
+            "dtype": "department",
+            "status": 1,
+            "dept_group": "LABORATORY",
+            "created_at": 1607412014,
+            "dept_staffs": [
+                "maureen.egop-ogor"
+            ],
+            "desc": "00",
+            "num": null,
+            "updated_at": 1778582294
+        },
+        {
+            "_id": {
+                "$oid": "68e9949e128ffc790a0aea2f"
+            },
+            "id": 61,
+            "recno": 61,
+            "name": "MEDICAL OXYGEN",
+            "hcode": "1",
+            "dtype": "department",
+            "status": 1,
+            "dept_group": null,
+            "created_at": 1694516360
+        },
+        {
+            "_id": {
+                "$oid": "68e9949e128ffc790a0aea43"
+            },
+            "id": 82,
+            "recno": 82,
+            "name": "MINIMAL ACCESS UNIT",
+            "hcode": "1",
+            "dtype": "department",
+            "status": 1,
+            "dept_group": "",
+            "created_at": 1737965298
+        },
+        {
+            "_id": {
+                "$oid": "68e9949e128ffc790a0aea48"
+            },
+            "id": 87,
+            "recno": 87,
+            "name": "MODULAR THEATRE  STORE",
+            "hcode": "1",
+            "dtype": "department",
+            "status": 1,
+            "dept_group": "",
+            "created_at": 1738321228
+        },
+        {
+            "_id": {
+                "$oid": "68e9949e128ffc790a0aea18"
+            },
+            "id": 18,
+            "recno": 18,
+            "name": "NHIS",
+            "hcode": "1",
+            "dtype": "department",
+            "status": 1,
+            "dept_group": null,
+            "created_at": 1563800339,
+            "desc": "0000",
+            "num": null
+        },
+        {
+            "_id": {
+                "$oid": "68e9949e128ffc790a0aea49"
+            },
+            "id": 88,
+            "recno": 88,
+            "name": "O&G, THEATRE  STORE",
+            "hcode": "1",
+            "dtype": "department",
+            "status": 1,
+            "dept_group": null,
+            "created_at": 1738321248
+        },
+        {
+            "_id": {
+                "$oid": "69ae9915a4864d5a9f1fd69a"
+            },
+            "created_at": 1773050000,
+            "created_by": "gladys.jasper",
+            "desc": "SCAN001",
+            "dtype": "department",
+            "hcode": "1",
+            "id": 96,
+            "name": "OBSTETRIC SCAN",
+            "num": null
+        },
+        {
+            "_id": {
+                "$oid": "68e9949e128ffc790a0aea0f"
+            },
+            "id": 9,
+            "recno": 9,
+            "name": "OBSTETRICS AND GYNAECOLOGY",
+            "hcode": "1",
+            "dtype": "clinic",
+            "status": 1,
+            "dept_group": null,
+            "created_at": 1541754490,
+            "dept_staffs": [
+                "faith.george"
+            ]
+        },
+        {
+            "_id": {
+                "$oid": "69f21c4b8d2e0d3dda1324c7"
+            },
+            "created_at": 1777474634,
+            "created_by": "eno.ayako",
+            "desc": "00",
+            "dtype": "department",
+            "hcode": "1",
+            "id": 99,
+            "name": "ONCOLOGY PHAMACY",
+            "num": "22"
+        },
+        {
+            "_id": {
+                "$oid": "69df3b11611e2d65b57d9b82"
+            },
+            "created_at": 1776237329,
+            "created_by": "gladys.jasper",
+            "desc": "000",
+            "dtype": "department",
+            "hcode": "1",
+            "id": 98,
+            "name": "OPD STORE",
+            "num": "2"
+        },
+        {
+            "_id": {
+                "$oid": "68e9949e128ffc790a0aea12"
+            },
+            "id": 12,
+            "recno": 12,
+            "name": "OPHTHALMOLOGY",
+            "hcode": "1",
+            "dtype": "clinic",
+            "status": 1,
+            "dept_group": null,
+            "created_at": 1541754541,
+            "dept_staffs": [
+                "amaugo.esther"
+            ]
+        },
+        {
+            "_id": {
+                "$oid": "68e9949e128ffc790a0aea1a"
+            },
+            "id": 20,
+            "recno": 20,
+            "name": "ORTHOPAEDICS AND TRAUMA",
+            "hcode": "1",
+            "dtype": "department",
+            "status": 1,
+            "dept_group": "",
+            "created_at": 1566741921,
+            "desc": "ORT",
+            "num": null
+        },
+        {
+            "_id": {
+                "$oid": "68e9949e128ffc790a0aea0e"
+            },
+            "id": 8,
+            "recno": 8,
+            "name": "PAEDIATRIC",
+            "hcode": "1",
+            "dtype": "clinic",
+            "status": 1,
+            "dept_group": "",
+            "created_at": 1541754476,
+            "dept_staffs": [
+                "eferebo.christopher"
+            ],
+            "desc": "PA",
+            "num": null
+        },
+        {
+            "_id": {
+                "$oid": "68e9949e128ffc790a0aea47"
+            },
+            "id": 86,
+            "recno": 86,
+            "name": "PAEDIATRICS STORE",
+            "hcode": "1",
+            "dtype": "department",
+            "status": 1,
+            "dept_group": null,
+            "created_at": 1738321184
+        },
+        {
+            "_id": {
+                "$oid": "68e9949e128ffc790a0aea08"
+            },
+            "id": 1,
+            "recno": 1,
+            "name": "PHARMACY",
+            "hcode": "1",
+            "dtype": "department",
+            "status": 1,
+            "dept_group": "",
+            "created_at": 1540764250,
+            "dept_staffs": [
+                "nancy.suku"
+            ],
+            "desc": "000",
+            "num": null
+        },
+        {
+            "_id": {
+                "$oid": "68e9949e128ffc790a0aea14"
+            },
+            "id": 14,
+            "recno": 14,
+            "name": "PHYSIOTHERAPY",
+            "hcode": "1",
+            "dtype": "clinic",
+            "status": 1,
+            "dept_group": null,
+            "created_at": 1541754574,
+            "dept_staffs": [
+                "abiye.asikiya"
+            ]
+        },
+        {
+            "_id": {
+                "$oid": "68e9949e128ffc790a0aea38"
+            },
+            "id": 70,
+            "recno": 70,
+            "name": "POTTS JOHNSON",
+            "hcode": "1",
+            "dtype": "clinic",
+            "status": 1,
+            "dept_group": null,
+            "created_at": 1700054718,
+            "dept_staffs": [
+                "morrison.piegbe"
+            ]
+        },
+        {
+            "_id": {
+                "$oid": "68e9949e128ffc790a0aea34"
+            },
+            "id": 66,
+            "recno": 66,
+            "name": "Paed - CHER",
+            "hcode": "1",
+            "dtype": "department",
+            "status": 1,
+            "dept_group": null,
+            "created_at": 1699960659
+        },
+        {
+            "_id": {
+                "$oid": "68e9949e128ffc790a0aea36"
+            },
+            "id": 68,
+            "recno": 68,
+            "name": "Paed - POPD",
+            "hcode": "1",
+            "dtype": "clinic",
+            "status": 1,
+            "dept_group": null,
+            "created_at": 1699960725,
+            "dept_staffs": [
+                "chidi.koro"
+            ],
+            "desc": "000",
+            "num": null
+        },
+        {
+            "_id": {
+                "$oid": "68e9949e128ffc790a0aea35"
+            },
+            "id": 67,
+            "recno": 67,
+            "name": "Paed - SCBU ",
+            "hcode": "1",
+            "dtype": "department",
+            "status": 1,
+            "dept_group": null,
+            "created_at": 1699960697
+        },
+        {
+            "_id": {
+                "$oid": "68e9949e128ffc790a0aea37"
+            },
+            "id": 69,
+            "recno": 69,
+            "name": "Paed - WARD",
+            "hcode": "1",
+            "dtype": "department",
+            "status": 1,
+            "dept_group": null,
+            "created_at": 1699960745
+        },
+        {
+            "_id": {
+                "$oid": "68e9949e128ffc790a0aea09"
+            },
+            "id": 2,
+            "recno": 2,
+            "name": "RADIOLOGY",
+            "hcode": "1",
+            "dtype": "department",
+            "status": 1,
+            "dept_group": null,
+            "created_at": 1540764272,
+            "dept_staffs": [
+                "ijeoma.prabo"
+            ]
+        },
+        {
+            "_id": {
+                "$oid": "68e9949e128ffc790a0aea31"
+            },
+            "id": 63,
+            "recno": 63,
+            "name": "RECONSTRUCTIVE PLASTIC SURGERY",
+            "hcode": "1",
+            "dtype": "department",
+            "status": 1,
+            "dept_group": null,
+            "created_at": 1695726634,
+            "dept_staffs": [
+                "happiness.amara1"
+            ],
+            "desc": "0000",
+            "num": null
+        },
+        {
+            "_id": {
+                "$oid": "68e9949e128ffc790a0aea0b"
+            },
+            "id": 4,
+            "recno": 4,
+            "name": "RECORDS",
+            "hcode": "1",
+            "dtype": "department",
+            "status": 1,
+            "dept_group": "",
+            "created_at": 1540764301,
+            "dept_staffs": [
+                "stacy.opara"
+            ]
+        },
+        {
+            "_id": {
+                "$oid": "690c664a35ced225f276713d"
+            },
+            "created_at": 1762420000,
+            "created_by": "gladys.jasper",
+            "desc": "00000",
+            "dtype": "department",
+            "hcode": "1",
+            "id": 95,
+            "name": "REDUCTION",
+            "num": "3"
+        },
+        {
+            "_id": {
+                "$oid": "68e9949e128ffc790a0aea2b"
+            },
+            "id": 57,
+            "recno": 57,
+            "name": "RENAL CENTRE",
+            "hcode": "1",
+            "dtype": "department",
+            "status": 1,
+            "dept_group": null,
+            "created_at": 1675510660,
+            "dept_staffs": [
+                "boma.george"
+            ],
+            "desc": "0000",
+            "num": null
+        },
+        {
+            "_id": {
+                "$oid": "68e9949e128ffc790a0aea3f"
+            },
+            "id": 78,
+            "recno": 78,
+            "name": "STROKE CENTRE",
+            "hcode": "1",
+            "dtype": "clinic",
+            "status": 1,
+            "dept_group": null,
+            "created_at": 1729168847
+        },
+        {
+            "_id": {
+                "$oid": "68e9949e128ffc790a0aea0c"
+            },
+            "id": 6,
+            "recno": 6,
+            "name": "SURGERY",
+            "hcode": "1",
+            "dtype": "clinic",
+            "status": 1,
+            "dept_group": null,
+            "created_at": 1541754409,
+            "dept_staffs": [
+                "otonye.minaye-jack"
+            ]
+        },
+        {
+            "_id": {
+                "$oid": "68e9949e128ffc790a0aea3d"
+            },
+            "id": 76,
+            "recno": 76,
+            "name": "SURGERY (NEURO)",
+            "hcode": "1",
+            "dtype": "clinic",
+            "status": 1,
+            "dept_group": null,
+            "created_at": 1722767525
+        },
+        {
+            "_id": {
+                "$oid": "68e9949e128ffc790a0aea19"
+            },
+            "id": 19,
+            "recno": 19,
+            "name": "SURGERY (UROLOGY)",
+            "hcode": "1",
+            "dtype": "clinic",
+            "status": 1,
+            "dept_group": "",
+            "created_at": 1566741857,
+            "dept_staffs": [
+                "chukwuma.adibe1"
+            ]
+        },
+        {
+            "_id": {
+                "$oid": "68e9949e128ffc790a0aea1d"
+            },
+            "id": 23,
+            "recno": 23,
+            "name": "THEATRE",
+            "hcode": "1",
+            "dtype": "department",
+            "status": 1,
+            "dept_group": null,
+            "created_at": 1571744922,
+            "desc": "THA",
+            "num": null
+        },
+        {
+            "_id": {
+                "$oid": "68e9949e128ffc790a0aea20"
+            },
+            "id": 40,
+            "recno": 40,
+            "name": "VIP",
+            "hcode": "1",
+            "dtype": "department",
+            "status": 1,
+            "dept_group": null,
+            "created_at": 1576277407,
+            "desc": "Vl009",
+            "num": null
+        }
+    ]
+}

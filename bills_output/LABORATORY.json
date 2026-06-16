@@ -1,0 +1,261 @@
+{
+  "unit": "LABORATORY",
+  "items": [
+    {
+      "billname": "Full Hormonal Assay",
+      "billcost": "8000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "8000:24:Full Hormonal Assay:0:LABORATORY"
+    },
+    {
+      "billname": "TFT",
+      "billcost": "6000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "6000:31:TFT:0:LABORATORY"
+    },
+    {
+      "billname": "Stool Microscopy",
+      "billcost": "1",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "1:43:Stool Microscopy:0:LABORATORY"
+    },
+    {
+      "billname": "Sputum AFB",
+      "billcost": 0,
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "0:48:Sputum AFB:0:LABORATORY"
+    },
+    {
+      "billname": "Gene Expert(TBI)",
+      "billcost": 0,
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "0:59:Gene Expert(TBI):0:LABORATORY"
+    },
+    {
+      "billname": "Anion gap ",
+      "billcost": "1",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "1:80:Anion gap :0:LABORATORY"
+    },
+    {
+      "billname": "SGOT",
+      "billcost": "1",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "1:85:SGOT:0:LABORATORY"
+    },
+    {
+      "billname": "SGPT",
+      "billcost": "1",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "1:86:SGPT:0:LABORATORY"
+    },
+    {
+      "billname": "Seminal Analysis",
+      "billcost": "1",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "1:104:Seminal Analysis:0:LABORATORY"
+    },
+    {
+      "billname": "Pregnancy Test (Urine)",
+      "billcost": "1",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "1:105:Pregnancy Test (Urine):0:LABORATORY"
+    },
+    {
+      "billname": "Alpha Feto Protein",
+      "billcost": "1",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "1:118:Alpha Feto Protein:0:LABORATORY"
+    },
+    {
+      "billname": "Kidney Function Test",
+      "billcost": "5000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "5000:127:Kidney Function Test:0:LABORATORY"
+    },
+    {
+      "billname": "Fasting Blood Sugar",
+      "billcost": "1",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "1:149:Fasting Blood Sugar:0:LABORATORY"
+    },
+    {
+      "billname": "RBS",
+      "billcost": 700,
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "700:152:RBS:0:LABORATORY"
+    },
+    {
+      "billname": "FBS",
+      "billcost": "700",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "700:154:FBS:0:LABORATORY"
+    },
+    {
+      "billname": "2HAPP",
+      "billcost": "1",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "1:155:2HAPP:0:LABORATORY"
+    },
+    {
+      "billname": "S/E/U/CR",
+      "billcost": "4000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "4000:159:S/E/U/CR:0:LABORATORY"
+    },
+    {
+      "billname": "WBC",
+      "billcost": 800,
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "800:164:WBC:0:LABORATORY"
+    },
+    {
+      "billname": "RVS",
+      "billcost": 0,
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "0:165:RVS:0:LABORATORY"
+    },
+    {
+      "billname": "URINE MICROSCOPY",
+      "billcost": "1",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "1:180:URINE MICROSCOPY:0:LABORATORY"
+    },
+    {
+      "billname": "SFA",
+      "billcost": "1",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "1:182:SFA:0:LABORATORY"
+    },
+    {
+      "billname": "Emzor Varicellae Vaccine (Chickenpox vaccine)",
+      "billcost": "17900",
+      "status": 0,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "17900:202:Emzor Varicellae Vaccine (Chickenpox vaccine):0:LABORATORY"
+    },
+    {
+      "billname": "Emzor Hapititis A 1ml",
+      "billcost": "1",
+      "status": 0,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "1:203:Emzor Hapititis A 1ml:0:LABORATORY"
+    },
+    {
+      "billname": "Emzor Hapititis A vaccine 0.5ml",
+      "billcost": "9300",
+      "status": 0,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "9300:204:Emzor Hapititis A vaccine 0.5ml:0:LABORATORY"
+    },
+    {
+      "billname": "Genevac B 1ml (Hapititis B)",
+      "billcost": "5200",
+      "status": 0,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "5200:205:Genevac B 1ml (Hapititis B):0:LABORATORY"
+    },
+    {
+      "billname": "SODIUM",
+      "billcost": "600",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "600:207:SODIUM:0:LABORATORY"
+    },
+    {
+      "billname": "2-HOUR POST-PRANDIAL",
+      "billcost": "1",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "1:224:2-HOUR POST-PRANDIAL:0:LABORATORY"
+    },
+    {
+      "billname": "BLOOD CULTURE (CHILDREN)",
+      "billcost": "1",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "1:225:BLOOD CULTURE (CHILDREN):0:LABORATORY"
+    },
+    {
+      "billname": "SFA - M/C/S",
+      "billcost": "1",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "1:228:SFA - M/C/S:0:LABORATORY"
+    },
+    {
+      "billname": "ICS - M/C/S",
+      "billcost": "1",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "1:229:ICS - M/C/S:0:LABORATORY"
+    },
+    {
+      "billname": "SPECIALIZED PROCEDURES & RELEASE OF RESULT (STI CLINIC)",
+      "billcost": "1",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "1:230:SPECIALIZED PROCEDURES & RELEASE OF RESULT (STI CLINIC):0:LABORATORY"
+    },
+    {
+      "billname": "COMPLETE PANEL",
+      "billcost": "1",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "1:300:COMPLETE PANEL:0:LABORATORY"
+    }
+  ]
+}

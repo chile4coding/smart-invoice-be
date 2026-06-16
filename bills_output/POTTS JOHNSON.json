@@ -1,0 +1,338 @@
+{
+  "unit": "POTTS JOHNSON",
+  "items": [
+    {
+      "billname": "MALARIA PARASITE",
+      "billcost": 2500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 622,
+      "id": "2500:622:MALARIA PARASITE:0:POTTS JOHNSON:MP005"
+    },
+    {
+      "billname": "WIDAL",
+      "billcost": 2500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 623,
+      "id": "2500:623:WIDAL:0:POTTS JOHNSON:WI005"
+    },
+    {
+      "billname": "PCV",
+      "billcost": 500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 624,
+      "id": "500:624:PCV:0:POTTS JOHNSON:PV005"
+    },
+    {
+      "billname": "FULL BLOOD COUNT",
+      "billcost": 3500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 625,
+      "id": "3500:625:FULL BLOOD COUNT:0:POTTS JOHNSON:FBC005"
+    },
+    {
+      "billname": "URINALYSIS",
+      "billcost": 1500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 626,
+      "id": "1500:626:URINALYSIS:0:POTTS JOHNSON:URI005"
+    },
+    {
+      "billname": "STOOL ANALYSIS",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 627,
+      "id": "2000:627:STOOL ANALYSIS:0:POTTS JOHNSON:SA005"
+    },
+    {
+      "billname": "FAECAL OCCULT BLOOD",
+      "billcost": 1000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 628,
+      "id": "1000:628:FAECAL OCCULT BLOOD:0:POTTS JOHNSON:FOB005"
+    },
+    {
+      "billname": "FBS/RBS",
+      "billcost": 1000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 629,
+      "id": "1000:629:FBS/RBS:0:POTTS JOHNSON:FRBS005"
+    },
+    {
+      "billname": "BLOOD GROUP",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 630,
+      "id": "2000:630:BLOOD GROUP:0:POTTS JOHNSON:BGS005"
+    },
+    {
+      "billname": "GENOTYPE",
+      "billcost": 2500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 631,
+      "id": "2500:631:GENOTYPE:0:POTTS JOHNSON:G005"
+    },
+    {
+      "billname": "PREGNANCY TEST",
+      "billcost": 2500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 632,
+      "id": "2500:632:PREGNANCY TEST:0:POTTS JOHNSON:PT005"
+    },
+    {
+      "billname": "HEPATITIS B",
+      "billcost": 3000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 633,
+      "id": "3000:633:HEPATITIS B:0:POTTS JOHNSON:HB005"
+    },
+    {
+      "billname": "HEPATITIS C",
+      "billcost": 3000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 634,
+      "id": "3000:634:HEPATITIS C:0:POTTS JOHNSON:HC005"
+    },
+    {
+      "billname": "VDRL",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 635,
+      "id": "2000:635:VDRL:0:POTTS JOHNSON:VD005"
+    },
+    {
+      "billname": "H.PYLORI",
+      "billcost": 3000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 636,
+      "id": "3000:636:H.PYLORI:0:POTTS JOHNSON:HP005"
+    },
+    {
+      "billname": "ESR",
+      "billcost": 1500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 637,
+      "id": "1500:637:ESR:0:POTTS JOHNSON:ES005"
+    },
+    {
+      "billname": "ANTENATAL REGISTRATION",
+      "billcost": 25000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 638,
+      "id": "25000:638:ANTENATAL REGISTRATION:0:POTTS JOHNSON:AR005"
+    },
+    {
+      "billname": "DELIVERY(BOOKED)",
+      "billcost": 15000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 639,
+      "id": "15000:639:DELIVERY(BOOKED):0:POTTS JOHNSON:DB005"
+    },
+    {
+      "billname": "DELIVERY(UNBOOKED)",
+      "billcost": 20000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 640,
+      "id": "20000:640:DELIVERY(UNBOOKED):0:POTTS JOHNSON:DUB005"
+    },
+    {
+      "billname": "OUT PATIENT CARD",
+      "billcost": 500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 641,
+      "id": "500:641:OUT PATIENT CARD:0:POTTS JOHNSON:OPC005"
+    },
+    {
+      "billname": "CONSULTATION FEE",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 642,
+      "id": "2000:642:CONSULTATION FEE:0:POTTS JOHNSON:CF005"
+    },
+    {
+      "billname": "CARD RENEWAL",
+      "billcost": 500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 643,
+      "id": "500:643:CARD RENEWAL:0:POTTS JOHNSON:CR005"
+    },
+    {
+      "billname": "OBSTETRIC ULTRASOUND SCAN",
+      "billcost": 2500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 644,
+      "id": "2500:644:OBSTETRIC ULTRASOUND SCAN:0:POTTS JOHNSON:OUS005"
+    },
+    {
+      "billname": "UTILITY200",
+      "billcost": 200,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 657,
+      "id": "200:657:UTILITY200:0:POTTS JOHNSON:UTPJ001"
+    },
+    {
+      "billname": "UTILITY500",
+      "billcost": 500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 658,
+      "id": "500:658:UTILITY500:0:POTTS JOHNSON:UTPJ002"
+    },
+    {
+      "billname": "REGISTRATION",
+      "billcost": 0,
+      "status": 1,
+      "nf_price": 1,
+      "hmo_fees": "",
+      "sno": 1348,
+      "id": "0:1348:REGISTRATION:1:POTTS JOHNSON:FLCON"
+    },
+    {
+      "billname": "FOLLOW UP",
+      "billcost": 0,
+      "status": 1,
+      "nf_price": 1,
+      "hmo_fees": "",
+      "sno": 1349,
+      "id": "0:1349:FOLLOW UP:1:POTTS JOHNSON:FLUP"
+    },
+    {
+      "billname": "UTILITY 300",
+      "billcost": 300,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1351,
+      "id": "300:1351:UTILITY 300:0:POTTS JOHNSON:"
+    },
+    {
+      "billname": "DRUGS",
+      "billcost": 0,
+      "status": 1,
+      "nf_price": 1,
+      "hmo_fees": "",
+      "sno": 1732,
+      "id": "0:1732:DRUGS:1:POTTS JOHNSON:DG001"
+    },
+    {
+      "billname": "CIRCUMCISION",
+      "billcost": 6500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1752,
+      "id": "6500:1752:CIRCUMCISION:0:POTTS JOHNSON:CIR005"
+    },
+    {
+      "billname": "IV ADMIN(OUT PATIENT)",
+      "billcost": 4000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1753,
+      "id": "4000:1753:IV ADMIN(OUT PATIENT):0:POTTS JOHNSON:IV005"
+    },
+    {
+      "billname": "EAR PIERCING",
+      "billcost": 1000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1754,
+      "id": "1000:1754:EAR PIERCING:0:POTTS JOHNSON:EP005"
+    },
+    {
+      "billname": "PCV/HB",
+      "billcost": 1500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1755,
+      "id": "1500:1755:PCV/HB:0:POTTS JOHNSON:PCHB005"
+    },
+    {
+      "billname": "STOOL CULTURE",
+      "billcost": 4000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1757,
+      "id": "4000:1757:STOOL CULTURE:0:POTTS JOHNSON:SC009"
+    },
+    {
+      "billname": "URINE MCS",
+      "billcost": 4000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1758,
+      "id": "4000:1758:URINE MCS:0:POTTS JOHNSON:UMCS008"
+    },
+    {
+      "billname": "SWAB MCS",
+      "billcost": 4000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1759,
+      "id": "4000:1759:SWAB MCS:0:POTTS JOHNSON:UMCS008"
+    },
+    {
+      "billname": "GOPD",
+      "billcost": 3000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1781,
+      "id": "3000:1781:GOPD:0:POTTS JOHNSON:FOP009"
+    }
+  ]
+}

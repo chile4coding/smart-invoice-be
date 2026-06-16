@@ -1,0 +1,20 @@
+[
+    {
+        "billname": "DRUGS",
+        "billcost": 6700,
+        "status": 1,
+        "nf_price": 1,
+        "hmo_fees": "",
+        "sno": 1374,
+        "id": "6700:1374:DRUGS:1:ACTIVE STORE:DR002"
+    },
+    {
+        "billname": "D",
+        "billcost": 0,
+        "status": 0,
+        "nf_price": "1",
+        "hmo_fees": "",
+        "sno": 1767,
+        "id": "0:1767:D:1:ACTIVE STORE:D000"
+    }
+]

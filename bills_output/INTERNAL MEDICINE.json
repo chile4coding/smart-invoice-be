@@ -1,0 +1,644 @@
+{
+  "unit": "INTERNAL MEDICINE",
+  "items": [
+    {
+      "billname": "CONSULTATION FEE",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 20,
+      "id": "2000:20:CONSULTATION FEE:0:INTERNAL MEDICINE:CNSLT"
+    },
+    {
+      "billname": "GLUCOSE",
+      "billcost": 400,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 270,
+      "id": "400:270:GLUCOSE:0:INTERNAL MEDICINE:GLC"
+    },
+    {
+      "billname": "URINE",
+      "billcost": 300,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 271,
+      "id": "300:271:URINE:0:INTERNAL MEDICINE:URN"
+    },
+    {
+      "billname": "ECG",
+      "billcost": 8000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 272,
+      "id": "8000:272:ECG:0:INTERNAL MEDICINE:ECG"
+    },
+    {
+      "billname": "ADMISSION",
+      "billcost": 32000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 273,
+      "id": "32000:273:ADMISSION:0:INTERNAL MEDICINE:ADM"
+    },
+    {
+      "billname": "BED FEE (EXTRA DAYS)",
+      "billcost": 3000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 274,
+      "id": "3000:274:BED FEE (EXTRA DAYS):0:INTERNAL MEDICINE:BFEE"
+    },
+    {
+      "billname": "SKIN BIOSPH",
+      "billcost": 10000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 425,
+      "id": "10000:425:SKIN BIOSPH:0:INTERNAL MEDICINE:SBIO"
+    },
+    {
+      "billname": "ECHO",
+      "billcost": 37000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 444,
+      "id": "37000:444:ECHO:0:INTERNAL MEDICINE:645"
+    },
+    {
+      "billname": "NEBULIZATION",
+      "billcost": 4000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 462,
+      "id": "4000:462:NEBULIZATION:0:INTERNAL MEDICINE:NEBU001"
+    },
+    {
+      "billname": "INTRA-LESIONAL INJECTION",
+      "billcost": 3000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 463,
+      "id": "3000:463:INTRA-LESIONAL INJECTION:0:INTERNAL MEDICINE:INTJ001"
+    },
+    {
+      "billname": "UREA BREATH TEST",
+      "billcost": 20000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 478,
+      "id": "20000:478:UREA BREATH TEST:0:INTERNAL MEDICINE:UBT001"
+    },
+    {
+      "billname": "BIOTENSIOMETER",
+      "billcost": 6000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 479,
+      "id": "6000:479:BIOTENSIOMETER:0:INTERNAL MEDICINE:BTM001"
+    },
+    {
+      "billname": "HBAIC",
+      "billcost": 13000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 480,
+      "id": "13000:480:HBAIC:0:INTERNAL MEDICINE:HB001"
+    },
+    {
+      "billname": "ADMISSION DEPOSIT (VIP)",
+      "billcost": 84000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 483,
+      "id": "84000:483:ADMISSION DEPOSIT (VIP):0:INTERNAL MEDICINE:ADV"
+    },
+    {
+      "billname": "BED FEE (VIP)",
+      "billcost": 8000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 486,
+      "id": "8000:486:BED FEE (VIP):0:INTERNAL MEDICINE:BFV"
+    },
+    {
+      "billname": "ABDOMINAL PARACENTESIS",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 487,
+      "id": "5000:487:ABDOMINAL PARACENTESIS:0:INTERNAL MEDICINE:ABP"
+    },
+    {
+      "billname": "BLADDER CATHETERIZATION",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 488,
+      "id": "2000:488:BLADDER CATHETERIZATION:0:INTERNAL MEDICINE:BLC"
+    },
+    {
+      "billname": "WOUND DRESSING (SMALL0",
+      "billcost": 1000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 489,
+      "id": "1000:489:WOUND DRESSING (SMALL0:0:INTERNAL MEDICINE:WDS"
+    },
+    {
+      "billname": "WOUND DRESSING (MEDIUM)",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 490,
+      "id": "2000:490:WOUND DRESSING (MEDIUM):0:INTERNAL MEDICINE:WDM"
+    },
+    {
+      "billname": "WOUND DRESSING (LARGE)",
+      "billcost": 2500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 491,
+      "id": "2500:491:WOUND DRESSING (LARGE):0:INTERNAL MEDICINE:WDL"
+    },
+    {
+      "billname": "N-G TUBE",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 493,
+      "id": "2000:493:N-G TUBE:0:INTERNAL MEDICINE:N-GT"
+    },
+    {
+      "billname": "OXYGEN",
+      "billcost": 8000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 494,
+      "id": "8000:494:OXYGEN:0:INTERNAL MEDICINE:OXG"
+    },
+    {
+      "billname": "SETTING A LINE",
+      "billcost": 500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 495,
+      "id": "500:495:SETTING A LINE:0:INTERNAL MEDICINE:SAL"
+    },
+    {
+      "billname": "STRESS ECG",
+      "billcost": 65000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 563,
+      "id": "65000:563:STRESS ECG:0:INTERNAL MEDICINE:ST001"
+    },
+    {
+      "billname": "UTILITY CHARGE (EXTRA DAYS)",
+      "billcost": 200,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 592,
+      "id": "200:592:UTILITY CHARGE (EXTRA DAYS):0:INTERNAL MEDICINE:UTC002"
+    },
+    {
+      "billname": "UTILITY100",
+      "billcost": 100,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 603,
+      "id": "100:603:UTILITY100:0:INTERNAL MEDICINE:UTC001"
+    },
+    {
+      "billname": "UTILITY500",
+      "billcost": 500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 687,
+      "id": "500:687:UTILITY500:0:INTERNAL MEDICINE:UTIM003"
+    },
+    {
+      "billname": "UTILITY1000",
+      "billcost": 1000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 688,
+      "id": "1000:688:UTILITY1000:0:INTERNAL MEDICINE:UTIM004"
+    },
+    {
+      "billname": "UTILITY2000",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 689,
+      "id": "2000:689:UTILITY2000:0:INTERNAL MEDICINE:UTIM005"
+    },
+    {
+      "billname": "UTILITY3000",
+      "billcost": 3000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 690,
+      "id": "3000:690:UTILITY3000:0:INTERNAL MEDICINE:UTIM006"
+    },
+    {
+      "billname": "UTILITY5000",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 691,
+      "id": "5000:691:UTILITY5000:0:INTERNAL MEDICINE:UTIM007"
+    },
+    {
+      "billname": "RBS/FBS",
+      "billcost": 700,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 718,
+      "id": "700:718:RBS/FBS:0:INTERNAL MEDICINE:RBF"
+    },
+    {
+      "billname": "LUMBAR PUNCTURE",
+      "billcost": 4000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 719,
+      "id": "4000:719:LUMBAR PUNCTURE:0:INTERNAL MEDICINE:LUP"
+    },
+    {
+      "billname": "RECTAL EXAMINATION",
+      "billcost": 2500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 720,
+      "id": "2500:720:RECTAL EXAMINATION:0:INTERNAL MEDICINE:REX"
+    },
+    {
+      "billname": "VAGINAL EXAMINATION",
+      "billcost": 1000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 721,
+      "id": "1000:721:VAGINAL EXAMINATION:0:INTERNAL MEDICINE:VAX"
+    },
+    {
+      "billname": "URINALYSIS",
+      "billcost": 500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 722,
+      "id": "500:722:URINALYSIS:0:INTERNAL MEDICINE:URI"
+    },
+    {
+      "billname": "CARDIAC MONITORING",
+      "billcost": 4000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 723,
+      "id": "4000:723:CARDIAC MONITORING:0:INTERNAL MEDICINE:CAM"
+    },
+    {
+      "billname": "DEFIBRILLATOR",
+      "billcost": 75000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 724,
+      "id": "75000:724:DEFIBRILLATOR:0:INTERNAL MEDICINE:DEF"
+    },
+    {
+      "billname": "CADIOVASION",
+      "billcost": 100000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 725,
+      "id": "100000:725:CADIOVASION:0:INTERNAL MEDICINE:CAD"
+    },
+    {
+      "billname": "PERICARDIXENTHESIS",
+      "billcost": 100000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 726,
+      "id": "100000:726:PERICARDIXENTHESIS:0:INTERNAL MEDICINE:PERX"
+    },
+    {
+      "billname": "HOLTER ECG",
+      "billcost": 45000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 727,
+      "id": "45000:727:HOLTER ECG:0:INTERNAL MEDICINE:HOM"
+    },
+    {
+      "billname": "AMBULATORY",
+      "billcost": 50000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 728,
+      "id": "50000:728:AMBULATORY:0:INTERNAL MEDICINE:ABP"
+    },
+    {
+      "billname": "ADMISSION DEPOSIT (VIP) EXTRA DAYS",
+      "billcost": 10000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 731,
+      "id": "10000:731:ADMISSION DEPOSIT (VIP) EXTRA DAYS:0:INTERNAL MEDICINE:ADV"
+    },
+    {
+      "billname": "UTILITY200",
+      "billcost": 200,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 760,
+      "id": "200:760:UTILITY200:0:INTERNAL MEDICINE:UTI002"
+    },
+    {
+      "billname": "UTILITY 800",
+      "billcost": 800,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 768,
+      "id": "800:768:UTILITY 800:0:INTERNAL MEDICINE:IBT006"
+    },
+    {
+      "billname": "WIFI DIGITAL DERMOSCOPY",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1338,
+      "id": "5000:1338:WIFI DIGITAL DERMOSCOPY:0:INTERNAL MEDICINE:"
+    },
+    {
+      "billname": "WOOD LAMP",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1339,
+      "id": "5000:1339:WOOD LAMP:0:INTERNAL MEDICINE:"
+    },
+    {
+      "billname": "DERMOSCOPY",
+      "billcost": 15000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1340,
+      "id": "15000:1340:DERMOSCOPY:0:INTERNAL MEDICINE:"
+    },
+    {
+      "billname": "ELECTROCAULEY",
+      "billcost": 15000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1341,
+      "id": "15000:1341:ELECTROCAULEY:0:INTERNAL MEDICINE:"
+    },
+    {
+      "billname": "INTRALESONEL TCA",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1342,
+      "id": "5000:1342:INTRALESONEL TCA:0:INTERNAL MEDICINE:"
+    },
+    {
+      "billname": "CHEMICAL ABRASION",
+      "billcost": 20000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1343,
+      "id": "20000:1343:CHEMICAL ABRASION:0:INTERNAL MEDICINE:"
+    },
+    {
+      "billname": "LASER",
+      "billcost": 25000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1344,
+      "id": "25000:1344:LASER:0:INTERNAL MEDICINE:"
+    },
+    {
+      "billname": "Electroencephalogram (EEG)",
+      "billcost": 35000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1430,
+      "id": "35000:1430:Electroencephalogram (EEG):0:INTERNAL MEDICINE:"
+    },
+    {
+      "billname": "Spirometry",
+      "billcost": 28000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1475,
+      "id": "28000:1475:Spirometry:0:INTERNAL MEDICINE:"
+    },
+    {
+      "billname": "Clinical Psychology",
+      "billcost": 5000,
+      "status": 0,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1476,
+      "id": "5000:1476:Clinical Psychology:0:INTERNAL MEDICINE:"
+    },
+    {
+      "billname": "PSYCHOLOGIST CONSULTATION",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1540,
+      "id": "5000:1540:PSYCHOLOGIST CONSULTATION:0:INTERNAL MEDICINE:PCON"
+    },
+    {
+      "billname": "PUNCH BIOPSY - DERMATOLOGY",
+      "billcost": 15000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1558,
+      "id": "15000:1558:PUNCH BIOPSY - DERMATOLOGY:0:INTERNAL MEDICINE:D009"
+    },
+    {
+      "billname": "INTRALESIONAL TRIAMCINOLONE - DERMATOLOGY",
+      "billcost": 0,
+      "status": 1,
+      "nf_price": 1,
+      "hmo_fees": "",
+      "sno": 1559,
+      "id": "0:1559:INTRALESIONAL TRIAMCINOLONE - DERMATOLOGY:1:INTERNAL MEDICINE:D010"
+    },
+    {
+      "billname": "ELECTRODESSICATION/ELECTROCAUTERY - DERMATOLOGY",
+      "billcost": 0,
+      "status": 1,
+      "nf_price": 1,
+      "hmo_fees": "",
+      "sno": 1560,
+      "id": "0:1560:ELECTRODESSICATION/ELECTROCAUTERY - DERMATOLOGY:1:INTERNAL MEDICINE:D011"
+    },
+    {
+      "billname": "CRYOTHERAPY - DERMATOLOGY",
+      "billcost": 0,
+      "status": 1,
+      "nf_price": 1,
+      "hmo_fees": "",
+      "sno": 1561,
+      "id": "0:1561:CRYOTHERAPY - DERMATOLOGY:1:INTERNAL MEDICINE:D011"
+    },
+    {
+      "billname": "IMMUNOTHERAPY FOR GENITAL/PLANAR WARTS - DERMATOLOGY",
+      "billcost": 15000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1562,
+      "id": "15000:1562:IMMUNOTHERAPY FOR GENITAL/PLANAR WARTS - DERMATOLOGY:0:INTERNAL MEDICINE:D012"
+    },
+    {
+      "billname": "CHEMICAL PEEL - DERMATOLOGY",
+      "billcost": 50000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1563,
+      "id": "50000:1563:CHEMICAL PEEL - DERMATOLOGY:0:INTERNAL MEDICINE:D013"
+    },
+    {
+      "billname": "MICRONEEDING - DERMATOLOGY",
+      "billcost": 0,
+      "status": 1,
+      "nf_price": 1,
+      "hmo_fees": "",
+      "sno": 1564,
+      "id": "0:1564:MICRONEEDING - DERMATOLOGY:1:INTERNAL MEDICINE:D014"
+    },
+    {
+      "billname": "PATCH TESTING - DERMATOLOGY",
+      "billcost": 85000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1565,
+      "id": "85000:1565:PATCH TESTING - DERMATOLOGY:0:INTERNAL MEDICINE:D015"
+    },
+    {
+      "billname": "PRP PROCEDURE - DERMATOLOGY",
+      "billcost": 0,
+      "status": 1,
+      "nf_price": 1,
+      "hmo_fees": "",
+      "sno": 1566,
+      "id": "0:1566:PRP PROCEDURE - DERMATOLOGY:1:INTERNAL MEDICINE:D015"
+    },
+    {
+      "billname": "DIABETIC ADMISSION RBS (5 DAYS)",
+      "billcost": 10500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1706,
+      "id": "10500:1706:DIABETIC ADMISSION RBS (5 DAYS):0:INTERNAL MEDICINE:"
+    },
+    {
+      "billname": "IN-PATIENT RBS/FBS",
+      "billcost": 2100,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1707,
+      "id": "2100:1707:IN-PATIENT RBS/FBS:0:INTERNAL MEDICINE:"
+    },
+    {
+      "billname": "ROUTINE MORN/EVEN",
+      "billcost": 1400,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1708,
+      "id": "1400:1708:ROUTINE MORN/EVEN:0:INTERNAL MEDICINE:"
+    },
+    {
+      "billname": "RBS/FBS",
+      "billcost": 700,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1709,
+      "id": "700:1709:RBS/FBS:0:INTERNAL MEDICINE:"
+    },
+    {
+      "billname": "BED FEE (EXTRA 7 INTERDAYS)",
+      "billcost": "21000",
+      "status": 1,
+      "nf_price": "0",
+      "hmo_fees": "",
+      "sno": 1790,
+      "id": "21000:1790:BED FEE (EXTRA 7 INTERDAYS):0:INTERNAL MEDICINE:BAEX"
+    },
+    {
+      "billname": "HOLTER ECG",
+      "billcost": "45000",
+      "status": 0,
+      "nf_price": "0",
+      "hmo_fees": "",
+      "sno": 1794,
+      "id": "45000:1794:HOLTER ECG:0:INTERNAL MEDICINE:HECG001"
+    }
+  ]
+}

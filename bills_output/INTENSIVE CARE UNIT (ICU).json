@@ -1,0 +1,50 @@
+{
+  "unit": "INTENSIVE CARE UNIT (ICU)",
+  "items": [
+    {
+      "billname": "IN-PATIENT (72HRS)",
+      "billcost": 250000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 780,
+      "id": "250000:780:IN-PATIENT (72HRS):0:INTENSIVE CARE UNIT (ICU):INP001"
+    },
+    {
+      "billname": "IN-PATIENT (EXTRA DAYS)",
+      "billcost": 750000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 781,
+      "id": "750000:781:IN-PATIENT (EXTRA DAYS):0:INTENSIVE CARE UNIT (ICU):INP002"
+    },
+    {
+      "billname": "REFERRAL (EXTRA DAYS)",
+      "billcost": 250000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 782,
+      "id": "250000:782:REFERRAL (EXTRA DAYS):0:INTENSIVE CARE UNIT (ICU):REF002"
+    },
+    {
+      "billname": "REFERRAL (72HRS)",
+      "billcost": 1000000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 783,
+      "id": "1000000:783:REFERRAL (72HRS):0:INTENSIVE CARE UNIT (ICU):REF001"
+    },
+    {
+      "billname": "ICU DEPOSIT",
+      "billcost": 0,
+      "status": 1,
+      "nf_price": 1,
+      "hmo_fees": "",
+      "sno": 784,
+      "id": "0:784:ICU DEPOSIT:1:INTENSIVE CARE UNIT (ICU):ICUD001"
+    }
+  ]
+}

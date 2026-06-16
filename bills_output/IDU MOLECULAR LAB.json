@@ -1,0 +1,167 @@
+{
+  "unit": "IDU MOLECULAR LAB",
+  "items": [
+    {
+      "billname": "COVID-19 PCR TEST",
+      "billcost": 30000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1125,
+      "id": "30000:1125:COVID-19 PCR TEST:0:IDU MOLECULAR LAB:C19PC"
+    },
+    {
+      "billname": "HEPATITIS B VIRAL LOAD",
+      "billcost": 40000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1126,
+      "id": "40000:1126:HEPATITIS B VIRAL LOAD:0:IDU MOLECULAR LAB:HBVL001"
+    },
+    {
+      "billname": "NT-PRO BNP",
+      "billcost": 21000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1127,
+      "id": "21000:1127:NT-PRO BNP:0:IDU MOLECULAR LAB:HBVL002"
+    },
+    {
+      "billname": "TROPONIN 1",
+      "billcost": 16000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1128,
+      "id": "16000:1128:TROPONIN 1:0:IDU MOLECULAR LAB:TRO001"
+    },
+    {
+      "billname": "D-DIMER",
+      "billcost": 16000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1129,
+      "id": "16000:1129:D-DIMER:0:IDU MOLECULAR LAB:DD002"
+    },
+    {
+      "billname": "C-REFRACTIVE PROTEIN",
+      "billcost": 16000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1130,
+      "id": "16000:1130:C-REFRACTIVE PROTEIN:0:IDU MOLECULAR LAB:CRP009"
+    },
+    {
+      "billname": "PRO CALCITONIN",
+      "billcost": 21000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1131,
+      "id": "21000:1131:PRO CALCITONIN:0:IDU MOLECULAR LAB:PROC003"
+    },
+    {
+      "billname": "FBC",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1132,
+      "id": "5000:1132:FBC:0:IDU MOLECULAR LAB:FB004"
+    },
+    {
+      "billname": "E/U/CR",
+      "billcost": 7000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1133,
+      "id": "7000:1133:E/U/CR:0:IDU MOLECULAR LAB:EUCR009"
+    },
+    {
+      "billname": "GLUCOSE",
+      "billcost": 1000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1134,
+      "id": "1000:1134:GLUCOSE:0:IDU MOLECULAR LAB:GLU009"
+    },
+    {
+      "billname": "LIPID PROFILE",
+      "billcost": 6500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1135,
+      "id": "6500:1135:LIPID PROFILE:0:IDU MOLECULAR LAB:LP009"
+    },
+    {
+      "billname": "URINALYSIS",
+      "billcost": 2500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1136,
+      "id": "2500:1136:URINALYSIS:0:IDU MOLECULAR LAB:UR009"
+    },
+    {
+      "billname": "UTILITY 5000",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1137,
+      "id": "5000:1137:UTILITY 5000:0:IDU MOLECULAR LAB:UTI009"
+    },
+    {
+      "billname": "UTILITY 3000",
+      "billcost": 3000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1138,
+      "id": "3000:1138:UTILITY 3000:0:IDU MOLECULAR LAB:UTI008"
+    },
+    {
+      "billname": "UTILITY 1000",
+      "billcost": 1000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1139,
+      "id": "1000:1139:UTILITY 1000:0:IDU MOLECULAR LAB:UTI007"
+    },
+    {
+      "billname": "UTILITY 500",
+      "billcost": 500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1140,
+      "id": "500:1140:UTILITY 500:0:IDU MOLECULAR LAB:UTI006"
+    },
+    {
+      "billname": "UTILITY 200",
+      "billcost": 200,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1141,
+      "id": "200:1141:UTILITY 200:0:IDU MOLECULAR LAB:UTI005"
+    },
+    {
+      "billname": "HEPATITIS B MARKER",
+      "billcost": 10000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1436,
+      "id": "10000:1436:HEPATITIS B MARKER:0:IDU MOLECULAR LAB:"
+    }
+  ]
+}

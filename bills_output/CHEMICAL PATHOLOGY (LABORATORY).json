@@ -1,0 +1,909 @@
+{
+  "unit": "CHEMICAL PATHOLOGY (LABORATORY)",
+  "items": [
+    {
+      "billname": "Electrolyte",
+      "billcost": "6000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "6000:19:Electrolyte:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "Fasting Blood Glucose",
+      "billcost": "1000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "1000:20:Fasting Blood Glucose:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "BETA-HCG",
+      "billcost": "29000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "29000:21:BETA-HCG:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "HBA1C",
+      "billcost": "12000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "12000:22:HBA1C:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "Lipid Profile",
+      "billcost": "5500",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "5500:23:Lipid Profile:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "Uric acid",
+      "billcost": "2000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "2000:25:Uric acid:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "Calcium",
+      "billcost": "2000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "2000:26:Calcium:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "Liver Function Test",
+      "billcost": "7800",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "7800:27:Liver Function Test:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "PSA",
+      "billcost": "1",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "1:28:PSA:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "AFP",
+      "billcost": "21000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "21000:29:AFP:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "Enzymes",
+      "billcost": "1800",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "1800:30:Enzymes:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "O.G.T.T",
+      "billcost": "4000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "4000:32:O.G.T.T:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "CSF BIOCHEMISTRY",
+      "billcost": "9000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "9000:33:CSF BIOCHEMISTRY:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "Antibody Screening",
+      "billcost": "5000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "5000:36:Antibody Screening:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "Sex Determination",
+      "billcost": "12000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "12000:63:Sex Determination:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "Creatinine",
+      "billcost": "2000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "2000:75:Creatinine:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "Sodium",
+      "billcost": "800",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "800:76:Sodium:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "Potassium",
+      "billcost": "800",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "800:77:Potassium:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "Chloride",
+      "billcost": "800",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "800:78:Chloride:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "C-Peptide",
+      "billcost": "12000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "12000:81:C-Peptide:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "Insulin",
+      "billcost": "15000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "15000:82:Insulin:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "Bilirubin (Total & Direct)",
+      "billcost": "2000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "2000:83:Bilirubin (Total & Direct):0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "Alkaline Phosphate",
+      "billcost": "1000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "1000:84:Alkaline Phosphate:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "Albumin",
+      "billcost": "1200",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "1200:87:Albumin:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "Total Protein ",
+      "billcost": "1200",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "1200:88:Total Protein :0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "Bence Jones Protein",
+      "billcost": "5000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "5000:89:Bence Jones Protein:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "Cardiac Markers (CKMB)",
+      "billcost": "16000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "16000:90:Cardiac Markers (CKMB):0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "Cardiac Markers (Troponin 1)",
+      "billcost": "16000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "16000:91:Cardiac Markers (Troponin 1):0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "Cardiac Markers (Myoglobin)",
+      "billcost": "5000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "5000:92:Cardiac Markers (Myoglobin):0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "D-dimer",
+      "billcost": "16000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "16000:93:D-dimer:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "C-Reactive Protein",
+      "billcost": "16000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "16000:94:C-Reactive Protein:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "Total Cholesterol",
+      "billcost": "1500",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "1500:96:Total Cholesterol:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "HDL",
+      "billcost": "1500",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "1500:97:HDL:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "LDL",
+      "billcost": "1000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "1000:98:LDL:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "Triglycerides",
+      "billcost": "1500",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "1500:99:Triglycerides:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "Chlamydia serology",
+      "billcost": "5000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "5000:103:Chlamydia serology:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "ASO Titre",
+      "billcost": "3000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "3000:109:ASO Titre:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "Female Hormone Profile (LH only)",
+      "billcost": "5000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "NO",
+      "id": "5000:111:Female Hormone Profile (LH only):0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "Female Hormone Profile (FSH only)",
+      "billcost": "5000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "NO",
+      "id": "5000:112:Female Hormone Profile (FSH only):0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "Female Hormone Profile (Prolactin only)",
+      "billcost": "3500",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "3500:113:Female Hormone Profile (Prolactin only):0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "Female Hormone Profile (Progesterone only)",
+      "billcost": "5000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "NO",
+      "id": "5000:114:Female Hormone Profile (Progesterone only):0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "Female Hormone Profile (Estradiol) ",
+      "billcost": "6000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "NO",
+      "id": "6000:115:Female Hormone Profile (Estradiol) :0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "Full Male Hormone Profile",
+      "billcost": "25000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "NO",
+      "id": "25000:116:Full Male Hormone Profile:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "Thyroid Function Tests  ",
+      "billcost": "25000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "25000:117:Thyroid Function Tests  :0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "Testosterone",
+      "billcost": "6000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "NO",
+      "id": "6000:119:Testosterone:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "PSA FREE",
+      "billcost": "15000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "15000:120:PSA FREE:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "Free T3/Free T4",
+      "billcost": "20000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "20000:121:Free T3/Free T4:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "Urea",
+      "billcost": "2000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "2000:124:Urea:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "CSF (Protein)",
+      "billcost": "3000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "3000:129:CSF (Protein):0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "CSF (Glucose)",
+      "billcost": "3000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "3000:130:CSF (Glucose):0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "FREE T3",
+      "billcost": "10000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "10000:135:FREE T3:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "FREE T4",
+      "billcost": "10000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "10000:136:FREE T4:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "TSH",
+      "billcost": "10000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "10000:137:TSH:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "Free T3",
+      "billcost": "5000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "5000:138:Free T3:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "Free T4",
+      "billcost": "5000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "5000:139:Free T4:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "Male Hormone Profile (LH only)",
+      "billcost": "5000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "NO",
+      "id": "5000:140:Male Hormone Profile (LH only):0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "Male Hormone Profile (FSH only)",
+      "billcost": "5000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "NO",
+      "id": "5000:141:Male Hormone Profile (FSH only):0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "Male Hormone Profile (Prolactin only)",
+      "billcost": "3500",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "3500:142:Male Hormone Profile (Prolactin only):0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "Ca 15-3",
+      "billcost": "12000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "12000:143:Ca 15-3:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "Ca 19-9",
+      "billcost": "24000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "24000:144:Ca 19-9:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "Full Female Hormone Profile",
+      "billcost": "25000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "NO",
+      "id": "25000:145:Full Female Hormone Profile:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "Albumin/Total Protein",
+      "billcost": "2400",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "2400:150:Albumin/Total Protein:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "Urea & Creatinine",
+      "billcost": "4000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "4000:151:Urea & Creatinine:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "LFT",
+      "billcost": "9000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "9000:153:LFT:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "2HAPP+FBS",
+      "billcost": "2000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "2000:156:2HAPP+FBS:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "Ca2+",
+      "billcost": "1400",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "1400:157:Ca2+:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "SERUM BILIRUBIN ",
+      "billcost": "2000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "2000:158:SERUM BILIRUBIN :0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "OGTT",
+      "billcost": "5000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "5000:161:OGTT:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "FOB",
+      "billcost": "1500",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "1500:181:FOB:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "FBS + 2hrs Post Prandial",
+      "billcost": "1000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "1000:190:FBS + 2hrs Post Prandial:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "MAGNESIUM",
+      "billcost": "3000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "3000:196:MAGNESIUM:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "PHOSPHATE",
+      "billcost": "2000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "2000:197:PHOSPHATE:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "Bicarbonate",
+      "billcost": "800",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "800:209:Bicarbonate:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "Free Ionized Calcium",
+      "billcost": "1400",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "1400:210:Free Ionized Calcium:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "Anion Gap",
+      "billcost": "800",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "800:211:Anion Gap:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "PH",
+      "billcost": "800",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "800:212:PH:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "Full Electrolytes, Anion Gap & PH",
+      "billcost": "3500",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "3500:213:Full Electrolytes, Anion Gap & PH:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "Random Blood Glucose",
+      "billcost": "1000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "1000:214:Random Blood Glucose:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "GGT",
+      "billcost": "2000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "2000:215:GGT:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "Pro-Calcitonin",
+      "billcost": "21000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "21000:216:Pro-Calcitonin:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "CSF ELECTROPHORESIS",
+      "billcost": "10000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "10000:231:CSF ELECTROPHORESIS:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "URINE BIOCHEMISTRY",
+      "billcost": "6000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "6000:232:URINE BIOCHEMISTRY:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "URINE TOXICOLOGICAL SCREENING",
+      "billcost": "45000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "45000:233:URINE TOXICOLOGICAL SCREENING:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "URINE ELECTROPHORESIS",
+      "billcost": "10000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "10000:234:URINE ELECTROPHORESIS:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "Pro-BNP",
+      "billcost": "21000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "21000:282:Pro-BNP:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "UTILITY200",
+      "billcost": "200",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "200:286:UTILITY200:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "UTILITY 1000",
+      "billcost": "1000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "1000:297:UTILITY 1000:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "AST",
+      "billcost": "1000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "1000:301:AST:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "ALT",
+      "billcost": "1000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "1000:302:ALT:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "UTILITY 500",
+      "billcost": "500",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "500:306:UTILITY 500:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "Ca-125",
+      "billcost": "24000",
+      "status": "",
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "24000:329:Ca-125:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "Carcinoembryonic antigen (CEA)",
+      "billcost": "24000",
+      "status": "",
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "24000:330:Carcinoembryonic antigen (CEA):0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "PSA TOTAL",
+      "billcost": "10000",
+      "status": "",
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "10000:332:PSA TOTAL:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "LDH",
+      "billcost": "4500",
+      "status": "",
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "4500:333:LDH:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "TOTAL T3",
+      "billcost": "10000",
+      "status": "",
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "10000:334:TOTAL T3:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "TOTAL T4",
+      "billcost": "10000",
+      "status": "",
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "10000:335:TOTAL T4:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "TROPONIN ",
+      "billcost": "8500",
+      "status": "",
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "8500:337:TROPONIN :0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "D-Dimer",
+      "billcost": "8500",
+      "status": "",
+      "nf_price": 0,
+      "hmo_fees": "YES",
+      "id": "8500:340:D-Dimer:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "Troponin",
+      "billcost": "8500",
+      "status": "",
+      "nf_price": 0,
+      "hmo_fees": "YES",
+      "id": "8500:341:Troponin:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "C-Reactive Protein",
+      "billcost": "8500",
+      "status": "",
+      "nf_price": 0,
+      "hmo_fees": "YES",
+      "id": "8500:342:C-Reactive Protein:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "HBA1C",
+      "billcost": "6500",
+      "status": "",
+      "nf_price": 0,
+      "hmo_fees": "YES",
+      "id": "6500:343:HBA1C:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "Pro-BNP",
+      "billcost": "11000",
+      "status": "",
+      "nf_price": 0,
+      "hmo_fees": "YES",
+      "id": "11000:344:Pro-BNP:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "Alpha Feto Protein",
+      "billcost": "11000",
+      "status": "",
+      "nf_price": 0,
+      "hmo_fees": "YES",
+      "id": "11000:345:Alpha Feto Protein:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "BHCG",
+      "billcost": "15000",
+      "status": "",
+      "nf_price": 0,
+      "hmo_fees": "YES",
+      "id": "15000:346:BHCG:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "Thyroid Function Tests",
+      "billcost": "13000",
+      "status": "",
+      "nf_price": 0,
+      "hmo_fees": "YES",
+      "id": "13000:347:Thyroid Function Tests:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "CKMB",
+      "billcost": "8500",
+      "status": "",
+      "nf_price": 0,
+      "hmo_fees": "YES",
+      "id": "8500:348:CKMB:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "PSA TOTAL",
+      "billcost": "5500",
+      "status": "",
+      "nf_price": 0,
+      "hmo_fees": "YES",
+      "id": "5500:349:PSA TOTAL:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "PSA FREE",
+      "billcost": "8000",
+      "status": "",
+      "nf_price": 0,
+      "hmo_fees": "YES",
+      "id": "8000:350:PSA FREE:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "CEA (CARCINOEMBRYONIC ANTIGEN)",
+      "billcost": "12500",
+      "status": "",
+      "nf_price": 0,
+      "hmo_fees": "YES",
+      "id": "12500:351:CEA (CARCINOEMBRYONIC ANTIGEN):0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "Ca-125",
+      "billcost": "12500",
+      "status": "",
+      "nf_price": 0,
+      "hmo_fees": "YES",
+      "id": "12500:352:Ca-125:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "Ca 19-9 (Cancer Antigen 19-9)",
+      "billcost": "12500",
+      "status": "",
+      "nf_price": 0,
+      "hmo_fees": "YES",
+      "id": "12500:353:Ca 19-9 (Cancer Antigen 19-9):0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "FEMALE HORMONE PROFILE",
+      "billcost": "8000",
+      "status": "",
+      "nf_price": 0,
+      "hmo_fees": "YES",
+      "id": "8000:354:FEMALE HORMONE PROFILE:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    },
+    {
+      "billname": "MALE HORMONE PROFILE",
+      "billcost": "8000",
+      "status": "",
+      "nf_price": 0,
+      "hmo_fees": "YES",
+      "id": "8000:355:MALE HORMONE PROFILE:0:CHEMICAL PATHOLOGY (LABORATORY)"
+    }
+  ]
+}

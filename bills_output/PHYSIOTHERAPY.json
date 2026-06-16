@@ -1,0 +1,95 @@
+{
+  "unit": "PHYSIOTHERAPY",
+  "items": [
+    {
+      "billname": "CONSULTATION FEE",
+      "billcost": 3000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 275,
+      "id": "3000:275:CONSULTATION FEE:0:PHYSIOTHERAPY:CNSLT"
+    },
+    {
+      "billname": "PHYSIOTHERAPY ASSESSMENT AND MANAGEMENT (ADULT)",
+      "billcost": 75600,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 445,
+      "id": "75600:445:PHYSIOTHERAPY ASSESSMENT AND MANAGEMENT (ADULT):0:PHYSIOTHERAPY:PAMA"
+    },
+    {
+      "billname": "PHYSIOTHERAPY ASSESSMENT AND MANAGEMENT (PAEDIATRICS)",
+      "billcost": 45000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 446,
+      "id": "45000:446:PHYSIOTHERAPY ASSESSMENT AND MANAGEMENT (PAEDIATRICS):0:PHYSIOTHERAPY:PAMP"
+    },
+    {
+      "billname": "PHYSIOTHERAPY ASSESSMENT AND MANAGEMENT (DEPOSIT)",
+      "billcost": 37800,
+      "status": 1,
+      "nf_price": 1,
+      "hmo_fees": "",
+      "sno": 447,
+      "id": "37800:447:PHYSIOTHERAPY ASSESSMENT AND MANAGEMENT (DEPOSIT):1:PHYSIOTHERAPY:PAAMD"
+    },
+    {
+      "billname": "UTILITY (ADULT)",
+      "billcost": 8400,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 607,
+      "id": "8400:607:UTILITY (ADULT):0:PHYSIOTHERAPY:UTC001"
+    },
+    {
+      "billname": "UTILITY (CHILD)",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 711,
+      "id": "5000:711:UTILITY (CHILD):0:PHYSIOTHERAPY:UTPHSIO002"
+    },
+    {
+      "billname": "LASAR THERAPY PER SESSION",
+      "billcost": 10000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1750,
+      "id": "10000:1750:LASAR THERAPY PER SESSION:0:PHYSIOTHERAPY:LT001"
+    },
+    {
+      "billname": "PHYSIOTHERAPY ASSESSMENT CHILD(DEPOSIT)",
+      "billcost": 22500,
+      "status": 1,
+      "nf_price": "1",
+      "hmo_fees": "",
+      "sno": 1760,
+      "id": "22500:1760:PHYSIOTHERAPY ASSESSMENT CHILD(DEPOSIT):1:PHYSIOTHERAPY:0012"
+    },
+    {
+      "billname": "TRACTION PER SESSION",
+      "billcost": "0",
+      "status": 1,
+      "nf_price": "1",
+      "hmo_fees": "",
+      "sno": 1761,
+      "id": "0:1761:TRACTION PER SESSION:1:PHYSIOTHERAPY:005"
+    },
+    {
+      "billname": "Utility2500",
+      "billcost": "2500",
+      "status": 1,
+      "nf_price": "1",
+      "hmo_fees": "",
+      "sno": 1763,
+      "id": "2500:1763:Utility2500:1:PHYSIOTHERAPY:Ut00"
+    }
+  ]
+}

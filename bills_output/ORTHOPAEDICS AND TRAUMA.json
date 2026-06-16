@@ -1,0 +1,320 @@
+{
+  "unit": "ORTHOPAEDICS AND TRAUMA",
+  "items": [
+    {
+      "billname": "CAST APPLICATION (LEVEL 1)",
+      "billcost": 1500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 353,
+      "id": "1500:353:CAST APPLICATION (LEVEL 1):0:ORTHOPAEDICS AND TRAUMA:CAP1"
+    },
+    {
+      "billname": "CAST APPLICATION (LEVEL 2)",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 354,
+      "id": "2000:354:CAST APPLICATION (LEVEL 2):0:ORTHOPAEDICS AND TRAUMA:CAP2"
+    },
+    {
+      "billname": "CAST APPLICATION (LEVEL 3)",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 355,
+      "id": "5000:355:CAST APPLICATION (LEVEL 3):0:ORTHOPAEDICS AND TRAUMA:CAP3"
+    },
+    {
+      "billname": "CAST APPLICATION (LEVEL 4)",
+      "billcost": 10000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 356,
+      "id": "10000:356:CAST APPLICATION (LEVEL 4):0:ORTHOPAEDICS AND TRAUMA:CAP4"
+    },
+    {
+      "billname": "CAST APPLICATION (LEVEL 5)",
+      "billcost": 15000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 357,
+      "id": "15000:357:CAST APPLICATION (LEVEL 5):0:ORTHOPAEDICS AND TRAUMA:CAP5"
+    },
+    {
+      "billname": "CAST APPLICATION (LEVEL 6)",
+      "billcost": 20000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 358,
+      "id": "20000:358:CAST APPLICATION (LEVEL 6):0:ORTHOPAEDICS AND TRAUMA:CAP6"
+    },
+    {
+      "billname": "MINOR (ORTHO)",
+      "billcost": 80000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1448,
+      "id": "80000:1448:MINOR (ORTHO):0:ORTHOPAEDICS AND TRAUMA:"
+    },
+    {
+      "billname": "INTERMEDIATE (ORTHO)",
+      "billcost": 120000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1449,
+      "id": "120000:1449:INTERMEDIATE (ORTHO):0:ORTHOPAEDICS AND TRAUMA:"
+    },
+    {
+      "billname": "MAJOR (ORTHO)",
+      "billcost": 250000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1450,
+      "id": "250000:1450:MAJOR (ORTHO):0:ORTHOPAEDICS AND TRAUMA:"
+    },
+    {
+      "billname": "SUPRAMAJOR (ORTHO A)",
+      "billcost": 385000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1451,
+      "id": "385000:1451:SUPRAMAJOR (ORTHO A):0:ORTHOPAEDICS AND TRAUMA:"
+    },
+    {
+      "billname": "SUPRAMAJOR (ORTHO B)",
+      "billcost": 535000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1452,
+      "id": "535000:1452:SUPRAMAJOR (ORTHO B):0:ORTHOPAEDICS AND TRAUMA:"
+    },
+    {
+      "billname": "SUPRAMAJOR (ORTHO C)",
+      "billcost": 635000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1453,
+      "id": "635000:1453:SUPRAMAJOR (ORTHO C):0:ORTHOPAEDICS AND TRAUMA:"
+    },
+    {
+      "billname": "APPLICATION OF BACKSTAB",
+      "billcost": 20000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1454,
+      "id": "20000:1454:APPLICATION OF BACKSTAB:0:ORTHOPAEDICS AND TRAUMA:"
+    },
+    {
+      "billname": "APPLICATION OF BK CAST",
+      "billcost": 25000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1455,
+      "id": "25000:1455:APPLICATION OF BK CAST:0:ORTHOPAEDICS AND TRAUMA:"
+    },
+    {
+      "billname": "APPLICATION OF AK CAST",
+      "billcost": 30000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1456,
+      "id": "30000:1456:APPLICATION OF AK CAST:0:ORTHOPAEDICS AND TRAUMA:"
+    },
+    {
+      "billname": "APPLICATION OF HIP SPICA CAST",
+      "billcost": 40000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1457,
+      "id": "40000:1457:APPLICATION OF HIP SPICA CAST:0:ORTHOPAEDICS AND TRAUMA:"
+    },
+    {
+      "billname": "INTRA ARTICULAR CORTISONE INJ",
+      "billcost": 10000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1458,
+      "id": "10000:1458:INTRA ARTICULAR CORTISONE INJ:0:ORTHOPAEDICS AND TRAUMA:"
+    },
+    {
+      "billname": "CLOSED REDUCTION OF DISLOCATION",
+      "billcost": 50000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1459,
+      "id": "50000:1459:CLOSED REDUCTION OF DISLOCATION:0:ORTHOPAEDICS AND TRAUMA:"
+    },
+    {
+      "billname": "APPLICATION OF SKIN TRACTION",
+      "billcost": 25000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1460,
+      "id": "25000:1460:APPLICATION OF SKIN TRACTION:0:ORTHOPAEDICS AND TRAUMA:"
+    },
+    {
+      "billname": "APPLICATION OF SKELETAL TRACTION",
+      "billcost": 30000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1461,
+      "id": "30000:1461:APPLICATION OF SKELETAL TRACTION:0:ORTHOPAEDICS AND TRAUMA:"
+    },
+    {
+      "billname": "UTILITY 500",
+      "billcost": 500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1462,
+      "id": "500:1462:UTILITY 500:0:ORTHOPAEDICS AND TRAUMA:"
+    },
+    {
+      "billname": "UTILITY 5000",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1463,
+      "id": "5000:1463:UTILITY 5000:0:ORTHOPAEDICS AND TRAUMA:"
+    },
+    {
+      "billname": "UTILITY 15000",
+      "billcost": 15000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1464,
+      "id": "15000:1464:UTILITY 15000:0:ORTHOPAEDICS AND TRAUMA:"
+    },
+    {
+      "billname": "UTILITY 10000",
+      "billcost": 10000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1465,
+      "id": "10000:1465:UTILITY 10000:0:ORTHOPAEDICS AND TRAUMA:"
+    },
+    {
+      "billname": "SUPRAMAJOR (ORTHO A)",
+      "billcost": 385000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1466,
+      "id": "385000:1466:SUPRAMAJOR (ORTHO A):0:ORTHOPAEDICS AND TRAUMA:"
+    },
+    {
+      "billname": "CONSULTATION",
+      "billcost": 2500,
+      "status": 0,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1467,
+      "id": "2500:1467:CONSULTATION:0:ORTHOPAEDICS AND TRAUMA:CNSLT"
+    },
+    {
+      "billname": "SURGERY DEPOSIT (ORTHO) - PART PAYMENT",
+      "billcost": 0,
+      "status": 1,
+      "nf_price": 1,
+      "hmo_fees": "",
+      "sno": 1470,
+      "id": "0:1470:SURGERY DEPOSIT (ORTHO) - PART PAYMENT:1:ORTHOPAEDICS AND TRAUMA:SOT008"
+    },
+    {
+      "billname": "ADMISSION (ORTHO)",
+      "billcost": 43000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1471,
+      "id": "43000:1471:ADMISSION (ORTHO):0:ORTHOPAEDICS AND TRAUMA:"
+    },
+    {
+      "billname": "ADMISSION PART PAYMENT (ORTHO)",
+      "billcost": 0,
+      "status": 1,
+      "nf_price": 1,
+      "hmo_fees": "",
+      "sno": 1472,
+      "id": "0:1472:ADMISSION PART PAYMENT (ORTHO):1:ORTHOPAEDICS AND TRAUMA:APPO"
+    },
+    {
+      "billname": "CONSULTATION - ORTHO",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1623,
+      "id": "2000:1623:CONSULTATION - ORTHO:0:ORTHOPAEDICS AND TRAUMA:009N"
+    },
+    {
+      "billname": "WOUNDING DRESSING",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1636,
+      "id": "2000:1636:WOUNDING DRESSING:0:ORTHOPAEDICS AND TRAUMA:"
+    },
+    {
+      "billname": "EXTRA DAYS",
+      "billcost": 100,
+      "status": 1,
+      "nf_price": 1,
+      "hmo_fees": "",
+      "sno": 1637,
+      "id": "100:1637:EXTRA DAYS:1:ORTHOPAEDICS AND TRAUMA:ED009"
+    },
+    {
+      "billname": "JOINT ASPIRATION",
+      "billcost": 10000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1638,
+      "id": "10000:1638:JOINT ASPIRATION:0:ORTHOPAEDICS AND TRAUMA:"
+    },
+    {
+      "billname": "KENALOGUE/TRIAMCINOLONE",
+      "billcost": 10000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1639,
+      "id": "10000:1639:KENALOGUE/TRIAMCINOLONE:0:ORTHOPAEDICS AND TRAUMA:"
+    },
+    {
+      "billname": "ASPIRATION",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1640,
+      "id": "5000:1640:ASPIRATION:0:ORTHOPAEDICS AND TRAUMA:"
+    }
+  ]
+}

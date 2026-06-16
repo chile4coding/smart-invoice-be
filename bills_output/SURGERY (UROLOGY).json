@@ -1,0 +1,176 @@
+{
+  "unit": "SURGERY (UROLOGY)",
+  "items": [
+    {
+      "billname": "CONSULTATION FEE",
+      "billcost": 500,
+      "status": 0,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 214,
+      "id": "500:214:CONSULTATION FEE:0:SURGERY (UROLOGY):CNSLT"
+    },
+    {
+      "billname": "MINOR - UROLOGY",
+      "billcost": 70000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1699,
+      "id": "70000:1699:MINOR - UROLOGY:0:SURGERY (UROLOGY):"
+    },
+    {
+      "billname": "Intermediate - UROLOGY",
+      "billcost": 75000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1700,
+      "id": "75000:1700:Intermediate - UROLOGY:0:SURGERY (UROLOGY):"
+    },
+    {
+      "billname": "MAJOR - UROLOGY",
+      "billcost": 130000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1701,
+      "id": "130000:1701:MAJOR - UROLOGY:0:SURGERY (UROLOGY):"
+    },
+    {
+      "billname": "SUPRAMAJOR - UROLOGY",
+      "billcost": 220000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1702,
+      "id": "220000:1702:SUPRAMAJOR - UROLOGY:0:SURGERY (UROLOGY):"
+    },
+    {
+      "billname": "CONSULTATION - UROLOGY",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1703,
+      "id": "2000:1703:CONSULTATION - UROLOGY:0:SURGERY (UROLOGY):CNSLT"
+    },
+    {
+      "billname": "PROSTRATE BIOPSY - UROLOGY",
+      "billcost": 15500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1713,
+      "id": "15500:1713:PROSTRATE BIOPSY - UROLOGY:0:SURGERY (UROLOGY):"
+    },
+    {
+      "billname": "URETHRAL CATHETERIZATION",
+      "billcost": 3000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1714,
+      "id": "3000:1714:URETHRAL CATHETERIZATION:0:SURGERY (UROLOGY):"
+    },
+    {
+      "billname": "ADMISSION (UROLOGY)",
+      "billcost": 30000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1715,
+      "id": "30000:1715:ADMISSION (UROLOGY):0:SURGERY (UROLOGY):"
+    },
+    {
+      "billname": "UROFLOWMENTRY - UROLOGY",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1716,
+      "id": "5000:1716:UROFLOWMENTRY - UROLOGY:0:SURGERY (UROLOGY):"
+    },
+    {
+      "billname": "UTILITY 1000",
+      "billcost": 1000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1717,
+      "id": "1000:1717:UTILITY 1000:0:SURGERY (UROLOGY):"
+    },
+    {
+      "billname": "UTILITY 300",
+      "billcost": 300,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1718,
+      "id": "300:1718:UTILITY 300:0:SURGERY (UROLOGY):"
+    },
+    {
+      "billname": "UTILITY 500",
+      "billcost": 500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1719,
+      "id": "500:1719:UTILITY 500:0:SURGERY (UROLOGY):"
+    },
+    {
+      "billname": "UTILITY 5000",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1720,
+      "id": "5000:1720:UTILITY 5000:0:SURGERY (UROLOGY):"
+    },
+    {
+      "billname": "UTILITY 10000",
+      "billcost": 10000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1721,
+      "id": "10000:1721:UTILITY 10000:0:SURGERY (UROLOGY):"
+    },
+    {
+      "billname": "SURGERY PART PAYMENT-UROLOGY",
+      "billcost": 50000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1722,
+      "id": "50000:1722:SURGERY PART PAYMENT-UROLOGY:0:SURGERY (UROLOGY):"
+    },
+    {
+      "billname": "CIRCUMCISION",
+      "billcost": 30000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1746,
+      "id": "30000:1746:CIRCUMCISION:0:SURGERY (UROLOGY):"
+    },
+    {
+      "billname": "EXTRA DAYS",
+      "billcost": 100,
+      "status": 1,
+      "nf_price": 1,
+      "hmo_fees": "",
+      "sno": 1780,
+      "id": "100:1780:EXTRA DAYS:1:SURGERY (UROLOGY):EXD002"
+    },
+    {
+      "billname": "Surgery Part Payment",
+      "billcost": "25000",
+      "status": 1,
+      "nf_price": "1",
+      "hmo_fees": "NO",
+      "sno": 1838,
+      "id": "25000:1838:Surgery Part Payment:1:SURGERY (UROLOGY):SUGUROL1"
+    }
+  ]
+}

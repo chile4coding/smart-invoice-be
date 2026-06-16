@@ -1,0 +1,325 @@
+{
+  "unit": "ANATOMICAL PATHOLOGY(LABORATORY)",
+  "items": [
+    {
+      "billname": "Aspirate m/c/s",
+      "billcost": "5000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "5000:47:Aspirate m/c/s:0:ANATOMICAL PATHOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "Tissue Histology",
+      "billcost": "17000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "17000:61:Tissue Histology:0:ANATOMICAL PATHOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "Pap Smear",
+      "billcost": "14000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "NO",
+      "id": "14000:64:Pap Smear:0:ANATOMICAL PATHOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "TOTAL ABDOMINAL HYSTERECTOMY AND BILATERAL SALPINGOOPHORECTOMY",
+      "billcost": "34000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "34000:191:TOTAL ABDOMINAL HYSTERECTOMY AND BILATERAL SALPINGOOPHORECTOMY:0:ANATOMICAL PATHOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "Immunohistochemistry per Antibody Panel",
+      "billcost": "8000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "8000:220:Immunohistochemistry per Antibody Panel:0:ANATOMICAL PATHOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "FNAC Clinic",
+      "billcost": "5500",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "5500:221:FNAC Clinic:0:ANATOMICAL PATHOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "Cytology",
+      "billcost": "14000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "14000:222:Cytology:0:ANATOMICAL PATHOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "APPENDIX",
+      "billcost": "17000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "17000:255:APPENDIX:0:ANATOMICAL PATHOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "BREAST LUMP",
+      "billcost": "19000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "19000:256:BREAST LUMP:0:ANATOMICAL PATHOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "FALLOPIAN TUBE",
+      "billcost": "17000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "17000:257:FALLOPIAN TUBE:0:ANATOMICAL PATHOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "LIPOMA",
+      "billcost": "17000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "17000:258:LIPOMA:0:ANATOMICAL PATHOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "PRODUCT OF CONCEPTION",
+      "billcost": "17000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "17000:259:PRODUCT OF CONCEPTION:0:ANATOMICAL PATHOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "SMALL FIBROID NODULES",
+      "billcost": "17000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "17000:260:SMALL FIBROID NODULES:0:ANATOMICAL PATHOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "LARGE FIBROID NODULES",
+      "billcost": "24000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "24000:261:LARGE FIBROID NODULES:0:ANATOMICAL PATHOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "ENDOSCOPIC BIOPSY",
+      "billcost": "19000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "19000:262:ENDOSCOPIC BIOPSY:0:ANATOMICAL PATHOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "SKIN BIOPSIES",
+      "billcost": "17000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "17000:263:SKIN BIOPSIES:0:ANATOMICAL PATHOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "BONE TISSUES",
+      "billcost": "19000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "19000:264:BONE TISSUES:0:ANATOMICAL PATHOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "HYSTERECTOMY (SUBTOTAL)",
+      "billcost": "24000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "24000:265:HYSTERECTOMY (SUBTOTAL):0:ANATOMICAL PATHOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "MASTECTOMY",
+      "billcost": "25000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "25000:266:MASTECTOMY:0:ANATOMICAL PATHOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "MASTECTOMY",
+      "billcost": "25000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "25000:267:MASTECTOMY:0:ANATOMICAL PATHOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "LYMPH NODE BIOPSY",
+      "billcost": "17000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "17000:268:LYMPH NODE BIOPSY:0:ANATOMICAL PATHOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "OVARIAN",
+      "billcost": "17000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "17000:269:OVARIAN:0:ANATOMICAL PATHOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "LYMPHOMA PANELS",
+      "billcost": "84000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "84000:270:LYMPHOMA PANELS:0:ANATOMICAL PATHOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "LUMB AMPUTATION",
+      "billcost": "24000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "24000:271:LUMB AMPUTATION:0:ANATOMICAL PATHOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "GALL BLADDER TISSUES",
+      "billcost": "17000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "17000:272:GALL BLADDER TISSUES:0:ANATOMICAL PATHOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "SECOND OPINION ON SECTIONED SLIDES",
+      "billcost": "9000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "9000:273:SECOND OPINION ON SECTIONED SLIDES:0:ANATOMICAL PATHOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "TRU-CUT BIOPSIES",
+      "billcost": "17000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "17000:274:TRU-CUT BIOPSIES:0:ANATOMICAL PATHOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "BREAST (ER, PR, HER2)",
+      "billcost": "64000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "64000:275:BREAST (ER, PR, HER2):0:ANATOMICAL PATHOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "FNAC ",
+      "billcost": "14000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "14000:276:FNAC :0:ANATOMICAL PATHOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "ASPIRATE",
+      "billcost": "14000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "14000:277:ASPIRATE:0:ANATOMICAL PATHOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "URINE CYTOLOGY",
+      "billcost": "14000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "14000:278:URINE CYTOLOGY:0:ANATOMICAL PATHOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "SPUTUM CYTOLOGY",
+      "billcost": "14000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "14000:279:SPUTUM CYTOLOGY:0:ANATOMICAL PATHOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "PAP SMEAR (LBC)",
+      "billcost": "14000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "14000:280:PAP SMEAR (LBC):0:ANATOMICAL PATHOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "POST NATAL PAP SMEAR",
+      "billcost": "3000",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "3000:283:POST NATAL PAP SMEAR:0:ANATOMICAL PATHOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "UTILITY1000",
+      "billcost": "1000",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "1000:293:UTILITY1000:0:ANATOMICAL PATHOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "UTILITY 500",
+      "billcost": "500",
+      "status": 1,
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "500:304:UTILITY 500:0:ANATOMICAL PATHOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "Colectomy",
+      "billcost": "29000",
+      "status": "",
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "29000:322:Colectomy:0:ANATOMICAL PATHOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "Other Issue",
+      "billcost": "19000",
+      "status": "",
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "19000:323:Other Issue:0:ANATOMICAL PATHOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "Histology Fee (Major)",
+      "billcost": "35000",
+      "status": "",
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "35000:324:Histology Fee (Major):0:ANATOMICAL PATHOLOGY(LABORATORY)"
+    },
+    {
+      "billname": "Histology Fee (Minor)",
+      "billcost": "20000",
+      "status": "",
+      "nf_price": 0,
+      "hmo_fees": "",
+      "id": "20000:325:Histology Fee (Minor):0:ANATOMICAL PATHOLOGY(LABORATORY)"
+    }
+  ]
+}

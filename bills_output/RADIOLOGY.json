@@ -1,0 +1,1197 @@
+{
+  "unit": "RADIOLOGY",
+  "items": [
+    {
+      "billname": "X-RAY (SKULL)",
+      "billcost": 8000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "8000:54:X-RAY (SKULL):0:RADIOLOGY"
+    },
+    {
+      "billname": "X-RAY (ORBIT)",
+      "billcost": 8000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "8000:55:X-RAY (ORBIT):0:RADIOLOGY"
+    },
+    {
+      "billname": "X-RAY (TEMPOROMADIBULAR JOINT (TMJ))",
+      "billcost": 17000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "17000:56:X-RAY (TEMPOROMADIBULAR JOINT (TMJ)):0:RADIOLOGY"
+    },
+    {
+      "billname": "X-RAY (MANDIBLE)",
+      "billcost": 9500,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "9500:57:X-RAY (MANDIBLE):0:RADIOLOGY"
+    },
+    {
+      "billname": "X-RAY (PARANASAL SINUSES (PNS))",
+      "billcost": 7000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "7000:58:X-RAY (PARANASAL SINUSES (PNS)):0:RADIOLOGY"
+    },
+    {
+      "billname": "X-RAY (MASTOIDS)",
+      "billcost": 9500,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "9500:59:X-RAY (MASTOIDS):0:RADIOLOGY"
+    },
+    {
+      "billname": "X-RAY (FACIAL BONES)",
+      "billcost": 6500,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "6500:60:X-RAY (FACIAL BONES):0:RADIOLOGY"
+    },
+    {
+      "billname": "X-RAY (NASAL BONES)",
+      "billcost": 6500,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "6500:61:X-RAY (NASAL BONES):0:RADIOLOGY"
+    },
+    {
+      "billname": "X-RAY (CERVICAL SPINES)",
+      "billcost": 8000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "8000:62:X-RAY (CERVICAL SPINES):0:RADIOLOGY"
+    },
+    {
+      "billname": "X-RAY (THORACIC SPINES)",
+      "billcost": 8000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "8000:63:X-RAY (THORACIC SPINES):0:RADIOLOGY"
+    },
+    {
+      "billname": "X-RAY (LUMBOSACRAL SPINES)",
+      "billcost": 8000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "8000:64:X-RAY (LUMBOSACRAL SPINES):0:RADIOLOGY"
+    },
+    {
+      "billname": "X-RAY (PELVIS)",
+      "billcost": 4500,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "4500:65:X-RAY (PELVIS):0:RADIOLOGY"
+    },
+    {
+      "billname": "X-RAY (HIP JOINT (SINGLE))",
+      "billcost": 7000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "7000:66:X-RAY (HIP JOINT (SINGLE)):0:RADIOLOGY"
+    },
+    {
+      "billname": "X-RAY (HIP JOINT (BOTH))",
+      "billcost": 14000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "14000:67:X-RAY (HIP JOINT (BOTH)):0:RADIOLOGY"
+    },
+    {
+      "billname": "X-RAY (FEMUR (SINGLE))",
+      "billcost": 7000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "7000:68:X-RAY (FEMUR (SINGLE)):0:RADIOLOGY"
+    },
+    {
+      "billname": "X-RAY (FEMUR (BOTH))",
+      "billcost": 14000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "14000:69:X-RAY (FEMUR (BOTH)):0:RADIOLOGY"
+    },
+    {
+      "billname": "X-RAY (KNEE JOINT (SINGLE))",
+      "billcost": 6000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "6000:70:X-RAY (KNEE JOINT (SINGLE)):0:RADIOLOGY"
+    },
+    {
+      "billname": "X-RAY (KNEE JOINT (BOTH))",
+      "billcost": 10000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "10000:71:X-RAY (KNEE JOINT (BOTH)):0:RADIOLOGY"
+    },
+    {
+      "billname": "X-RAY (TIBIA/FIBULA (SINGLE))",
+      "billcost": 9000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "9000:72:X-RAY (TIBIA/FIBULA (SINGLE)):0:RADIOLOGY"
+    },
+    {
+      "billname": "X-RAY (TIBIA/FIBULA (BOTH))",
+      "billcost": 16000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "16000:73:X-RAY (TIBIA/FIBULA (BOTH)):0:RADIOLOGY"
+    },
+    {
+      "billname": "X-RAY (ANKLE JOINT (SINGLE))",
+      "billcost": 7000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "7000:74:X-RAY (ANKLE JOINT (SINGLE)):0:RADIOLOGY"
+    },
+    {
+      "billname": "X-RAY (ANKLE JOINT (BOTH))",
+      "billcost": 11000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "11000:75:X-RAY (ANKLE JOINT (BOTH)):0:RADIOLOGY"
+    },
+    {
+      "billname": "X-RAY (FOOT/TOE (SINGLE))",
+      "billcost": 5000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "5000:76:X-RAY (FOOT/TOE (SINGLE)):0:RADIOLOGY"
+    },
+    {
+      "billname": "X-RAY (FOOT/TOE (BOTH))",
+      "billcost": 9000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "9000:77:X-RAY (FOOT/TOE (BOTH)):0:RADIOLOGY"
+    },
+    {
+      "billname": "X-RAY (CHEST (PA))",
+      "billcost": 7000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "7000:78:X-RAY (CHEST (PA)):0:RADIOLOGY"
+    },
+    {
+      "billname": "X-RAY (THORACIC INLET)",
+      "billcost": 6500,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "6500:79:X-RAY (THORACIC INLET):0:RADIOLOGY"
+    },
+    {
+      "billname": "X-RAY (RIBS)",
+      "billcost": 5000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "5000:80:X-RAY (RIBS):0:RADIOLOGY"
+    },
+    {
+      "billname": "X-RAY (STERNUM)",
+      "billcost": 7000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "7000:81:X-RAY (STERNUM):0:RADIOLOGY"
+    },
+    {
+      "billname": "X-RAY (ABDOMEN (SUPINE))",
+      "billcost": 5000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "5000:82:X-RAY (ABDOMEN (SUPINE)):0:RADIOLOGY"
+    },
+    {
+      "billname": "X-RAY (ABDOMEN (ERECT))",
+      "billcost": 5000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "5000:83:X-RAY (ABDOMEN (ERECT)):0:RADIOLOGY"
+    },
+    {
+      "billname": "X-RAY (SCAPULAR)",
+      "billcost": 8000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "8000:84:X-RAY (SCAPULAR):0:RADIOLOGY"
+    },
+    {
+      "billname": "X-RAY (SHOULDER JOINTS)",
+      "billcost": 7000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "7000:85:X-RAY (SHOULDER JOINTS):0:RADIOLOGY"
+    },
+    {
+      "billname": "X-RAY (CLARICLE)",
+      "billcost": 3000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "3000:86:X-RAY (CLARICLE):0:RADIOLOGY"
+    },
+    {
+      "billname": "X-RAY (NASOPHARYNGEAL/POST NASAL SPACE)",
+      "billcost": 4000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "4000:87:X-RAY (NASOPHARYNGEAL/POST NASAL SPACE):0:RADIOLOGY"
+    },
+    {
+      "billname": "X-RAY (STERNOCLARICULAR JOINT)",
+      "billcost": 7000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "7000:88:X-RAY (STERNOCLARICULAR JOINT):0:RADIOLOGY"
+    },
+    {
+      "billname": "X-RAY (INTERNAL ANDIOTRY MEATUS (IAM))",
+      "billcost": 6000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "6000:89:X-RAY (INTERNAL ANDIOTRY MEATUS (IAM)):0:RADIOLOGY"
+    },
+    {
+      "billname": "X-RAY (SOFT NECK TISSUE)",
+      "billcost": 4000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "4000:90:X-RAY (SOFT NECK TISSUE):0:RADIOLOGY"
+    },
+    {
+      "billname": "X-RAY (SELLA TURCICA)",
+      "billcost": 11000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "11000:91:X-RAY (SELLA TURCICA):0:RADIOLOGY"
+    },
+    {
+      "billname": "X-RAY (SACRUM)",
+      "billcost": 8000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "8000:92:X-RAY (SACRUM):0:RADIOLOGY"
+    },
+    {
+      "billname": "X-RAY (COCCYX)",
+      "billcost": 8000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "8000:93:X-RAY (COCCYX):0:RADIOLOGY"
+    },
+    {
+      "billname": "X-RAY (HUMERUS)",
+      "billcost": 3000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "3000:94:X-RAY (HUMERUS):0:RADIOLOGY"
+    },
+    {
+      "billname": "X-RAY (ELBOW)",
+      "billcost": 3000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "3000:95:X-RAY (ELBOW):0:RADIOLOGY"
+    },
+    {
+      "billname": "X-RAY (WRIST)",
+      "billcost": 7000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "7000:96:X-RAY (WRIST):0:RADIOLOGY"
+    },
+    {
+      "billname": "X-RAY (HAND/FINGER)",
+      "billcost": 5000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "5000:97:X-RAY (HAND/FINGER):0:RADIOLOGY"
+    },
+    {
+      "billname": "X-RAY (EXTRA VIEW)",
+      "billcost": 4500,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "4500:98:X-RAY (EXTRA VIEW):0:RADIOLOGY"
+    },
+    {
+      "billname": "USS (ABDOMEN)",
+      "billcost": 6000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "6000:99:USS (ABDOMEN):0:RADIOLOGY"
+    },
+    {
+      "billname": "USS (PELVIS)",
+      "billcost": 6000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "6000:100:USS (PELVIS):0:RADIOLOGY"
+    },
+    {
+      "billname": "USS (ABDOMEN-PELVIS)",
+      "billcost": 9000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "9000:101:USS (ABDOMEN-PELVIS):0:RADIOLOGY"
+    },
+    {
+      "billname": "USS (OBSTETRIC)",
+      "billcost": 6000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "6000:102:USS (OBSTETRIC):0:RADIOLOGY"
+    },
+    {
+      "billname": "USS (THYROID)",
+      "billcost": 9000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "9000:103:USS (THYROID):0:RADIOLOGY"
+    },
+    {
+      "billname": "USS (PROSTATE-TRANSRECTAL)",
+      "billcost": 9000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "9000:104:USS (PROSTATE-TRANSRECTAL):0:RADIOLOGY"
+    },
+    {
+      "billname": "USS (PROSTATE-TRANSABDOMINAL)",
+      "billcost": 10000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "10000:105:USS (PROSTATE-TRANSABDOMINAL):0:RADIOLOGY"
+    },
+    {
+      "billname": "USS (TESTIS/SCROTUM)",
+      "billcost": 9000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "9000:106:USS (TESTIS/SCROTUM):0:RADIOLOGY"
+    },
+    {
+      "billname": "USS (OCULAR)",
+      "billcost": 9000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "9000:107:USS (OCULAR):0:RADIOLOGY"
+    },
+    {
+      "billname": "USS (BREAST)",
+      "billcost": 6000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "6000:108:USS (BREAST):0:RADIOLOGY"
+    },
+    {
+      "billname": "USS (VACULAR [DOPPLER])",
+      "billcost": 50000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "50000:109:USS (VACULAR [DOPPLER]):0:RADIOLOGY"
+    },
+    {
+      "billname": "USS (TRANSFONTANEL)",
+      "billcost": 9000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "9000:110:USS (TRANSFONTANEL):0:RADIOLOGY"
+    },
+    {
+      "billname": "USS (TVS)",
+      "billcost": 9000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "9000:111:USS (TVS):0:RADIOLOGY"
+    },
+    {
+      "billname": "USS (MUSCULOSKELETAL)",
+      "billcost": 9000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "9000:112:USS (MUSCULOSKELETAL):0:RADIOLOGY"
+    },
+    {
+      "billname": "ULTRASOUND GUIDED BIOPSY",
+      "billcost": 12000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "12000:113:ULTRASOUND GUIDED BIOPSY:0:RADIOLOGY"
+    },
+    {
+      "billname": "CT BRAIN",
+      "billcost": 90000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "90000:114:CT BRAIN:0:RADIOLOGY"
+    },
+    {
+      "billname": "CT ABDOMEN/PELVIS",
+      "billcost": 140000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "140000:115:CT ABDOMEN/PELVIS:0:RADIOLOGY"
+    },
+    {
+      "billname": "CT CHEST",
+      "billcost": 100000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "100000:116:CT CHEST:0:RADIOLOGY"
+    },
+    {
+      "billname": "CT SINUSES",
+      "billcost": 100000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "100000:117:CT SINUSES:0:RADIOLOGY"
+    },
+    {
+      "billname": "CT ORBIT",
+      "billcost": 100000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "100000:118:CT ORBIT:0:RADIOLOGY"
+    },
+    {
+      "billname": "MRI (EACH REGION)",
+      "billcost": 100000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "100000:119:MRI (EACH REGION):0:RADIOLOGY"
+    },
+    {
+      "billname": "MRI (WITH CONTRAST)",
+      "billcost": 0,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "0:120:MRI (WITH CONTRAST):0:RADIOLOGY"
+    },
+    {
+      "billname": "MAMMOGRAPHY",
+      "billcost": 13000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "13000:121:MAMMOGRAPHY:0:RADIOLOGY"
+    },
+    {
+      "billname": "BARIUM SWALLOW",
+      "billcost": 38000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "38000:122:BARIUM SWALLOW:0:RADIOLOGY"
+    },
+    {
+      "billname": "BARIUM MEAL",
+      "billcost": 38000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "38000:123:BARIUM MEAL:0:RADIOLOGY"
+    },
+    {
+      "billname": "BARIUM MEAL/FOLLOW THROUGH",
+      "billcost": 38000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "38000:124:BARIUM MEAL/FOLLOW THROUGH:0:RADIOLOGY"
+    },
+    {
+      "billname": "BARIUM ENEMA",
+      "billcost": 38000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "38000:125:BARIUM ENEMA:0:RADIOLOGY"
+    },
+    {
+      "billname": "HYSTEROSALPINGOGRAM (HSG)",
+      "billcost": 28000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "28000:126:HYSTEROSALPINGOGRAM (HSG):0:RADIOLOGY"
+    },
+    {
+      "billname": "INTRAVENOUS UROGRAM (IVU)",
+      "billcost": 38000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "38000:127:INTRAVENOUS UROGRAM (IVU):0:RADIOLOGY"
+    },
+    {
+      "billname": "MICTURATING CYSTO URETHROGRAM (MCUG)",
+      "billcost": 39000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "39000:128:MICTURATING CYSTO URETHROGRAM (MCUG):0:RADIOLOGY"
+    },
+    {
+      "billname": "RETROGRADE CYSTO URETHROGRAM (RCUG)",
+      "billcost": 39000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "39000:129:RETROGRADE CYSTO URETHROGRAM (RCUG):0:RADIOLOGY"
+    },
+    {
+      "billname": "FISTULOGRAM/SIALOGRAM",
+      "billcost": 39000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "39000:130:FISTULOGRAM/SIALOGRAM:0:RADIOLOGY"
+    },
+    {
+      "billname": "CHOLECYSTOGRAM",
+      "billcost": 39000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "39000:131:CHOLECYSTOGRAM:0:RADIOLOGY"
+    },
+    {
+      "billname": "ABDOMINAL SCAN",
+      "billcost": 3000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "3000:132:ABDOMINAL SCAN:0:RADIOLOGY"
+    },
+    {
+      "billname": "PELVIC SCAN",
+      "billcost": 2000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "2000:133:PELVIC SCAN:0:RADIOLOGY"
+    },
+    {
+      "billname": "OBSTERICS SCAN",
+      "billcost": 2000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "2000:134:OBSTERICS SCAN:0:RADIOLOGY"
+    },
+    {
+      "billname": "RENAL ULTRA SOUND SCAN",
+      "billcost": 3000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "3000:135:RENAL ULTRA SOUND SCAN:0:RADIOLOGY"
+    },
+    {
+      "billname": "SHOULDER XRAY",
+      "billcost": 3000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "3000:136:SHOULDER XRAY:0:RADIOLOGY"
+    },
+    {
+      "billname": "CT SCAN - BRAIN (PAEDIATRICS)",
+      "billcost": 40000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "40000:137:CT SCAN - BRAIN (PAEDIATRICS):0:RADIOLOGY"
+    },
+    {
+      "billname": "MRI SCAN (CHILD)",
+      "billcost": 50000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "50000:138:MRI SCAN (CHILD):0:RADIOLOGY"
+    },
+    {
+      "billname": "X-RAY SHOULDER JOINT (SINGLE)",
+      "billcost": 8000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "8000:139:X-RAY SHOULDER JOINT (SINGLE):0:RADIOLOGY"
+    },
+    {
+      "billname": "X-RAY (FORE ARM)",
+      "billcost": 3000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "3000:140:X-RAY (FORE ARM):0:RADIOLOGY"
+    },
+    {
+      "billname": "X-RAY (THIGH (SINGLE))",
+      "billcost": 6000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "6000:141:X-RAY (THIGH (SINGLE)):0:RADIOLOGY"
+    },
+    {
+      "billname": "X-RAY (THIGH (BOTH))",
+      "billcost": 12000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "12000:142:X-RAY (THIGH (BOTH)):0:RADIOLOGY"
+    },
+    {
+      "billname": "MICTURATING CYSTO UREHROGRAM (MCUG-CHILD)",
+      "billcost": 7500,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "7500:143:MICTURATING CYSTO UREHROGRAM (MCUG-CHILD):0:RADIOLOGY"
+    },
+    {
+      "billname": "ECG",
+      "billcost": 4000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "4000:144:ECG:0:RADIOLOGY"
+    },
+    {
+      "billname": "X-RAY SOFT NECK TISSUE (ADULT)",
+      "billcost": 8000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "8000:145:X-RAY SOFT NECK TISSUE (ADULT):0:RADIOLOGY"
+    },
+    {
+      "billname": "INJECTION FOR CT SCAN",
+      "billcost": 10000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "10000:146:INJECTION FOR CT SCAN:0:RADIOLOGY"
+    },
+    {
+      "billname": "CT SCAN (Angiography)",
+      "billcost": 140000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "140000:147:CT SCAN (Angiography):0:RADIOLOGY"
+    },
+    {
+      "billname": "CT NECK",
+      "billcost": 100000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "100000:148:CT NECK:0:RADIOLOGY"
+    },
+    {
+      "billname": "CT NECK (Child)",
+      "billcost": 22500,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "22500:149:CT NECK (Child):0:RADIOLOGY"
+    },
+    {
+      "billname": "MRI (MRCP)",
+      "billcost": 120000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "120000:150:MRI (MRCP):0:RADIOLOGY"
+    },
+    {
+      "billname": "CT (ANKLE)",
+      "billcost": 45000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "45000:151:CT (ANKLE):0:RADIOLOGY"
+    },
+    {
+      "billname": "CT (UROGRAPHY)",
+      "billcost": 50000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "50000:152:CT (UROGRAPHY):0:RADIOLOGY"
+    },
+    {
+      "billname": "CT PULMONARY EMBOLISM",
+      "billcost": 65000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "65000:153:CT PULMONARY EMBOLISM:0:RADIOLOGY"
+    },
+    {
+      "billname": "CT MASTOID",
+      "billcost": 55000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "55000:154:CT MASTOID:0:RADIOLOGY"
+    },
+    {
+      "billname": "CT Abdominal(Child)",
+      "billcost": 27500,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "27500:156:CT Abdominal(Child):0:RADIOLOGY"
+    },
+    {
+      "billname": "Ultrasound Guided Drainage Insertion",
+      "billcost": 5000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "5000:157:Ultrasound Guided Drainage Insertion:0:RADIOLOGY"
+    },
+    {
+      "billname": "X-RAY(OPTIC FORAMEN)",
+      "billcost": 8000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "8000:158:X-RAY(OPTIC FORAMEN):0:RADIOLOGY"
+    },
+    {
+      "billname": "X-RAY (SHOULDER JOINTS DOUBLE)",
+      "billcost": 16000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "16000:159:X-RAY (SHOULDER JOINTS DOUBLE):0:RADIOLOGY"
+    },
+    {
+      "billname": "X-RAY (RADIUS/ULNA - FOREARM SINGLE)",
+      "billcost": 5000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "5000:160:X-RAY (RADIUS/ULNA - FOREARM SINGLE):0:RADIOLOGY"
+    },
+    {
+      "billname": "X-RAY (RADIUS/ULNA - FOREARM DOUBLE)",
+      "billcost": 10000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "10000:161:X-RAY (RADIUS/ULNA - FOREARM DOUBLE):0:RADIOLOGY"
+    },
+    {
+      "billname": "X-RAY (WRIST - DOUBLE)",
+      "billcost": 12000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "12000:162:X-RAY (WRIST - DOUBLE):0:RADIOLOGY"
+    },
+    {
+      "billname": "CT PULMONARY EMBOLISM",
+      "billcost": 65000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "65000:163:CT PULMONARY EMBOLISM:0:RADIOLOGY"
+    },
+    {
+      "billname": "CT CONTRAST",
+      "billcost": 0,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "0:164:CT CONTRAST:0:RADIOLOGY"
+    },
+    {
+      "billname": "UTITY 500",
+      "billcost": 500,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "500:165:UTITY 500:0:RADIOLOGY"
+    },
+    {
+      "billname": "UTITY 1000",
+      "billcost": 1000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "1000:166:UTITY 1000:0:RADIOLOGY"
+    },
+    {
+      "billname": "UTITY 1500",
+      "billcost": 1500,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "1500:167:UTITY 1500:0:RADIOLOGY"
+    },
+    {
+      "billname": "UTITY 2000",
+      "billcost": 2000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "2000:168:UTITY 2000:0:RADIOLOGY"
+    },
+    {
+      "billname": "UTITY 3000",
+      "billcost": 3000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "3000:169:UTITY 3000:0:RADIOLOGY"
+    },
+    {
+      "billname": "UTITY 10000",
+      "billcost": 10000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "10000:170:UTITY 10000:0:RADIOLOGY"
+    },
+    {
+      "billname": "UTITY 20000",
+      "billcost": 20000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "20000:171:UTITY 20000:0:RADIOLOGY"
+    },
+    {
+      "billname": "UTITY 5000",
+      "billcost": 5000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "5000:172:UTITY 5000:0:RADIOLOGY"
+    },
+    {
+      "billname": "CT ABDOMEN",
+      "billcost": 100000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "100000:173:CT ABDOMEN:0:RADIOLOGY"
+    },
+    {
+      "billname": "CT ABDOMINAL + RECTAL",
+      "billcost": 150000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "150000:174:CT ABDOMINAL + RECTAL:0:RADIOLOGY"
+    },
+    {
+      "billname": "CT TRIPHASIC",
+      "billcost": 150000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "150000:175:CT TRIPHASIC:0:RADIOLOGY"
+    },
+    {
+      "billname": "CT NECK",
+      "billcost": 100000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "100000:176:CT NECK:0:RADIOLOGY"
+    },
+    {
+      "billname": "CT ANGIO-LIMB",
+      "billcost": 180000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "180000:177:CT ANGIO-LIMB:0:RADIOLOGY"
+    },
+    {
+      "billname": "CT ANGIO-BRAIN",
+      "billcost": 130000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "130000:178:CT ANGIO-BRAIN:0:RADIOLOGY"
+    },
+    {
+      "billname": "CT BONE",
+      "billcost": 100000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "100000:179:CT BONE:0:RADIOLOGY"
+    },
+    {
+      "billname": "CTU",
+      "billcost": 110000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "110000:180:CTU:0:RADIOLOGY"
+    },
+    {
+      "billname": "CTPA",
+      "billcost": 150000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "150000:181:CTPA:0:RADIOLOGY"
+    },
+    {
+      "billname": "MRI - BREAST",
+      "billcost": 120000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "120000:182:MRI - BREAST:0:RADIOLOGY"
+    },
+    {
+      "billname": "MRA - BRAIN",
+      "billcost": 120000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "120000:183:MRA - BRAIN:0:RADIOLOGY"
+    },
+    {
+      "billname": "MRI UROGRAPHY",
+      "billcost": 120000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "120000:184:MRI UROGRAPHY:0:RADIOLOGY"
+    },
+    {
+      "billname": "MRI - BRAIN",
+      "billcost": 90000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "90000:185:MRI - BRAIN:0:RADIOLOGY"
+    },
+    {
+      "billname": "MRI - CERVICAL",
+      "billcost": 90000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "90000:186:MRI - CERVICAL:0:RADIOLOGY"
+    },
+    {
+      "billname": "MRI - THORACIC",
+      "billcost": 90000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "90000:187:MRI - THORACIC:0:RADIOLOGY"
+    },
+    {
+      "billname": "MRI - LUMBOSACRAL",
+      "billcost": 90000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "90000:188:MRI - LUMBOSACRAL:0:RADIOLOGY"
+    },
+    {
+      "billname": "MRI - ABDOMEN",
+      "billcost": 100000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "100000:189:MRI - ABDOMEN:0:RADIOLOGY"
+    },
+    {
+      "billname": "MRI - ANKLE",
+      "billcost": 100000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "100000:190:MRI - ANKLE:0:RADIOLOGY"
+    },
+    {
+      "billname": "MRI - KNEE",
+      "billcost": 100000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "100000:191:MRI - KNEE:0:RADIOLOGY"
+    },
+    {
+      "billname": "MRI - SHOULDER",
+      "billcost": 100000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "100000:192:MRI - SHOULDER:0:RADIOLOGY"
+    },
+    {
+      "billname": "MRI - WRIST",
+      "billcost": 100000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "100000:193:MRI - WRIST:0:RADIOLOGY"
+    },
+    {
+      "billname": "MRI - PELVIS",
+      "billcost": 100000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "100000:194:MRI - PELVIS:0:RADIOLOGY"
+    },
+    {
+      "billname": "CT SCAN",
+      "billcost": 20000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "20000:195:CT SCAN:0:RADIOLOGY"
+    },
+    {
+      "billname": "USS SCAN",
+      "billcost": 9000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "9000:196:USS SCAN:0:RADIOLOGY"
+    },
+    {
+      "billname": "X-RAY",
+      "billcost": 8000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "8000:197:X-RAY:0:RADIOLOGY"
+    },
+    {
+      "billname": "MRI",
+      "billcost": 0,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "0:198:MRI:0:RADIOLOGY"
+    },
+    {
+      "billname": "X-RAY C-ARM",
+      "billcost": 25000,
+      "status": "",
+      "nf_price": "",
+      "hmo_fees": "",
+      "id": "25000:199:X-RAY C-ARM:0:RADIOLOGY"
+    },
+    {
+      "billname": "OBSTERICS SCAN 2",
+      "billcost": "9000",
+      "status": "",
+      "nf_price": "1",
+      "hmo_fees": "",
+      "id": "9000:200:OBSTERICS SCAN 2:0:RADIOLOGY"
+    },
+    {
+      "billname": "USS PROCEDURE",
+      "billcost": "10000",
+      "status": "",
+      "nf_price": "1",
+      "hmo_fees": "",
+      "id": "10000:201:USS PROCEDURE:0:RADIOLOGY"
+    },
+    {
+      "billname": "USS GUIDED ACCESS",
+      "billcost": "5000",
+      "status": "",
+      "nf_price": "1",
+      "hmo_fees": "",
+      "id": "5000:202:USS GUIDED ACCESS:0:RADIOLOGY"
+    },
+    {
+      "billname": "USS DOPPLER",
+      "billcost": "30000",
+      "status": "",
+      "nf_price": "1",
+      "hmo_fees": "",
+      "id": "30000:203:USS DOPPLER:0:RADIOLOGY"
+    }
+  ]
+}

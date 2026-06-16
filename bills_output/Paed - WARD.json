@@ -1,0 +1,383 @@
+{
+  "unit": "Paed - WARD",
+  "items": [
+    {
+      "billname": "CONSULTATION FEE",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1288,
+      "id": "2000:1288:CONSULTATION FEE:0:Paed - WARD:"
+    },
+    {
+      "billname": "WARD BED FEE\t",
+      "billcost": 3000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1289,
+      "id": "3000:1289:WARD BED FEE\t:0:Paed - WARD:"
+    },
+    {
+      "billname": "NURSES SERVICES",
+      "billcost": 1000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1290,
+      "id": "1000:1290:NURSES SERVICES:0:Paed - WARD:"
+    },
+    {
+      "billname": "CONSUMABLES (WARD)",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1291,
+      "id": "5000:1291:CONSUMABLES (WARD):0:Paed - WARD:"
+    },
+    {
+      "billname": "NASOGASTRIC TUBE INSERTION",
+      "billcost": 1200,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1292,
+      "id": "1200:1292:NASOGASTRIC TUBE INSERTION:0:Paed - WARD:"
+    },
+    {
+      "billname": "GASTRIC LARVAGE",
+      "billcost": 1500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1293,
+      "id": "1500:1293:GASTRIC LARVAGE:0:Paed - WARD:"
+    },
+    {
+      "billname": "PACKED CELL VOLUME ESTIMATION",
+      "billcost": 700,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1294,
+      "id": "700:1294:PACKED CELL VOLUME ESTIMATION:0:Paed - WARD:"
+    },
+    {
+      "billname": "RANDOM BLOOD SUGAR",
+      "billcost": 700,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1295,
+      "id": "700:1295:RANDOM BLOOD SUGAR:0:Paed - WARD:"
+    },
+    {
+      "billname": "NEBULISATION WITH SALBUTAMOL",
+      "billcost": 3000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1296,
+      "id": "3000:1296:NEBULISATION WITH SALBUTAMOL:0:Paed - WARD:"
+    },
+    {
+      "billname": "OXYGEN CONCENTRATOR",
+      "billcost": 2500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1297,
+      "id": "2500:1297:OXYGEN CONCENTRATOR:0:Paed - WARD:"
+    },
+    {
+      "billname": "RESUSCITATION (WARD)",
+      "billcost": 4000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1298,
+      "id": "4000:1298:RESUSCITATION (WARD):0:Paed - WARD:"
+    },
+    {
+      "billname": "TOP UP TRANSFUSION",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1299,
+      "id": "5000:1299:TOP UP TRANSFUSION:0:Paed - WARD:"
+    },
+    {
+      "billname": "INCISION AND DRAINAGE",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1300,
+      "id": "5000:1300:INCISION AND DRAINAGE:0:Paed - WARD:"
+    },
+    {
+      "billname": "WOUND DRESSING",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1301,
+      "id": "2000:1301:WOUND DRESSING:0:Paed - WARD:"
+    },
+    {
+      "billname": "APNOEA MONITOR\t",
+      "billcost": 2500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1302,
+      "id": "2500:1302:APNOEA MONITOR\t:0:Paed - WARD:"
+    },
+    {
+      "billname": "INFUSION PUMP",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1303,
+      "id": "2000:1303:INFUSION PUMP:0:Paed - WARD:"
+    },
+    {
+      "billname": "ADMISSION",
+      "billcost": 10000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1304,
+      "id": "10000:1304:ADMISSION:0:Paed - WARD:"
+    },
+    {
+      "billname": "NASAL PRONGS",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1305,
+      "id": "2000:1305:NASAL PRONGS:0:Paed - WARD:"
+    },
+    {
+      "billname": "DISCHARGE FEE",
+      "billcost": 0,
+      "status": 1,
+      "nf_price": 1,
+      "hmo_fees": "",
+      "sno": 1306,
+      "id": "0:1306:DISCHARGE FEE:1:Paed - WARD:DSC002"
+    },
+    {
+      "billname": "ADMISSION DEPOSIT",
+      "billcost": 0,
+      "status": 1,
+      "nf_price": 1,
+      "hmo_fees": "",
+      "sno": 1307,
+      "id": "0:1307:ADMISSION DEPOSIT:1:Paed - WARD:ADM004"
+    },
+    {
+      "billname": "NURSES SERVICES (EXTRA DAYS)",
+      "billcost": 500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1308,
+      "id": "500:1308:NURSES SERVICES (EXTRA DAYS):0:Paed - WARD:"
+    },
+    {
+      "billname": "1ST NEBULIZATION",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1309,
+      "id": "5000:1309:1ST NEBULIZATION:0:Paed - WARD:"
+    },
+    {
+      "billname": "REPEAT NEBULIZATION",
+      "billcost": 3500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1310,
+      "id": "3500:1310:REPEAT NEBULIZATION:0:Paed - WARD:"
+    },
+    {
+      "billname": "WOUND DRESSING - MINIOR",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1311,
+      "id": "2000:1311:WOUND DRESSING - MINIOR:0:Paed - WARD:"
+    },
+    {
+      "billname": "WOUND DRESSING - MAJOR",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1312,
+      "id": "5000:1312:WOUND DRESSING - MAJOR:0:Paed - WARD:"
+    },
+    {
+      "billname": "INPATIENT DOCTORS REVIEW",
+      "billcost": 1500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1313,
+      "id": "1500:1313:INPATIENT DOCTORS REVIEW:0:Paed - WARD:"
+    },
+    {
+      "billname": "PAEDIATRIC CARDIOLOGY ECHOCARDIOGRAPHY",
+      "billcost": 40000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1314,
+      "id": "40000:1314:PAEDIATRIC CARDIOLOGY ECHOCARDIOGRAPHY:0:Paed - WARD:"
+    },
+    {
+      "billname": "PAEDIATRIC V-SCAN\t",
+      "billcost": 10000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1315,
+      "id": "10000:1315:PAEDIATRIC V-SCAN\t:0:Paed - WARD:"
+    },
+    {
+      "billname": "ECG",
+      "billcost": 7000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1316,
+      "id": "7000:1316:ECG:0:Paed - WARD:"
+    },
+    {
+      "billname": "LED PHOTOTHERAPY",
+      "billcost": 7000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1317,
+      "id": "7000:1317:LED PHOTOTHERAPY:0:Paed - WARD:"
+    },
+    {
+      "billname": "CPAP",
+      "billcost": 35000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1318,
+      "id": "35000:1318:CPAP:0:Paed - WARD:"
+    },
+    {
+      "billname": "PULSE OXIMETRY (CONTINUOUS)",
+      "billcost": 3500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1319,
+      "id": "3500:1319:PULSE OXIMETRY (CONTINUOUS):0:Paed - WARD:"
+    },
+    {
+      "billname": "PULSE OXIMETRY (INTERMEDIATE)",
+      "billcost": 1000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1320,
+      "id": "1000:1320:PULSE OXIMETRY (INTERMEDIATE):0:Paed - WARD:"
+    },
+    {
+      "billname": "UTILITY CHARGE (EXTRA DAYS)",
+      "billcost": 200,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1321,
+      "id": "200:1321:UTILITY CHARGE (EXTRA DAYS):0:Paed - WARD:"
+    },
+    {
+      "billname": "UTILITY 200",
+      "billcost": 200,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1322,
+      "id": "200:1322:UTILITY 200:0:Paed - WARD:"
+    },
+    {
+      "billname": "UTILITY 300",
+      "billcost": 300,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1323,
+      "id": "300:1323:UTILITY 300:0:Paed - WARD:"
+    },
+    {
+      "billname": "UTILITY 500",
+      "billcost": 500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1324,
+      "id": "500:1324:UTILITY 500:0:Paed - WARD:"
+    },
+    {
+      "billname": "UTILITY 1000",
+      "billcost": 1000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1325,
+      "id": "1000:1325:UTILITY 1000:0:Paed - WARD:"
+    },
+    {
+      "billname": "UTILITY 2000",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1326,
+      "id": "2000:1326:UTILITY 2000:0:Paed - WARD:"
+    },
+    {
+      "billname": "UTILITY 5000",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1327,
+      "id": "5000:1327:UTILITY 5000:0:Paed - WARD:"
+    },
+    {
+      "billname": "ADMISSION DEPOSIT(TETANUS)",
+      "billcost": 50000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1328,
+      "id": "50000:1328:ADMISSION DEPOSIT(TETANUS):0:Paed - WARD:"
+    },
+    {
+      "billname": "ADMISSION DEPOSIT(PERITONEAL DIALYSIS ROOM)",
+      "billcost": 50000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1329,
+      "id": "50000:1329:ADMISSION DEPOSIT(PERITONEAL DIALYSIS ROOM):0:Paed - WARD:"
+    }
+  ]
+}

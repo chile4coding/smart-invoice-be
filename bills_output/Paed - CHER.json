@@ -1,0 +1,437 @@
+{
+  "unit": "Paed - CHER",
+  "items": [
+    {
+      "billname": "WOUND DRESSING (MINOR)",
+      "billcost": 1100,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 66,
+      "id": "1100:66:WOUND DRESSING (MINOR):0:Paed - CHER:DWM"
+    },
+    {
+      "billname": "CONSULTATION FEE",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1142,
+      "id": "2000:1142:CONSULTATION FEE:0:Paed - CHER:CNSLT"
+    },
+    {
+      "billname": "CHER BED FEE\t",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1143,
+      "id": "5000:1143:CHER BED FEE\t:0:Paed - CHER:CH001"
+    },
+    {
+      "billname": "NURSES SERVICES",
+      "billcost": 1000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1144,
+      "id": "1000:1144:NURSES SERVICES:0:Paed - CHER:NUS001"
+    },
+    {
+      "billname": "NASOGASTRIC TUBE INSERTION",
+      "billcost": 1200,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1145,
+      "id": "1200:1145:NASOGASTRIC TUBE INSERTION:0:Paed - CHER:NUS002"
+    },
+    {
+      "billname": "GASTRIC LARVAGE",
+      "billcost": 1500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1146,
+      "id": "1500:1146:GASTRIC LARVAGE:0:Paed - CHER:GAT002"
+    },
+    {
+      "billname": "PACKED CELL VOLUME ESTIMATION",
+      "billcost": 700,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1147,
+      "id": "700:1147:PACKED CELL VOLUME ESTIMATION:0:Paed - CHER:PA002"
+    },
+    {
+      "billname": "RANDOM BLOOD SUGAR",
+      "billcost": 700,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1148,
+      "id": "700:1148:RANDOM BLOOD SUGAR:0:Paed - CHER:RA002"
+    },
+    {
+      "billname": "NEBULISATION WITH SALBUTAMOL",
+      "billcost": 3000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1149,
+      "id": "3000:1149:NEBULISATION WITH SALBUTAMOL:0:Paed - CHER:NWS001"
+    },
+    {
+      "billname": "OXYGEN CONCENTRATOR",
+      "billcost": 2500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1150,
+      "id": "2500:1150:OXYGEN CONCENTRATOR:0:Paed - CHER:OXC003"
+    },
+    {
+      "billname": "RESUSCITATION (CHER)",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1151,
+      "id": "5000:1151:RESUSCITATION (CHER):0:Paed - CHER:RES001"
+    },
+    {
+      "billname": "TOP UP TRANSFUSION",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1152,
+      "id": "5000:1152:TOP UP TRANSFUSION:0:Paed - CHER:TUT001"
+    },
+    {
+      "billname": "OXYGEN CYLINDER",
+      "billcost": 8000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1153,
+      "id": "8000:1153:OXYGEN CYLINDER:0:Paed - CHER:OXC003"
+    },
+    {
+      "billname": "LUMBAR PUNCTURE",
+      "billcost": 3500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1154,
+      "id": "3500:1154:LUMBAR PUNCTURE:0:Paed - CHER:LUP005"
+    },
+    {
+      "billname": "INCISION AND DRAINAGE",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1155,
+      "id": "5000:1155:INCISION AND DRAINAGE:0:Paed - CHER:IAD004"
+    },
+    {
+      "billname": "WOUND DRESSING",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1156,
+      "id": "2000:1156:WOUND DRESSING:0:Paed - CHER:WOD001"
+    },
+    {
+      "billname": "APNOEA MONITOR",
+      "billcost": 2500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1157,
+      "id": "2500:1157:APNOEA MONITOR:0:Paed - CHER:APM001"
+    },
+    {
+      "billname": "INFUSION PUMP",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1158,
+      "id": "2000:1158:INFUSION PUMP:0:Paed - CHER:APM002"
+    },
+    {
+      "billname": "ADMISSION",
+      "billcost": 10000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1159,
+      "id": "10000:1159:ADMISSION:0:Paed - CHER:ADM002"
+    },
+    {
+      "billname": "NASAL PRONGS",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1160,
+      "id": "2000:1160:NASAL PRONGS:0:Paed - CHER:NA002"
+    },
+    {
+      "billname": "ADMISSION DEPOSIT (CHER)\t20000",
+      "billcost": 20000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1161,
+      "id": "20000:1161:ADMISSION DEPOSIT (CHER)\t20000:0:Paed - CHER:AD003"
+    },
+    {
+      "billname": "DISCHARGE FEE",
+      "billcost": 0,
+      "status": 1,
+      "nf_price": 1,
+      "hmo_fees": "",
+      "sno": 1162,
+      "id": "0:1162:DISCHARGE FEE:1:Paed - CHER:DC003"
+    },
+    {
+      "billname": "ADMISSION DEPOSIT",
+      "billcost": 0,
+      "status": 1,
+      "nf_price": 1,
+      "hmo_fees": "",
+      "sno": 1163,
+      "id": "0:1163:ADMISSION DEPOSIT:1:Paed - CHER:ADM003"
+    },
+    {
+      "billname": "INCUBATOR (CHER) - DEPOSIT",
+      "billcost": 0,
+      "status": 1,
+      "nf_price": 1,
+      "hmo_fees": "",
+      "sno": 1164,
+      "id": "0:1164:INCUBATOR (CHER) - DEPOSIT:1:Paed - CHER:INC001"
+    },
+    {
+      "billname": "NURSES SERVICES (EXTRA DAYS)",
+      "billcost": 500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1165,
+      "id": "500:1165:NURSES SERVICES (EXTRA DAYS):0:Paed - CHER:NUS003"
+    },
+    {
+      "billname": "1ST NEBULIZATION",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1166,
+      "id": "5000:1166:1ST NEBULIZATION:0:Paed - CHER:NUS004"
+    },
+    {
+      "billname": "REPEAT NEBULIZATION",
+      "billcost": 3500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1167,
+      "id": "3500:1167:REPEAT NEBULIZATION:0:Paed - CHER:"
+    },
+    {
+      "billname": "WOUND DRESSING - MINIOR",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1168,
+      "id": "2000:1168:WOUND DRESSING - MINIOR:0:Paed - CHER:"
+    },
+    {
+      "billname": "WOUND DRESSING - MAJOR",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1169,
+      "id": "5000:1169:WOUND DRESSING - MAJOR:0:Paed - CHER:"
+    },
+    {
+      "billname": "INPATIENT DOCTORS REVIEW",
+      "billcost": 1500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1170,
+      "id": "1500:1170:INPATIENT DOCTORS REVIEW:0:Paed - CHER:"
+    },
+    {
+      "billname": "PAEDIATRIC CARDIOLOGY ECHOCARDIOGRAPHY",
+      "billcost": 40000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1171,
+      "id": "40000:1171:PAEDIATRIC CARDIOLOGY ECHOCARDIOGRAPHY:0:Paed - CHER:"
+    },
+    {
+      "billname": "PAEDIATRIC V-SCAN\t",
+      "billcost": 10000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1172,
+      "id": "10000:1172:PAEDIATRIC V-SCAN\t:0:Paed - CHER:"
+    },
+    {
+      "billname": "ECG",
+      "billcost": 7000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1173,
+      "id": "7000:1173:ECG:0:Paed - CHER:"
+    },
+    {
+      "billname": "LED PHOTOTHERAPY",
+      "billcost": 7000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1174,
+      "id": "7000:1174:LED PHOTOTHERAPY:0:Paed - CHER:"
+    },
+    {
+      "billname": "CPAP",
+      "billcost": 35000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1175,
+      "id": "35000:1175:CPAP:0:Paed - CHER:"
+    },
+    {
+      "billname": "PULSE OXIMETRY (CONTINUOUS)",
+      "billcost": 3500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1176,
+      "id": "3500:1176:PULSE OXIMETRY (CONTINUOUS):0:Paed - CHER:"
+    },
+    {
+      "billname": "PULSE OXIMETRY (INTERMEDIATE)",
+      "billcost": 1000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1177,
+      "id": "1000:1177:PULSE OXIMETRY (INTERMEDIATE):0:Paed - CHER:"
+    },
+    {
+      "billname": "UTILITY CHARGE (EXTRA DAYS)",
+      "billcost": 200,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1178,
+      "id": "200:1178:UTILITY CHARGE (EXTRA DAYS):0:Paed - CHER:"
+    },
+    {
+      "billname": "UTILITY ",
+      "billcost": 200,
+      "status": 0,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1179,
+      "id": "200:1179:UTILITY :0:Paed - CHER:"
+    },
+    {
+      "billname": "ADMISSION DEPOSIT(PERITONEAL DIALYSIS ROOM)",
+      "billcost": 50000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1185,
+      "id": "50000:1185:ADMISSION DEPOSIT(PERITONEAL DIALYSIS ROOM):0:Paed - CHER:"
+    },
+    {
+      "billname": "ADMISSION DEPOSIT(TETANUS)",
+      "billcost": 50000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1186,
+      "id": "50000:1186:ADMISSION DEPOSIT(TETANUS):0:Paed - CHER:"
+    },
+    {
+      "billname": "ADMISSION DEPOSIT (CHER)",
+      "billcost": 20000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1330,
+      "id": "20000:1330:ADMISSION DEPOSIT (CHER):0:Paed - CHER:"
+    },
+    {
+      "billname": "UTILITY 200",
+      "billcost": 200,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1331,
+      "id": "200:1331:UTILITY 200:0:Paed - CHER:"
+    },
+    {
+      "billname": "UTILITY 300",
+      "billcost": 300,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1332,
+      "id": "300:1332:UTILITY 300:0:Paed - CHER:"
+    },
+    {
+      "billname": "UTILITY 500",
+      "billcost": 500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1333,
+      "id": "500:1333:UTILITY 500:0:Paed - CHER:"
+    },
+    {
+      "billname": "UTILITY 5000",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1334,
+      "id": "5000:1334:UTILITY 5000:0:Paed - CHER:"
+    },
+    {
+      "billname": "UTILITY 1000",
+      "billcost": 1000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1335,
+      "id": "1000:1335:UTILITY 1000:0:Paed - CHER:"
+    },
+    {
+      "billname": "UTILITY 2000",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1336,
+      "id": "2000:1336:UTILITY 2000:0:Paed - CHER:"
+    }
+  ]
+}

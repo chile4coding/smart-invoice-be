@@ -1,0 +1,455 @@
+{
+  "unit": "CSSD",
+  "items": [
+    {
+      "billname": "CSSD (MINOR)",
+      "billcost": 4500,
+      "status": 0,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 47,
+      "id": "4500:47:CSSD (MINOR):0:CSSD:CSSDM"
+    },
+    {
+      "billname": "CSSD (INTERMEDIATE)",
+      "billcost": 5500,
+      "status": 0,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 48,
+      "id": "5500:48:CSSD (INTERMEDIATE):0:CSSD:CSSDI"
+    },
+    {
+      "billname": "CSSD (MAJOR)",
+      "billcost": 6500,
+      "status": 0,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 49,
+      "id": "6500:49:CSSD (MAJOR):0:CSSD:CSSDMJ"
+    },
+    {
+      "billname": "CSSD (SUPRAMAJOR)",
+      "billcost": 8500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 50,
+      "id": "8500:50:CSSD (SUPRAMAJOR):0:CSSD:CSSDSM"
+    },
+    {
+      "billname": "CONSUMABLE (MINOR)",
+      "billcost": 1000,
+      "status": 0,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 51,
+      "id": "1000:51:CONSUMABLE (MINOR):0:CSSD:CONSM"
+    },
+    {
+      "billname": "CONSUMABLE (INTERMEDIATE)",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 52,
+      "id": "2000:52:CONSUMABLE (INTERMEDIATE):0:CSSD:CONSI"
+    },
+    {
+      "billname": "CONSUMABLE (MAJOR)",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 53,
+      "id": "2000:53:CONSUMABLE (MAJOR):0:CSSD:CONSMJ"
+    },
+    {
+      "billname": "CONSUMABLE (SUPRAMAJOR)",
+      "billcost": 2500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 54,
+      "id": "2500:54:CONSUMABLE (SUPRAMAJOR):0:CSSD:CONSSM"
+    },
+    {
+      "billname": "CSSD (MINOR)",
+      "billcost": 4500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 154,
+      "id": "4500:154:CSSD (MINOR):0:CSSD:CSSDMN"
+    },
+    {
+      "billname": "CSSD (INTERMEDIATE)",
+      "billcost": 5500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 155,
+      "id": "5500:155:CSSD (INTERMEDIATE):0:CSSD:CSSDINT"
+    },
+    {
+      "billname": "CSSD (MAJOR)",
+      "billcost": 6500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 156,
+      "id": "6500:156:CSSD (MAJOR):0:CSSD:CSSDMJ"
+    },
+    {
+      "billname": "CSSD (SUPRAMAJOR)",
+      "billcost": 8500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 157,
+      "id": "8500:157:CSSD (SUPRAMAJOR):0:CSSD:CSSDSMJ"
+    },
+    {
+      "billname": "DRESSING PACK",
+      "billcost": 600,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 310,
+      "id": "600:310:DRESSING PACK:0:CSSD:CSSD1"
+    },
+    {
+      "billname": "EXTRA GAUZE",
+      "billcost": 400,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 311,
+      "id": "400:311:EXTRA GAUZE:0:CSSD:CSSD2"
+    },
+    {
+      "billname": "I AND D PACK",
+      "billcost": 3500,
+      "status": 0,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 312,
+      "id": "3500:312:I AND D PACK:0:CSSD:CSSD3"
+    },
+    {
+      "billname": "SUTURE INSTRUMENT PACK",
+      "billcost": 3500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 313,
+      "id": "3500:313:SUTURE INSTRUMENT PACK:0:CSSD:CSSD4"
+    },
+    {
+      "billname": "MVA PACK",
+      "billcost": 4500,
+      "status": 0,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 314,
+      "id": "4500:314:MVA PACK:0:CSSD:CSSD5"
+    },
+    {
+      "billname": "CYSTOTOMY PACK",
+      "billcost": 3000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 315,
+      "id": "3000:315:CYSTOTOMY PACK:0:CSSD:CSSD6"
+    },
+    {
+      "billname": "AUTO CLAVING (BIG DRUM)",
+      "billcost": 4500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 316,
+      "id": "4500:316:AUTO CLAVING (BIG DRUM):0:CSSD:CSSD7"
+    },
+    {
+      "billname": "AUTO CLAVING (MEDIUM DRUM)",
+      "billcost": 3000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 317,
+      "id": "3000:317:AUTO CLAVING (MEDIUM DRUM):0:CSSD:CSSD8"
+    },
+    {
+      "billname": "AUTO CLAVING (INSTRUMENT TRAYS BIG)",
+      "billcost": 3500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 318,
+      "id": "3500:318:AUTO CLAVING (INSTRUMENT TRAYS BIG):0:CSSD:CSSD9"
+    },
+    {
+      "billname": "AUTO CLAVING (INSTRUMENT TRAYS SMALL)",
+      "billcost": 2500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 319,
+      "id": "2500:319:AUTO CLAVING (INSTRUMENT TRAYS SMALL):0:CSSD:CSSD10"
+    },
+    {
+      "billname": "AUTO CLAVING (GAUZE BAG)",
+      "billcost": 3500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 320,
+      "id": "3500:320:AUTO CLAVING (GAUZE BAG):0:CSSD:CSSD11"
+    },
+    {
+      "billname": "AUTO CLAVING (INSTRUMENT BAG)",
+      "billcost": 3500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 321,
+      "id": "3500:321:AUTO CLAVING (INSTRUMENT BAG):0:CSSD:CSSD12"
+    },
+    {
+      "billname": "AUTO CLAVING (OTHER INSTRUMENT SETS)",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 322,
+      "id": "5000:322:AUTO CLAVING (OTHER INSTRUMENT SETS):0:CSSD:CSSD13"
+    },
+    {
+      "billname": "UTILITY 500",
+      "billcost": 500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 662,
+      "id": "500:662:UTILITY 500:0:CSSD:UTCS001"
+    },
+    {
+      "billname": "UTILITY 100",
+      "billcost": 100,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 663,
+      "id": "100:663:UTILITY 100:0:CSSD:UTCS002"
+    },
+    {
+      "billname": "UTILITY 1000",
+      "billcost": 1000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 665,
+      "id": "1000:665:UTILITY 1000:0:CSSD:UTCS003"
+    },
+    {
+      "billname": "CUT-DOWN SET",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 738,
+      "id": "5000:738:CUT-DOWN SET:0:CSSD:CDS001"
+    },
+    {
+      "billname": "BOUGIE SET",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 739,
+      "id": "5000:739:BOUGIE SET:0:CSSD:CDS002"
+    },
+    {
+      "billname": "UTITY 100",
+      "billcost": 100,
+      "status": 0,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 759,
+      "id": "100:759:UTITY 100:0:CSSD:UT01"
+    },
+    {
+      "billname": "CICUMCISION PACK",
+      "billcost": 3500,
+      "status": 0,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1382,
+      "id": "3500:1382:CICUMCISION PACK:0:CSSD:"
+    },
+    {
+      "billname": "SUTURING INSTRUMENT PACK",
+      "billcost": 3000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1383,
+      "id": "3000:1383:SUTURING INSTRUMENT PACK:0:CSSD:"
+    },
+    {
+      "billname": "INCISION & DRAINAGE PACK",
+      "billcost": 3500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1384,
+      "id": "3500:1384:INCISION & DRAINAGE PACK:0:CSSD:"
+    },
+    {
+      "billname": "MVA INSTRUMNT PACK",
+      "billcost": 4500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1385,
+      "id": "4500:1385:MVA INSTRUMNT PACK:0:CSSD:"
+    },
+    {
+      "billname": "CSSD (ORTHOPEDIC)",
+      "billcost": 12500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1386,
+      "id": "12500:1386:CSSD (ORTHOPEDIC):0:CSSD:"
+    },
+    {
+      "billname": "AUTO CLAVING (LINEN BUNDLE)",
+      "billcost": 2500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1387,
+      "id": "2500:1387:AUTO CLAVING (LINEN BUNDLE):0:CSSD:"
+    },
+    {
+      "billname": "AUTO CLAVING (SMALL DRUM)",
+      "billcost": 2500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1388,
+      "id": "2500:1388:AUTO CLAVING (SMALL DRUM):0:CSSD:"
+    },
+    {
+      "billname": "AUTOCLAVING FROM OUTSIDE RSUTH (SMALL DRUMS)",
+      "billcost": 3000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1389,
+      "id": "3000:1389:AUTOCLAVING FROM OUTSIDE RSUTH (SMALL DRUMS):0:CSSD:"
+    },
+    {
+      "billname": "AUTOCLAVING FROM OUTSIDE RSUTH (MEDIUM DRUMS)",
+      "billcost": 3500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1390,
+      "id": "3500:1390:AUTOCLAVING FROM OUTSIDE RSUTH (MEDIUM DRUMS):0:CSSD:"
+    },
+    {
+      "billname": "AUTOCLAVING FROM OUTSIDE RSUTH (BIG DRUMS)",
+      "billcost": 4500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1391,
+      "id": "4500:1391:AUTOCLAVING FROM OUTSIDE RSUTH (BIG DRUMS):0:CSSD:"
+    },
+    {
+      "billname": "AUTOCLAVING FROM OUTSIDE RSUTH (INSTRUMENT SET BIG)",
+      "billcost": 4000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1392,
+      "id": "4000:1392:AUTOCLAVING FROM OUTSIDE RSUTH (INSTRUMENT SET BIG):0:CSSD:"
+    },
+    {
+      "billname": "AUTOCLAVING FROM OUTSIDE RSUTH (INSTRUMENT SET SMALL)",
+      "billcost": 3000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1393,
+      "id": "3000:1393:AUTOCLAVING FROM OUTSIDE RSUTH (INSTRUMENT SET SMALL):0:CSSD:"
+    },
+    {
+      "billname": "AUTOCLAVING FROM OUTSIDE RSUTH (GAUZE BAG)",
+      "billcost": 3500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1394,
+      "id": "3500:1394:AUTOCLAVING FROM OUTSIDE RSUTH (GAUZE BAG):0:CSSD:"
+    },
+    {
+      "billname": "AUTOCLAVING FROM OUTSIDE RSUTH (INSTRUMENT BAG)",
+      "billcost": 3500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1395,
+      "id": "3500:1395:AUTOCLAVING FROM OUTSIDE RSUTH (INSTRUMENT BAG):0:CSSD:"
+    },
+    {
+      "billname": "AUTOCLAVING FROM OUTSIDE RSUTH (LINEN BUNDLE)",
+      "billcost": 4000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1396,
+      "id": "4000:1396:AUTOCLAVING FROM OUTSIDE RSUTH (LINEN BUNDLE):0:CSSD:"
+    },
+    {
+      "billname": "AUTOCLAVING FROM OUTSIDE RSUTH (ORTHOPEDIC INSTRUMENT)",
+      "billcost": 6000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1397,
+      "id": "6000:1397:AUTOCLAVING FROM OUTSIDE RSUTH (ORTHOPEDIC INSTRUMENT):0:CSSD:"
+    },
+    {
+      "billname": "GANJI",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1633,
+      "id": "2000:1633:GANJI:0:CSSD:"
+    },
+    {
+      "billname": "CIRCUMCISION PACK",
+      "billcost": 3500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1634,
+      "id": "3500:1634:CIRCUMCISION PACK:0:CSSD:"
+    },
+    {
+      "billname": "UTILITY 200",
+      "billcost": 200,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1635,
+      "id": "200:1635:UTILITY 200:0:CSSD:"
+    }
+  ]
+}

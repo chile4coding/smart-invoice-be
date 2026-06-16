@@ -1,0 +1,113 @@
+{
+  "unit": "VIP",
+  "items": [
+    {
+      "billname": "VIP ADMISSION DEPOSIT (SMALL ROOM)",
+      "billcost": 386700,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 323,
+      "id": "386700:323:VIP ADMISSION DEPOSIT (SMALL ROOM):0:VIP:VIP1"
+    },
+    {
+      "billname": "VIP ADMISSION DEPOSIT (LARGE ROOM)",
+      "billcost": 448700,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 324,
+      "id": "448700:324:VIP ADMISSION DEPOSIT (LARGE ROOM):0:VIP:VIP2"
+    },
+    {
+      "billname": "VIP ADMISSION DEPOSIT (LARGE ROOM 2)",
+      "billcost": 489700,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 325,
+      "id": "489700:325:VIP ADMISSION DEPOSIT (LARGE ROOM 2):0:VIP:VIP3"
+    },
+    {
+      "billname": "EXTRA DAYS (VIP LARGE ROOM)",
+      "billcost": 0,
+      "status": 1,
+      "nf_price": 1,
+      "hmo_fees": "",
+      "sno": 584,
+      "id": "0:584:EXTRA DAYS (VIP LARGE ROOM):1:VIP:EXVIP"
+    },
+    {
+      "billname": "EXTRA DAYS (VIP SMALL ROOM)",
+      "billcost": 255200,
+      "status": 0,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 585,
+      "id": "255200:585:EXTRA DAYS (VIP SMALL ROOM):0:VIP:EXVIP2"
+    },
+    {
+      "billname": "UTILITY CHARGE (VIP EXTRA DAYS)",
+      "billcost": 0,
+      "status": 0,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 596,
+      "id": "0:596:UTILITY CHARGE (VIP EXTRA DAYS):0:VIP:UTC003"
+    },
+    {
+      "billname": "USE OF SPECIAL GADGET(CARDIAC MONITOR +++) ",
+      "billcost": 150000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1403,
+      "id": "150000:1403:USE OF SPECIAL GADGET(CARDIAC MONITOR +++) :0:VIP:5555"
+    },
+    {
+      "billname": "HOLTER ECG",
+      "billcost": 10000,
+      "status": 0,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1683,
+      "id": "10000:1683:HOLTER ECG:0:VIP:"
+    },
+    {
+      "billname": "AMBULATORY",
+      "billcost": 10000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1684,
+      "id": "10000:1684:AMBULATORY:0:VIP:"
+    },
+    {
+      "billname": "EXTRA DAYS VIP LARGE ROOM",
+      "billcost": "0",
+      "status": 1,
+      "nf_price": "1",
+      "hmo_fees": "",
+      "sno": 1765,
+      "id": "0:1765:EXTRA DAYS VIP LARGE ROOM:1:VIP:V00"
+    },
+    {
+      "billname": "UTILITY CHARGE VIP EXTRA DAYS",
+      "billcost": "0",
+      "status": 1,
+      "nf_price": "1",
+      "hmo_fees": "",
+      "sno": 1766,
+      "id": "0:1766:UTILITY CHARGE VIP EXTRA DAYS:1:VIP:V00"
+    },
+    {
+      "billname": "HOLTER ECG",
+      "billcost": "45000",
+      "status": 1,
+      "nf_price": "0",
+      "hmo_fees": "",
+      "sno": 1795,
+      "id": "45000:1795:HOLTER ECG:0:VIP:HECG002"
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "unit": "CARDIOLOGY",
+  "items": [
+    {
+      "billname": "Adult Echo (Res)",
+      "billcost": 55000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "NO",
+      "sno": 1814,
+      "id": "55000:1814:Adult Echo (Res):0:CARDIOLOGY:ADE01"
+    },
+    {
+      "billname": "Adult Echo (Rest with Speckle Tracking)",
+      "billcost": 100000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "NO",
+      "sno": 1815,
+      "id": "100000:1815:Adult Echo (Rest with Speckle Tracking):0:CARDIOLOGY:ADE002"
+    },
+    {
+      "billname": "Adult Echo (Stress)",
+      "billcost": 150000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "NO",
+      "sno": 1816,
+      "id": "150000:1816:Adult Echo (Stress):0:CARDIOLOGY:ADE003"
+    },
+    {
+      "billname": "Holter (24 hour) ECG",
+      "billcost": 45000,
+      "status": 1,
+      "nf_price": "0",
+      "hmo_fees": "NO",
+      "sno": 1817,
+      "id": "45000:1817:Holter (24 hour) ECG:0:CARDIOLOGY:HOT002"
+    },
+    {
+      "billname": "Ambulatory Blood Pressure Monitoring",
+      "billcost": "91000",
+      "status": 1,
+      "nf_price": "0",
+      "hmo_fees": "NO",
+      "sno": 1818,
+      "id": "91000:1818:Ambulatory Blood Pressure Monitoring:0:CARDIOLOGY:AM002"
+    },
+    {
+      "billname": "Stress ECG",
+      "billcost": 80000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "NO",
+      "sno": 1819,
+      "id": "80000:1819:Stress ECG:0:CARDIOLOGY:STG003"
+    },
+    {
+      "billname": "Rest ECG",
+      "billcost": 8900,
+      "status": 1,
+      "nf_price": "0",
+      "hmo_fees": "NO",
+      "sno": 1820,
+      "id": "8900:1820:Rest ECG:0:CARDIOLOGY:RECG002"
+    },
+    {
+      "billname": "Cardiology Medical Report",
+      "billcost": "20000",
+      "status": 1,
+      "nf_price": "0",
+      "hmo_fees": "NO",
+      "sno": 1821,
+      "id": "20000:1821:Cardiology Medical Report:0:CARDIOLOGY:CMR004"
+    },
+    {
+      "billname": "Paediatric Echo",
+      "billcost": "50000",
+      "status": 1,
+      "nf_price": "0",
+      "hmo_fees": "NO",
+      "sno": 1822,
+      "id": "50000:1822:Paediatric Echo:0:CARDIOLOGY:PAE004"
+    },
+    {
+      "billname": "Paediatric Echo Sedation",
+      "billcost": "10000",
+      "status": 1,
+      "nf_price": "0",
+      "hmo_fees": "NO",
+      "sno": 1823,
+      "id": "10000:1823:Paediatric Echo Sedation:0:CARDIOLOGY:PED005"
+    },
+    {
+      "billname": "Utility1000",
+      "billcost": "1000",
+      "status": 1,
+      "nf_price": "0",
+      "hmo_fees": "NO",
+      "sno": 1824,
+      "id": "1000:1824:Utility1000:0:CARDIOLOGY:UT001"
+    },
+    {
+      "billname": "Utility2000",
+      "billcost": "2000",
+      "status": 1,
+      "nf_price": "0",
+      "hmo_fees": "NO",
+      "sno": 1825,
+      "id": "2000:1825:Utility2000:0:CARDIOLOGY:UT002"
+    },
+    {
+      "billname": "Utility500",
+      "billcost": "500",
+      "status": 1,
+      "nf_price": "0",
+      "hmo_fees": "NO",
+      "sno": 1826,
+      "id": "500:1826:Utility500:0:CARDIOLOGY:UT003"
+    },
+    {
+      "billname": "PERICARDIOCENTENSIS",
+      "billcost": "350000",
+      "status": 1,
+      "nf_price": "0",
+      "hmo_fees": "NO",
+      "sno": 1837,
+      "id": "350000:1837:PERICARDIOCENTENSIS:0:CARDIOLOGY:pct009"
+    },
+    {
+      "billname": "ADMISSION",
+      "billcost": "32000",
+      "status": 1,
+      "nf_price": "0",
+      "hmo_fees": "NO",
+      "sno": 1842,
+      "id": "32000:1842:ADMISSION:0:CARDIOLOGY:ADD876"
+    },
+    {
+      "billname": "ADMISSION (EXTRA)",
+      "billcost": 3000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "NO",
+      "sno": 1846,
+      "id": "3000:1846:ADMISSION (EXTRA):0:CARDIOLOGY:CED009"
+    },
+    {
+      "billname": "RBS",
+      "billcost": "700",
+      "status": 1,
+      "nf_price": "0",
+      "hmo_fees": "NO",
+      "sno": 1848,
+      "id": "700:1848:RBS:0:CARDIOLOGY:R001"
+    },
+    {
+      "billname": "Wound Dressing",
+      "billcost": "20000",
+      "status": 1,
+      "nf_price": "0",
+      "hmo_fees": "NO",
+      "sno": 1849,
+      "id": "20000:1849:Wound Dressing:0:CARDIOLOGY:WD001"
+    }
+  ]
+}

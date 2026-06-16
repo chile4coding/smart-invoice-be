@@ -1,0 +1,212 @@
+{
+  "unit": "COMMUNITY MEDICINE",
+  "items": [
+    {
+      "billname": "UTILITY 1",
+      "billcost": 200,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 659,
+      "id": "200:659:UTILITY 1:0:COMMUNITY MEDICINE:UTCM001"
+    },
+    {
+      "billname": "UTILITY 2",
+      "billcost": 500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 660,
+      "id": "500:660:UTILITY 2:0:COMMUNITY MEDICINE:UTCM002"
+    },
+    {
+      "billname": "UTILITY 3",
+      "billcost": 1000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 661,
+      "id": "1000:661:UTILITY 3:0:COMMUNITY MEDICINE:UTCM003"
+    },
+    {
+      "billname": "EMZOR HAPITITIS A 1ML",
+      "billcost": 9765,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 872,
+      "id": "9765:872:EMZOR HAPITITIS A 1ML:0:COMMUNITY MEDICINE:EMZ1"
+    },
+    {
+      "billname": "EMZOR HAPITITIS A VACCINE 0.5ML",
+      "billcost": 9300,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 873,
+      "id": "9300:873:EMZOR HAPITITIS A VACCINE 0.5ML:0:COMMUNITY MEDICINE:EMZ2"
+    },
+    {
+      "billname": "EMZOR VARICELLAE VACCINE (CHICKENPOX VACCINE)",
+      "billcost": 41950,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 874,
+      "id": "41950:874:EMZOR VARICELLAE VACCINE (CHICKENPOX VACCINE):0:COMMUNITY MEDICINE:EMZ3"
+    },
+    {
+      "billname": "GENEVAC B 1ML (HAPITITIS B)",
+      "billcost": 4515,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 875,
+      "id": "4515:875:GENEVAC B 1ML (HAPITITIS B):0:COMMUNITY MEDICINE:EMZ4"
+    },
+    {
+      "billname": "ROTASIIL (ROTAVIRUS VACCINE)",
+      "billcost": 8000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 876,
+      "id": "8000:876:ROTASIIL (ROTAVIRUS VACCINE):0:COMMUNITY MEDICINE:EMZ5"
+    },
+    {
+      "billname": "TETANUS TOXOID",
+      "billcost": 892.5,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 877,
+      "id": "892.5:877:TETANUS TOXOID:0:COMMUNITY MEDICINE:EMZ6"
+    },
+    {
+      "billname": "TRESIVAC (MEASLES,MUMPS AND RUBELLA)",
+      "billcost": 8925,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 878,
+      "id": "8925:878:TRESIVAC (MEASLES,MUMPS AND RUBELLA):0:COMMUNITY MEDICINE:EMZ7"
+    },
+    {
+      "billname": "UTILITY 500",
+      "billcost": 500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 879,
+      "id": "500:879:UTILITY 500:0:COMMUNITY MEDICINE:UT5"
+    },
+    {
+      "billname": "UTILITY 200",
+      "billcost": 200,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 880,
+      "id": "200:880:UTILITY 200:0:COMMUNITY MEDICINE:UT2"
+    },
+    {
+      "billname": "UTILITY 1000",
+      "billcost": 1000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 881,
+      "id": "1000:881:UTILITY 1000:0:COMMUNITY MEDICINE:UT1K"
+    },
+    {
+      "billname": "GENEVAC B 1ML (HAPITITIS B)**",
+      "billcost": 2100,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 882,
+      "id": "2100:882:GENEVAC B 1ML (HAPITITIS B)**:0:COMMUNITY MEDICINE:GEV001"
+    },
+    {
+      "billname": "Haemophilus Influenza type-Bco",
+      "billcost": "22000",
+      "status": 1,
+      "nf_price": "0",
+      "hmo_fees": "",
+      "sno": 1802,
+      "id": "22000:1802:Haemophilus Influenza type-Bco:0:COMMUNITY MEDICINE:HAL001"
+    },
+    {
+      "billname": "Cholera Vaccine",
+      "billcost": "23000",
+      "status": 1,
+      "nf_price": "0",
+      "hmo_fees": "",
+      "sno": 1803,
+      "id": "23000:1803:Cholera Vaccine:0:COMMUNITY MEDICINE:CV001"
+    },
+    {
+      "billname": "Chicken-Pox",
+      "billcost": "41950",
+      "status": 1,
+      "nf_price": "0",
+      "hmo_fees": "",
+      "sno": 1804,
+      "id": "41950:1804:Chicken-Pox:0:COMMUNITY MEDICINE:COP003"
+    },
+    {
+      "billname": "Measles-Mumps-Rubella",
+      "billcost": "25000",
+      "status": 1,
+      "nf_price": "0",
+      "hmo_fees": "",
+      "sno": 1805,
+      "id": "25000:1805:Measles-Mumps-Rubella:0:COMMUNITY MEDICINE:MMP004"
+    },
+    {
+      "billname": "Hepatitis A",
+      "billcost": "32000",
+      "status": 1,
+      "nf_price": "0",
+      "hmo_fees": "",
+      "sno": 1806,
+      "id": "32000:1806:Hepatitis A:0:COMMUNITY MEDICINE:HAP004"
+    },
+    {
+      "billname": "Hepatitis-B",
+      "billcost": "4500",
+      "status": 1,
+      "nf_price": "0",
+      "hmo_fees": "",
+      "sno": 1807,
+      "id": "4500:1807:Hepatitis-B:0:COMMUNITY MEDICINE:HAP005"
+    },
+    {
+      "billname": "Typhoid",
+      "billcost": "22000",
+      "status": 1,
+      "nf_price": "0",
+      "hmo_fees": "",
+      "sno": 1808,
+      "id": "22000:1808:Typhoid:0:COMMUNITY MEDICINE:TOD002"
+    },
+    {
+      "billname": "Human-Papiloma-Virus",
+      "billcost": "29000",
+      "status": 1,
+      "nf_price": "0",
+      "hmo_fees": "",
+      "sno": 1809,
+      "id": "29000:1809:Human-Papiloma-Virus:0:COMMUNITY MEDICINE:HPV002"
+    },
+    {
+      "billname": "Diphtheria-Tetanus-acellular Pertusis (D-TaP)",
+      "billcost": "45000",
+      "status": 1,
+      "nf_price": "0",
+      "hmo_fees": "",
+      "sno": 1810,
+      "id": "45000:1810:Diphtheria-Tetanus-acellular Pertusis (D-TaP):0:COMMUNITY MEDICINE:DTP003"
+    }
+  ]
+}

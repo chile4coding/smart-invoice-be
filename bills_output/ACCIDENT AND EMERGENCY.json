@@ -1,0 +1,545 @@
+{
+  "unit": "ACCIDENT AND EMERGENCY",
+  "items": [
+    {
+      "billname": "CONSULTATION FEE - A&E",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 59,
+      "id": "2000:59:CONSULTATION FEE - A&E:0:ACCIDENT AND EMERGENCY:CNSLT"
+    },
+    {
+      "billname": "BED FEE - A&E",
+      "billcost": 10000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 60,
+      "id": "10000:60:BED FEE - A&E:0:ACCIDENT AND EMERGENCY:BF"
+    },
+    {
+      "billname": "BED FEE (EXTRA) - A&E",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 61,
+      "id": "5000:61:BED FEE (EXTRA) - A&E:0:ACCIDENT AND EMERGENCY:BF"
+    },
+    {
+      "billname": "DEAD ON ARRIVAL - A&E",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 62,
+      "id": "5000:62:DEAD ON ARRIVAL - A&E:0:ACCIDENT AND EMERGENCY:DOA"
+    },
+    {
+      "billname": "THEATRE FEE (MINOR) - A&E",
+      "billcost": 6000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 63,
+      "id": "6000:63:THEATRE FEE (MINOR) - A&E:0:ACCIDENT AND EMERGENCY:THF"
+    },
+    {
+      "billname": "THEATRE FEE (MAJOR) - A&E",
+      "billcost": 15000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 64,
+      "id": "15000:64:THEATRE FEE (MAJOR) - A&E:0:ACCIDENT AND EMERGENCY:THFF"
+    },
+    {
+      "billname": "NEBULIZATION - A&E",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 65,
+      "id": "2000:65:NEBULIZATION - A&E:0:ACCIDENT AND EMERGENCY:NBL"
+    },
+    {
+      "billname": "PCV - A&E",
+      "billcost": 1000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 341,
+      "id": "1000:341:PCV - A&E:0:ACCIDENT AND EMERGENCY:PCV"
+    },
+    {
+      "billname": "PREGNANCY TEST - A&E",
+      "billcost": 3500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 342,
+      "id": "3500:342:PREGNANCY TEST - A&E:0:ACCIDENT AND EMERGENCY:PT"
+    },
+    {
+      "billname": "URINALYSIS - A&E",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 343,
+      "id": "2000:343:URINALYSIS - A&E:0:ACCIDENT AND EMERGENCY:URI"
+    },
+    {
+      "billname": "MALARIA TEST -A&E",
+      "billcost": 500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 344,
+      "id": "500:344:MALARIA TEST -A&E:0:ACCIDENT AND EMERGENCY:MT"
+    },
+    {
+      "billname": "VDRL TEST -A&E",
+      "billcost": 3500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 345,
+      "id": "3500:345:VDRL TEST -A&E:0:ACCIDENT AND EMERGENCY:VDRL"
+    },
+    {
+      "billname": "OXYGEN",
+      "billcost": 0,
+      "status": 0,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 346,
+      "id": "0:346:OXYGEN:0:ACCIDENT AND EMERGENCY:OXY"
+    },
+    {
+      "billname": "WIDAL TEST A&E",
+      "billcost": 1000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 417,
+      "id": "1000:417:WIDAL TEST A&E:0:ACCIDENT AND EMERGENCY:AE100"
+    },
+    {
+      "billname": "BED FEE (VIP)",
+      "billcost": 8000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 485,
+      "id": "8000:485:BED FEE (VIP):0:ACCIDENT AND EMERGENCY:BFV"
+    },
+    {
+      "billname": "USE OF AIRWAY ADJUNCTION:OPA/NPA",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 511,
+      "id": "5000:511:USE OF AIRWAY ADJUNCTION:OPA/NPA:0:ACCIDENT AND EMERGENCY:UAO"
+    },
+    {
+      "billname": "USE OF NASAL CANNULA",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 513,
+      "id": "2000:513:USE OF NASAL CANNULA:0:ACCIDENT AND EMERGENCY:UNC"
+    },
+    {
+      "billname": "USE OF AMBUBAG",
+      "billcost": 500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 515,
+      "id": "500:515:USE OF AMBUBAG:0:ACCIDENT AND EMERGENCY:UA"
+    },
+    {
+      "billname": "USE OF LMA",
+      "billcost": 10000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 516,
+      "id": "10000:516:USE OF LMA:0:ACCIDENT AND EMERGENCY:ULM"
+    },
+    {
+      "billname": "CHEST TUBE INSERTION",
+      "billcost": 10000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 517,
+      "id": "10000:517:CHEST TUBE INSERTION:0:ACCIDENT AND EMERGENCY:CTI"
+    },
+    {
+      "billname": "BLADDER CATHERIZATION PROCEDURE",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 518,
+      "id": "2000:518:BLADDER CATHERIZATION PROCEDURE:0:ACCIDENT AND EMERGENCY:BCP"
+    },
+    {
+      "billname": "ACE(CREPE)BANDAGE:4ʼʼ/6ʼʼ",
+      "billcost": 1500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "NO",
+      "sno": 521,
+      "id": "1500:521:ACE(CREPE)BANDAGE:4ʼʼ/6ʼʼ:0:ACCIDENT AND EMERGENCY:ACE"
+    },
+    {
+      "billname": "ANKLE ACE BRACE (LEVEL 1)",
+      "billcost": 1500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 523,
+      "id": "1500:523:ANKLE ACE BRACE (LEVEL 1):0:ACCIDENT AND EMERGENCY:ACB1"
+    },
+    {
+      "billname": "ANKLE ACE BRACE (LEVEL 2)",
+      "billcost": 1000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 524,
+      "id": "1000:524:ANKLE ACE BRACE (LEVEL 2):0:ACCIDENT AND EMERGENCY:ACB2"
+    },
+    {
+      "billname": "ARM SLING-CRAVAT",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 528,
+      "id": "2000:528:ARM SLING-CRAVAT:0:ACCIDENT AND EMERGENCY:ASC"
+    },
+    {
+      "billname": "ARM SLING-BRAND",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 529,
+      "id": "2000:529:ARM SLING-BRAND:0:ACCIDENT AND EMERGENCY:ASB"
+    },
+    {
+      "billname": "SPLINT: POP-FINGER/HAND/WRIST",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 530,
+      "id": "5000:530:SPLINT: POP-FINGER/HAND/WRIST:0:ACCIDENT AND EMERGENCY:FHW"
+    },
+    {
+      "billname": "ARM/LEG",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 531,
+      "id": "2000:531:ARM/LEG:0:ACCIDENT AND EMERGENCY:AL"
+    },
+    {
+      "billname": "CRUTHCES A&E",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 533,
+      "id": "5000:533:CRUTHCES A&E:0:ACCIDENT AND EMERGENCY:CUT"
+    },
+    {
+      "billname": "C-SPINE COLLAR (SOFT/PHIL/COMP)  - A&E",
+      "billcost": 0,
+      "status": 1,
+      "nf_price": 1,
+      "hmo_fees": "",
+      "sno": 535,
+      "id": "0:535:C-SPINE COLLAR (SOFT/PHIL/COMP)  - A&E:1:ACCIDENT AND EMERGENCY:CSP"
+    },
+    {
+      "billname": "CAST REMOVAL",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 536,
+      "id": "2000:536:CAST REMOVAL:0:ACCIDENT AND EMERGENCY:CM"
+    },
+    {
+      "billname": "RELOCATION OF MINOR JOINTS(FINGER/TOE/WRIST)",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 537,
+      "id": "5000:537:RELOCATION OF MINOR JOINTS(FINGER/TOE/WRIST):0:ACCIDENT AND EMERGENCY:MIFTW"
+    },
+    {
+      "billname": "RELOCATION OF MAJOR JOINTS(SHOULDER/KNEE/ANKLE/HIP)",
+      "billcost": 20000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 538,
+      "id": "20000:538:RELOCATION OF MAJOR JOINTS(SHOULDER/KNEE/ANKLE/HIP):0:ACCIDENT AND EMERGENCY:MSKAH"
+    },
+    {
+      "billname": "RANDOM BLOOD SUGAR-ACCUCHECK",
+      "billcost": 1500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 539,
+      "id": "1500:539:RANDOM BLOOD SUGAR-ACCUCHECK:0:ACCIDENT AND EMERGENCY:BS"
+    },
+    {
+      "billname": "HCG TEST",
+      "billcost": 3000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 543,
+      "id": "3000:543:HCG TEST:0:ACCIDENT AND EMERGENCY:HCT"
+    },
+    {
+      "billname": "TUBE FEEDING",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 544,
+      "id": "2000:544:TUBE FEEDING:0:ACCIDENT AND EMERGENCY:TFE"
+    },
+    {
+      "billname": "DEATH CERTIFICATE",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 546,
+      "id": "5000:546:DEATH CERTIFICATE:0:ACCIDENT AND EMERGENCY:DC"
+    },
+    {
+      "billname": "REVIEW BY SPECIALIST FROM OTHER DEPTS",
+      "billcost": 1000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 547,
+      "id": "1000:547:REVIEW BY SPECIALIST FROM OTHER DEPTS:0:ACCIDENT AND EMERGENCY:SD"
+    },
+    {
+      "billname": "WOUND DRESSING - A&E",
+      "billcost": 0,
+      "status": 1,
+      "nf_price": 1,
+      "hmo_fees": "",
+      "sno": 548,
+      "id": "0:548:WOUND DRESSING - A&E:1:ACCIDENT AND EMERGENCY:WD"
+    },
+    {
+      "billname": "PRE-OP PREP FOR MAIN THEATRE",
+      "billcost": 1500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 549,
+      "id": "1500:549:PRE-OP PREP FOR MAIN THEATRE:0:ACCIDENT AND EMERGENCY:PPMT001"
+    },
+    {
+      "billname": "A & E THEATRE FEES",
+      "billcost": 1500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 550,
+      "id": "1500:550:A & E THEATRE FEES:0:ACCIDENT AND EMERGENCY:AETFT001"
+    },
+    {
+      "billname": "LACERATION REPAIR(MINOR)",
+      "billcost": 6000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 551,
+      "id": "6000:551:LACERATION REPAIR(MINOR):0:ACCIDENT AND EMERGENCY:LR001"
+    },
+    {
+      "billname": "LACERATION REPAIR(INTERMEDIATE)",
+      "billcost": 10000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 552,
+      "id": "10000:552:LACERATION REPAIR(INTERMEDIATE):0:ACCIDENT AND EMERGENCY:LR002"
+    },
+    {
+      "billname": "LACERATION REPAIR(MAJOR)",
+      "billcost": 15000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 553,
+      "id": "15000:553:LACERATION REPAIR(MAJOR):0:ACCIDENT AND EMERGENCY:LR003"
+    },
+    {
+      "billname": "LACERATION REPAIR(COMPLEX)",
+      "billcost": 20000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 554,
+      "id": "20000:554:LACERATION REPAIR(COMPLEX):0:ACCIDENT AND EMERGENCY:LR004"
+    },
+    {
+      "billname": "IV ACCESS: IV LINE & TUBING",
+      "billcost": 1500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 555,
+      "id": "1500:555:IV ACCESS: IV LINE & TUBING:0:ACCIDENT AND EMERGENCY:IV001"
+    },
+    {
+      "billname": "IV FLUIDS ONE LITER OF NS/LR",
+      "billcost": 1500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 556,
+      "id": "1500:556:IV FLUIDS ONE LITER OF NS/LR:0:ACCIDENT AND EMERGENCY:IV002"
+    },
+    {
+      "billname": "INSERTION OF SCVC LINE",
+      "billcost": 500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 557,
+      "id": "500:557:INSERTION OF SCVC LINE:0:ACCIDENT AND EMERGENCY:IV003"
+    },
+    {
+      "billname": "ADMINISTRATION OF IV/I.M MEDICAL",
+      "billcost": 45000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 558,
+      "id": "45000:558:ADMINISTRATION OF IV/I.M MEDICAL:0:ACCIDENT AND EMERGENCY:IV004"
+    },
+    {
+      "billname": "NEBULIZATION(PROCEDURE)",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 559,
+      "id": "2000:559:NEBULIZATION(PROCEDURE):0:ACCIDENT AND EMERGENCY:NP001"
+    },
+    {
+      "billname": "ADMINISTRATION OF OXYGEN (A&E)",
+      "billcost": 0,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 560,
+      "id": "0:560:ADMINISTRATION OF OXYGEN (A&E):0:ACCIDENT AND EMERGENCY:AO001"
+    },
+    {
+      "billname": "UTILITY CHARGE (EXTRA DAYS)",
+      "billcost": 200,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 591,
+      "id": "200:591:UTILITY CHARGE (EXTRA DAYS):0:ACCIDENT AND EMERGENCY:UTC002"
+    },
+    {
+      "billname": "UTILITY CHARGE",
+      "billcost": 200,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 597,
+      "id": "200:597:UTILITY CHARGE:0:ACCIDENT AND EMERGENCY:UTC001"
+    },
+    {
+      "billname": "UTILITY 1",
+      "billcost": 500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 646,
+      "id": "500:646:UTILITY 1:0:ACCIDENT AND EMERGENCY:UT001"
+    },
+    {
+      "billname": "UTILITY 2",
+      "billcost": 1000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 648,
+      "id": "1000:648:UTILITY 2:0:ACCIDENT AND EMERGENCY:UT002"
+    },
+    {
+      "billname": "MANAGEMENT OF EPISTAXIS-NOSEBLEED",
+      "billcost": 3000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 751,
+      "id": "3000:751:MANAGEMENT OF EPISTAXIS-NOSEBLEED:0:ACCIDENT AND EMERGENCY:MENB001"
+    },
+    {
+      "billname": "SUPRA PUBIC CATHETER INSERTION",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 752,
+      "id": "5000:752:SUPRA PUBIC CATHETER INSERTION:0:ACCIDENT AND EMERGENCY:MENB002"
+    },
+    {
+      "billname": "HCV(Hapetitis C Virus) Test- A&E",
+      "billcost": 3500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1478,
+      "id": "3500:1478:HCV(Hapetitis C Virus) Test- A&E:0:ACCIDENT AND EMERGENCY:"
+    },
+    {
+      "billname": "HBSAg(Hapetitis B Virus) Test- A&E",
+      "billcost": 3500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1479,
+      "id": "3500:1479:HBSAg(Hapetitis B Virus) Test- A&E:0:ACCIDENT AND EMERGENCY:"
+    },
+    {
+      "billname": "C-SPINE COLLAR SOFT/PHIL/COMP - A&E",
+      "billcost": "0",
+      "status": 1,
+      "nf_price": "1",
+      "hmo_fees": "",
+      "sno": 1764,
+      "id": "0:1764:C-SPINE COLLAR SOFT/PHIL/COMP - A&E:1:ACCIDENT AND EMERGENCY:Sp00"
+    }
+  ]
+}

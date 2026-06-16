@@ -1,0 +1,14 @@
+{
+  "unit": "ONCOLOGY PHAMACY",
+  "items": [
+    {
+      "billname": "DRUGS",
+      "billcost": "1",
+      "status": 1,
+      "nf_price": "1",
+      "hmo_fees": "NO",
+      "sno": 1839,
+      "id": "1:1839:DRUGS:1:ONCOLOGY PHAMACY:DR345"
+    }
+  ]
+}

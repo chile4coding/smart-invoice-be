@@ -1,0 +1,671 @@
+{
+  "unit": "SURGERY",
+  "items": [
+    {
+      "billname": "CONSULTATION FEE",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 212,
+      "id": "2000:212:CONSULTATION FEE:0:SURGERY:CNSLT"
+    },
+    {
+      "billname": "SURGERY (MINOR)",
+      "billcost": 70000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 259,
+      "id": "70000:259:SURGERY (MINOR):0:SURGERY:SURMIN"
+    },
+    {
+      "billname": "SURGERY (INTERMEDIATE)",
+      "billcost": 75000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 260,
+      "id": "75000:260:SURGERY (INTERMEDIATE):0:SURGERY:SURINT"
+    },
+    {
+      "billname": "SURGERY (MAJOR)",
+      "billcost": 130000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 261,
+      "id": "130000:261:SURGERY (MAJOR):0:SURGERY:SURMAJ"
+    },
+    {
+      "billname": "SURGERY (SUPRAMAJOR)",
+      "billcost": 220000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 262,
+      "id": "220000:262:SURGERY (SUPRAMAJOR):0:SURGERY:SUPRMAJ"
+    },
+    {
+      "billname": "CIRCUMCISION",
+      "billcost": 30000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 263,
+      "id": "30000:263:CIRCUMCISION:0:SURGERY:CIRCUM"
+    },
+    {
+      "billname": "TONGUE TIE",
+      "billcost": 25000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 264,
+      "id": "25000:264:TONGUE TIE:0:SURGERY:TTIE"
+    },
+    {
+      "billname": "THRU CUT BIOPSY",
+      "billcost": 15500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 265,
+      "id": "15500:265:THRU CUT BIOPSY:0:SURGERY:TCBIO"
+    },
+    {
+      "billname": "ADMISSION DEPOSIT",
+      "billcost": 40000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 330,
+      "id": "40000:330:ADMISSION DEPOSIT:0:SURGERY:ADMDP"
+    },
+    {
+      "billname": "EXCISION BIOPSY",
+      "billcost": 50000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 331,
+      "id": "50000:331:EXCISION BIOPSY:0:SURGERY:EXBIO111"
+    },
+    {
+      "billname": "CHEST TUBE",
+      "billcost": 15000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 332,
+      "id": "15000:332:CHEST TUBE:0:SURGERY:CHSTTB111"
+    },
+    {
+      "billname": "REMOVAL OF TUBE",
+      "billcost": 1500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 333,
+      "id": "1500:333:REMOVAL OF TUBE:0:SURGERY:RMVLTB111"
+    },
+    {
+      "billname": "BED FEE (EXTRA DAY)",
+      "billcost": 3000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 334,
+      "id": "3000:334:BED FEE (EXTRA DAY):0:SURGERY:BDFEE111"
+    },
+    {
+      "billname": "KENALOG INJECTION",
+      "billcost": 1500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 335,
+      "id": "1500:335:KENALOG INJECTION:0:SURGERY:KNLINJ111"
+    },
+    {
+      "billname": "CATHETER CHANGE",
+      "billcost": 3000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 336,
+      "id": "3000:336:CATHETER CHANGE:0:SURGERY:CATHCHG111"
+    },
+    {
+      "billname": "I & D",
+      "billcost": 15000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 337,
+      "id": "15000:337:I & D:0:SURGERY:IAD111"
+    },
+    {
+      "billname": "ADMISSION FEE (ORTHO/BURNS)",
+      "billcost": 33000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 338,
+      "id": "33000:338:ADMISSION FEE (ORTHO/BURNS):0:SURGERY:ADFEE111"
+    },
+    {
+      "billname": "ADMISSION FEE (SURGERY)",
+      "billcost": 30000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 339,
+      "id": "30000:339:ADMISSION FEE (SURGERY):0:SURGERY:ADFEE111"
+    },
+    {
+      "billname": "CARDIOTHORACIC SURGERY(MINOR)",
+      "billcost": 150000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 348,
+      "id": "150000:348:CARDIOTHORACIC SURGERY(MINOR):0:SURGERY:SURMIN2"
+    },
+    {
+      "billname": "CARDIOTHORACIC SURGERY(INTERMEDIATE)",
+      "billcost": 250000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 349,
+      "id": "250000:349:CARDIOTHORACIC SURGERY(INTERMEDIATE):0:SURGERY:SURINT2"
+    },
+    {
+      "billname": "CARDIOTHORACIC SURGERY(MAJOR)",
+      "billcost": 400000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 350,
+      "id": "400000:350:CARDIOTHORACIC SURGERY(MAJOR):0:SURGERY:SURMAJ2"
+    },
+    {
+      "billname": "CARDIOTHORACIC SURGERY(SUPRA A)",
+      "billcost": 600000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 351,
+      "id": "600000:351:CARDIOTHORACIC SURGERY(SUPRA A):0:SURGERY:SURSMAJ2"
+    },
+    {
+      "billname": "EYE ADMISSION",
+      "billcost": 4500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 352,
+      "id": "4500:352:EYE ADMISSION:0:SURGERY:EADM"
+    },
+    {
+      "billname": "SURGERY(PART PAYMENT)",
+      "billcost": 0,
+      "status": 1,
+      "nf_price": 1,
+      "hmo_fees": "",
+      "sno": 477,
+      "id": "0:477:SURGERY(PART PAYMENT):1:SURGERY:SPP"
+    },
+    {
+      "billname": "P. T. A",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 496,
+      "id": "5000:496:P. T. A:0:SURGERY:PT"
+    },
+    {
+      "billname": "DIRECT ENDOSCOPIC LAYNGOSCOPY",
+      "billcost": 15000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 497,
+      "id": "15000:497:DIRECT ENDOSCOPIC LAYNGOSCOPY:0:SURGERY:DEL"
+    },
+    {
+      "billname": "INDIRECT ENDOSCOPIC LAYNGOSCOPY",
+      "billcost": 15000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 498,
+      "id": "15000:498:INDIRECT ENDOSCOPIC LAYNGOSCOPY:0:SURGERY:IDEL"
+    },
+    {
+      "billname": "SUTURING/RESUTURING OF WOUNDS",
+      "billcost": 10000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 501,
+      "id": "10000:501:SUTURING/RESUTURING OF WOUNDS:0:SURGERY:SUR"
+    },
+    {
+      "billname": "RELEASING OF TONGUE TIE",
+      "billcost": 20000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 503,
+      "id": "20000:503:RELEASING OF TONGUE TIE:0:SURGERY:RT"
+    },
+    {
+      "billname": "ASPIRATION",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 504,
+      "id": "5000:504:ASPIRATION:0:SURGERY:RT"
+    },
+    {
+      "billname": "REMOVEAL OF SUTURES",
+      "billcost": 1600,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 506,
+      "id": "1600:506:REMOVEAL OF SUTURES:0:SURGERY:RS"
+    },
+    {
+      "billname": "WOUND DRESSING",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 508,
+      "id": "2000:508:WOUND DRESSING:0:SURGERY:WD"
+    },
+    {
+      "billname": "UTILITY CHARGE (EXTRA DAYS)",
+      "billcost": 200,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 595,
+      "id": "200:595:UTILITY CHARGE (EXTRA DAYS):0:SURGERY:UTC002"
+    },
+    {
+      "billname": "UTILITY300",
+      "billcost": 300,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 608,
+      "id": "300:608:UTILITY300:0:SURGERY:UTC001"
+    },
+    {
+      "billname": "UTILITY500",
+      "billcost": 500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 712,
+      "id": "500:712:UTILITY500:0:SURGERY:UTSUR002"
+    },
+    {
+      "billname": "UTILITY1000",
+      "billcost": 1000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 713,
+      "id": "1000:713:UTILITY1000:0:SURGERY:UTSUR003"
+    },
+    {
+      "billname": "UTILITY2000",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 714,
+      "id": "2000:714:UTILITY2000:0:SURGERY:UTSUR004"
+    },
+    {
+      "billname": "UTILITY5000",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 715,
+      "id": "5000:715:UTILITY5000:0:SURGERY:UTSUR005"
+    },
+    {
+      "billname": "APPLICATION/REMOVAL OF CAST/P.O.P",
+      "billcost": 8000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 729,
+      "id": "8000:729:APPLICATION/REMOVAL OF CAST/P.O.P:0:SURGERY:ARC001"
+    },
+    {
+      "billname": "CATHETERIZATION",
+      "billcost": 3000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 730,
+      "id": "3000:730:CATHETERIZATION:0:SURGERY:ARC002"
+    },
+    {
+      "billname": "ADMINISTRATION OF INTRA-ARTICULAR KENALOG SUBCUTANEOUS ZOLADEX",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 732,
+      "id": "5000:732:ADMINISTRATION OF INTRA-ARTICULAR KENALOG SUBCUTANEOUS ZOLADEX:0:SURGERY:ARC003"
+    },
+    {
+      "billname": "PASSAGE OF CHEST TUBE(THORACOSTOMY)",
+      "billcost": 25000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 733,
+      "id": "25000:733:PASSAGE OF CHEST TUBE(THORACOSTOMY):0:SURGERY:ARC004"
+    },
+    {
+      "billname": "PAEDIATRIC SURGERY(MINOR)",
+      "billcost": 50000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1352,
+      "id": "50000:1352:PAEDIATRIC SURGERY(MINOR):0:SURGERY:"
+    },
+    {
+      "billname": "PAEDIATRIC SURGERY(INTERMEDIATE)",
+      "billcost": 75000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1353,
+      "id": "75000:1353:PAEDIATRIC SURGERY(INTERMEDIATE):0:SURGERY:"
+    },
+    {
+      "billname": "PAEDIATRIC SURGERY(MAJOR)",
+      "billcost": 90000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1354,
+      "id": "90000:1354:PAEDIATRIC SURGERY(MAJOR):0:SURGERY:"
+    },
+    {
+      "billname": "PAEDIATRIC SURGERY(SUPRAMAJOR)",
+      "billcost": 140000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1355,
+      "id": "140000:1355:PAEDIATRIC SURGERY(SUPRAMAJOR):0:SURGERY:"
+    },
+    {
+      "billname": "ADDMISSION DEPOSIT-PAEDIATRIC",
+      "billcost": 25000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1381,
+      "id": "25000:1381:ADDMISSION DEPOSIT-PAEDIATRIC:0:SURGERY:"
+    },
+    {
+      "billname": "SCELEROTHERAPY FOR CYSTIC HYGROMA (PAEDIATRIC)",
+      "billcost": 50000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1546,
+      "id": "50000:1546:SCELEROTHERAPY FOR CYSTIC HYGROMA (PAEDIATRIC):0:SURGERY:"
+    },
+    {
+      "billname": "HYDROSTATIC REDUCTION OF INTUSSUSCEPTION (PAEDIATRIC)",
+      "billcost": 100000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1547,
+      "id": "100000:1547:HYDROSTATIC REDUCTION OF INTUSSUSCEPTION (PAEDIATRIC):0:SURGERY:"
+    },
+    {
+      "billname": "ADMISSION CTU",
+      "billcost": 43000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1641,
+      "id": "43000:1641:ADMISSION CTU:0:SURGERY:"
+    },
+    {
+      "billname": "BED FEE CTU",
+      "billcost": 4300,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1642,
+      "id": "4300:1642:BED FEE CTU:0:SURGERY:"
+    },
+    {
+      "billname": "INCISSION BIOPSY",
+      "billcost": 50000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1643,
+      "id": "50000:1643:INCISSION BIOPSY:0:SURGERY:"
+    },
+    {
+      "billname": "HBPCV",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1644,
+      "id": "2000:1644:HBPCV:0:SURGERY:"
+    },
+    {
+      "billname": "CTU MINOR",
+      "billcost": 80000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1645,
+      "id": "80000:1645:CTU MINOR:0:SURGERY:"
+    },
+    {
+      "billname": "CTU MAJOR",
+      "billcost": 250000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1646,
+      "id": "250000:1646:CTU MAJOR:0:SURGERY:"
+    },
+    {
+      "billname": "CTU SUPRA MAJOR A",
+      "billcost": 385000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1647,
+      "id": "385000:1647:CTU SUPRA MAJOR A:0:SURGERY:"
+    },
+    {
+      "billname": "CTU SUPRA MAJOR B",
+      "billcost": 535000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1648,
+      "id": "535000:1648:CTU SUPRA MAJOR B:0:SURGERY:"
+    },
+    {
+      "billname": "CTU SUPRA MAJOR C",
+      "billcost": 635000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1649,
+      "id": "635000:1649:CTU SUPRA MAJOR C:0:SURGERY:"
+    },
+    {
+      "billname": "CTU INTERMEDIATE",
+      "billcost": 120000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1650,
+      "id": "120000:1650:CTU INTERMEDIATE:0:SURGERY:"
+    },
+    {
+      "billname": "BED FEE (CHSW)",
+      "billcost": 2500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1652,
+      "id": "2500:1652:BED FEE (CHSW):0:SURGERY:"
+    },
+    {
+      "billname": "NURSING CARE (CHSW)",
+      "billcost": 500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1653,
+      "id": "500:1653:NURSING CARE (CHSW):0:SURGERY:"
+    },
+    {
+      "billname": "URINALYSIS",
+      "billcost": 1000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1723,
+      "id": "1000:1723:URINALYSIS:0:SURGERY:"
+    },
+    {
+      "billname": "RVS",
+      "billcost": 500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1724,
+      "id": "500:1724:RVS:0:SURGERY:"
+    },
+    {
+      "billname": "Hepatitis B",
+      "billcost": 1000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1725,
+      "id": "1000:1725:Hepatitis B:0:SURGERY:"
+    },
+    {
+      "billname": "Hepatitis C VIRUS(HCV)",
+      "billcost": 1000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1726,
+      "id": "1000:1726:Hepatitis C VIRUS(HCV):0:SURGERY:"
+    },
+    {
+      "billname": "UDRL(SYPHILIS)",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1727,
+      "id": "2000:1727:UDRL(SYPHILIS):0:SURGERY:"
+    },
+    {
+      "billname": "M.P(RDT)",
+      "billcost": 500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1728,
+      "id": "500:1728:M.P(RDT):0:SURGERY:"
+    },
+    {
+      "billname": "SERUN PREGNACY TEST",
+      "billcost": 1000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1729,
+      "id": "1000:1729:SERUN PREGNACY TEST:0:SURGERY:"
+    },
+    {
+      "billname": "CHEMO",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1731,
+      "id": "2000:1731:CHEMO:0:SURGERY:CHM"
+    },
+    {
+      "billname": "CARDIOTHORACIC SURGERY(SUPRA B)",
+      "billcost": 800000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1736,
+      "id": "800000:1736:CARDIOTHORACIC SURGERY(SUPRA B):0:SURGERY:CTSSB001"
+    },
+    {
+      "billname": "CARDIOTHORACIC SURGERY(SUPRA C)",
+      "billcost": 1500000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1737,
+      "id": "1500000:1737:CARDIOTHORACIC SURGERY(SUPRA C):0:SURGERY:CTSSB002"
+    },
+    {
+      "billname": "CLOSED TUBE THORACOSTOMY - CARDIO",
+      "billcost": 30000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1738,
+      "id": "30000:1738:CLOSED TUBE THORACOSTOMY - CARDIO:0:SURGERY:CTTD001"
+    },
+    {
+      "billname": "TRU CUT BIOPSY - CARDIO",
+      "billcost": 35000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1739,
+      "id": "35000:1739:TRU CUT BIOPSY - CARDIO:0:SURGERY:TCBC001"
+    },
+    {
+      "billname": "CENTRAL LINE INSERTION - CARDIO",
+      "billcost": 40000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1740,
+      "id": "40000:1740:CENTRAL LINE INSERTION - CARDIO:0:SURGERY:CLIC001"
+    }
+  ]
+}

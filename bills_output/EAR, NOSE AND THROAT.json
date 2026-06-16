@@ -1,0 +1,617 @@
+{
+  "unit": "EAR, NOSE AND THROAT",
+  "items": [
+    {
+      "billname": "CONSULTATION FEE",
+      "billcost": 4000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 21,
+      "id": "4000:21:CONSULTATION FEE:0:EAR, NOSE AND THROAT:CNSLT"
+    },
+    {
+      "billname": "AURAL TOILET (SUCTIONING)",
+      "billcost": 3000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 22,
+      "id": "3000:22:AURAL TOILET (SUCTIONING):0:EAR, NOSE AND THROAT:AUT"
+    },
+    {
+      "billname": "ANTRAL WASHOUT (UNILATERAL)",
+      "billcost": 23000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 23,
+      "id": "23000:23:ANTRAL WASHOUT (UNILATERAL):0:EAR, NOSE AND THROAT:ANTW"
+    },
+    {
+      "billname": "ANTRAL WASHOUT (BILATERAL)",
+      "billcost": 10000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 24,
+      "id": "10000:24:ANTRAL WASHOUT (BILATERAL):0:EAR, NOSE AND THROAT:ANTB"
+    },
+    {
+      "billname": "DIRECT LARYNGOSCOPY",
+      "billcost": 50000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 25,
+      "id": "50000:25:DIRECT LARYNGOSCOPY:0:EAR, NOSE AND THROAT:DLAR"
+    },
+    {
+      "billname": "INDIRECT LARYNGOSCOPY (IDL)",
+      "billcost": 13000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 26,
+      "id": "13000:26:INDIRECT LARYNGOSCOPY (IDL):0:EAR, NOSE AND THROAT:IDL"
+    },
+    {
+      "billname": "EAR LAVAGE/SYRINGING (ONE EAR)",
+      "billcost": 7000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 27,
+      "id": "7000:27:EAR LAVAGE/SYRINGING (ONE EAR):0:EAR, NOSE AND THROAT:ELS"
+    },
+    {
+      "billname": "FOREIGN BODY IN THE EAR REMOVAL",
+      "billcost": 15000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 29,
+      "id": "15000:29:FOREIGN BODY IN THE EAR REMOVAL:0:EAR, NOSE AND THROAT:FBER"
+    },
+    {
+      "billname": "FOREIGN BODY IN THE NOSE REMOVAL",
+      "billcost": 15000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 30,
+      "id": "15000:30:FOREIGN BODY IN THE NOSE REMOVAL:0:EAR, NOSE AND THROAT:FBNR"
+    },
+    {
+      "billname": "FOREIGN BODY IN THE THROAT REMOVAL",
+      "billcost": 15000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 31,
+      "id": "15000:31:FOREIGN BODY IN THE THROAT REMOVAL:0:EAR, NOSE AND THROAT:FBTR"
+    },
+    {
+      "billname": "I&D SURGERY/AURAL POLYPECTOMY",
+      "billcost": 10000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 32,
+      "id": "10000:32:I&D SURGERY/AURAL POLYPECTOMY:0:EAR, NOSE AND THROAT:ISAP"
+    },
+    {
+      "billname": "NASAL DECONGESTION",
+      "billcost": 4500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 33,
+      "id": "4500:33:NASAL DECONGESTION:0:EAR, NOSE AND THROAT:NDC"
+    },
+    {
+      "billname": "PURE TUNE AUDIOGRAM",
+      "billcost": 15000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 34,
+      "id": "15000:34:PURE TUNE AUDIOGRAM:0:EAR, NOSE AND THROAT:PTA"
+    },
+    {
+      "billname": "OPERATION FEE (MINOR)",
+      "billcost": 60000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 35,
+      "id": "60000:35:OPERATION FEE (MINOR):0:EAR, NOSE AND THROAT:OPFM"
+    },
+    {
+      "billname": "OPERATION FEE (INTERMEDIATE)",
+      "billcost": 80000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 36,
+      "id": "80000:36:OPERATION FEE (INTERMEDIATE):0:EAR, NOSE AND THROAT:OPFI"
+    },
+    {
+      "billname": "OPERATION FEE (MAJOR)",
+      "billcost": 150000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 37,
+      "id": "150000:37:OPERATION FEE (MAJOR):0:EAR, NOSE AND THROAT:OPFMJ"
+    },
+    {
+      "billname": "OPERATION FEE (SUPRAMAJOR)",
+      "billcost": 200000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 38,
+      "id": "200000:38:OPERATION FEE (SUPRAMAJOR):0:EAR, NOSE AND THROAT:OPFSM"
+    },
+    {
+      "billname": "EAR LAVAGE/SYRINGING (BOTH EARS)",
+      "billcost": 14000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 78,
+      "id": "14000:78:EAR LAVAGE/SYRINGING (BOTH EARS):0:EAR, NOSE AND THROAT:ELS2"
+    },
+    {
+      "billname": "EAR STRINGING CANNULAR",
+      "billcost": 500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 443,
+      "id": "500:443:EAR STRINGING CANNULAR:0:EAR, NOSE AND THROAT:ESCN"
+    },
+    {
+      "billname": "AURAL WICK PACK",
+      "billcost": 14000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 472,
+      "id": "14000:472:AURAL WICK PACK:0:EAR, NOSE AND THROAT:AW02"
+    },
+    {
+      "billname": "SEPTAL GRANULOMA BURNING",
+      "billcost": 10000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 473,
+      "id": "10000:473:SEPTAL GRANULOMA BURNING:0:EAR, NOSE AND THROAT:SGB"
+    },
+    {
+      "billname": "AURAL POLYPECTOMY",
+      "billcost": 23000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 492,
+      "id": "23000:492:AURAL POLYPECTOMY:0:EAR, NOSE AND THROAT:AP001"
+    },
+    {
+      "billname": "ANTERIOR NASAL PACKING",
+      "billcost": 19000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 499,
+      "id": "19000:499:ANTERIOR NASAL PACKING:0:EAR, NOSE AND THROAT:ANP001"
+    },
+    {
+      "billname": "ANTERIOR + POSTERIOR PACKING",
+      "billcost": 30000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 500,
+      "id": "30000:500:ANTERIOR + POSTERIOR PACKING:0:EAR, NOSE AND THROAT:APP001"
+    },
+    {
+      "billname": "TINNITUS CLINIC/COUNSELING",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 502,
+      "id": "2000:502:TINNITUS CLINIC/COUNSELING:0:EAR, NOSE AND THROAT:TCC001"
+    },
+    {
+      "billname": "SPEECH THERAPY/CONSULTATION",
+      "billcost": 6000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 505,
+      "id": "6000:505:SPEECH THERAPY/CONSULTATION:0:EAR, NOSE AND THROAT:STC001"
+    },
+    {
+      "billname": "SPEECH THERAPY PER SESSION",
+      "billcost": 30000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 507,
+      "id": "30000:507:SPEECH THERAPY PER SESSION:0:EAR, NOSE AND THROAT:STS001"
+    },
+    {
+      "billname": "PTA(EMERGENCY)",
+      "billcost": 25000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 509,
+      "id": "25000:509:PTA(EMERGENCY):0:EAR, NOSE AND THROAT:PTA001"
+    },
+    {
+      "billname": "TONGUE TIE RELEASE",
+      "billcost": 26000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 510,
+      "id": "26000:510:TONGUE TIE RELEASE:0:EAR, NOSE AND THROAT:TTR001"
+    },
+    {
+      "billname": "WOUND ADHESION RELEASE",
+      "billcost": 25000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 512,
+      "id": "25000:512:WOUND ADHESION RELEASE:0:EAR, NOSE AND THROAT:WAR001"
+    },
+    {
+      "billname": "ENT EMERGENCY SURGERIES-A&E",
+      "billcost": 48000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 514,
+      "id": "48000:514:ENT EMERGENCY SURGERIES-A&E:0:EAR, NOSE AND THROAT:ES001"
+    },
+    {
+      "billname": "UTILITY500",
+      "billcost": 500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 601,
+      "id": "500:601:UTILITY500:0:EAR, NOSE AND THROAT:UTC001"
+    },
+    {
+      "billname": "UTILITY1000",
+      "billcost": 1000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 673,
+      "id": "1000:673:UTILITY1000:0:EAR, NOSE AND THROAT:UTDEN002"
+    },
+    {
+      "billname": "UTILITY2000",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 674,
+      "id": "2000:674:UTILITY2000:0:EAR, NOSE AND THROAT:UTDEN003"
+    },
+    {
+      "billname": "UTILITY3000",
+      "billcost": 3000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 675,
+      "id": "3000:675:UTILITY3000:0:EAR, NOSE AND THROAT:UTDEN004"
+    },
+    {
+      "billname": "UTILITY5000",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 677,
+      "id": "5000:677:UTILITY5000:0:EAR, NOSE AND THROAT:UTDEN005"
+    },
+    {
+      "billname": "UTILITY10000",
+      "billcost": 10000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 678,
+      "id": "10000:678:UTILITY10000:0:EAR, NOSE AND THROAT:UTDEN006"
+    },
+    {
+      "billname": "UTILITY20000",
+      "billcost": 20000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 679,
+      "id": "20000:679:UTILITY20000:0:EAR, NOSE AND THROAT:UTDEN007"
+    },
+    {
+      "billname": "INCISION/DRAINAGE ",
+      "billcost": 20000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 686,
+      "id": "20000:686:INCISION/DRAINAGE :0:EAR, NOSE AND THROAT:IND"
+    },
+    {
+      "billname": "STERIOD INJECTION",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 695,
+      "id": "5000:695:STERIOD INJECTION:0:EAR, NOSE AND THROAT:STI"
+    },
+    {
+      "billname": "TYMPANOMETRY",
+      "billcost": 20000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 696,
+      "id": "20000:696:TYMPANOMETRY:0:EAR, NOSE AND THROAT:TYM"
+    },
+    {
+      "billname": "ENT EMERGENCY SURGERIES A&E",
+      "billcost": 48000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 702,
+      "id": "48000:702:ENT EMERGENCY SURGERIES A&E:0:EAR, NOSE AND THROAT:EMS"
+    },
+    {
+      "billname": "AURAL LAVAGE CONSUMABLES",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 703,
+      "id": "2000:703:AURAL LAVAGE CONSUMABLES:0:EAR, NOSE AND THROAT:EMS"
+    },
+    {
+      "billname": "NON-REFUNDABLE DEPOSIT FOR CONSUMABLES",
+      "billcost": 25000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 706,
+      "id": "25000:706:NON-REFUNDABLE DEPOSIT FOR CONSUMABLES:0:EAR, NOSE AND THROAT:NDC"
+    },
+    {
+      "billname": "ROUTINE TRACHEOSTOMY",
+      "billcost": 15000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 710,
+      "id": "15000:710:ROUTINE TRACHEOSTOMY:0:EAR, NOSE AND THROAT:RT"
+    },
+    {
+      "billname": "Minor Surgery",
+      "billcost": 60000,
+      "status": 0,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1654,
+      "id": "60000:1654:Minor Surgery:0:EAR, NOSE AND THROAT:"
+    },
+    {
+      "billname": "Intermediate Surgery",
+      "billcost": 80000,
+      "status": 0,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1655,
+      "id": "80000:1655:Intermediate Surgery:0:EAR, NOSE AND THROAT:"
+    },
+    {
+      "billname": "MAJOR SURGERY",
+      "billcost": 150000,
+      "status": 0,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1656,
+      "id": "150000:1656:MAJOR SURGERY:0:EAR, NOSE AND THROAT:"
+    },
+    {
+      "billname": "SUPRA-MAJOR SURGERY",
+      "billcost": 200000,
+      "status": 0,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1657,
+      "id": "200000:1657:SUPRA-MAJOR SURGERY:0:EAR, NOSE AND THROAT:"
+    },
+    {
+      "billname": "WOUND DRESSING",
+      "billcost": 4500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1658,
+      "id": "4500:1658:WOUND DRESSING:0:EAR, NOSE AND THROAT:"
+    },
+    {
+      "billname": "AUDIOLOGY COUNSELLING",
+      "billcost": 3000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1659,
+      "id": "3000:1659:AUDIOLOGY COUNSELLING:0:EAR, NOSE AND THROAT:"
+    },
+    {
+      "billname": "ROUTINE PURE TONE AUDIOGRAM",
+      "billcost": 15000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1660,
+      "id": "15000:1660:ROUTINE PURE TONE AUDIOGRAM:0:EAR, NOSE AND THROAT:"
+    },
+    {
+      "billname": "PRIVATE - PTA",
+      "billcost": 30000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1661,
+      "id": "30000:1661:PRIVATE - PTA:0:EAR, NOSE AND THROAT:"
+    },
+    {
+      "billname": "OAE",
+      "billcost": 25000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1662,
+      "id": "25000:1662:OAE:0:EAR, NOSE AND THROAT:"
+    },
+    {
+      "billname": "HEARING AIDS FITTING",
+      "billcost": 50000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1663,
+      "id": "50000:1663:HEARING AIDS FITTING:0:EAR, NOSE AND THROAT:"
+    },
+    {
+      "billname": "HEARING AIDS SERVICING",
+      "billcost": 50000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1664,
+      "id": "50000:1664:HEARING AIDS SERVICING:0:EAR, NOSE AND THROAT:"
+    },
+    {
+      "billname": "HEARING AIDS TRIAL",
+      "billcost": 20000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1665,
+      "id": "20000:1665:HEARING AIDS TRIAL:0:EAR, NOSE AND THROAT:"
+    },
+    {
+      "billname": "HEARING AIDS DIAGNOSTIC",
+      "billcost": 15000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1666,
+      "id": "15000:1666:HEARING AIDS DIAGNOSTIC:0:EAR, NOSE AND THROAT:"
+    },
+    {
+      "billname": "CONSUMABLES - NON REFUNDABLE",
+      "billcost": 15000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1667,
+      "id": "15000:1667:CONSUMABLES - NON REFUNDABLE:0:EAR, NOSE AND THROAT:"
+    },
+    {
+      "billname": "ADMISSION DEPOSIT(3 DAYS)",
+      "billcost": 40000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1668,
+      "id": "40000:1668:ADMISSION DEPOSIT(3 DAYS):0:EAR, NOSE AND THROAT:"
+    },
+    {
+      "billname": "ADMISSION DEPOSIT - EXTRA DAYS",
+      "billcost": 13000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1669,
+      "id": "13000:1669:ADMISSION DEPOSIT - EXTRA DAYS:0:EAR, NOSE AND THROAT:"
+    },
+    {
+      "billname": "PRIVATE DIRECT LARYNGOSCOPY",
+      "billcost": 60000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1670,
+      "id": "60000:1670:PRIVATE DIRECT LARYNGOSCOPY:0:EAR, NOSE AND THROAT:"
+    },
+    {
+      "billname": "PURE TUNE AUDIOGRAM OUT PATIENT",
+      "billcost": 30000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1704,
+      "id": "30000:1704:PURE TUNE AUDIOGRAM OUT PATIENT:0:EAR, NOSE AND THROAT:00PTN"
+    },
+    {
+      "billname": "EAR SYRINGING (REWASH)",
+      "billcost": 2500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1705,
+      "id": "2500:1705:EAR SYRINGING (REWASH):0:EAR, NOSE AND THROAT:00ESRW"
+    },
+    {
+      "billname": "THERMOMETER",
+      "billcost": "2000",
+      "status": 1,
+      "nf_price": "0",
+      "hmo_fees": "NO",
+      "sno": 1843,
+      "id": "2000:1843:THERMOMETER:0:EAR, NOSE AND THROAT:ENT01"
+    },
+    {
+      "billname": "WARD FEE",
+      "billcost": "40000",
+      "status": 1,
+      "nf_price": "0",
+      "hmo_fees": "NO",
+      "sno": 1844,
+      "id": "40000:1844:WARD FEE:0:EAR, NOSE AND THROAT:ENT01"
+    },
+    {
+      "billname": "DOCTORS REPORT",
+      "billcost": "5000",
+      "status": 1,
+      "nf_price": "0",
+      "hmo_fees": "NO",
+      "sno": 1845,
+      "id": "5000:1845:DOCTORS REPORT:0:EAR, NOSE AND THROAT:ENT01"
+    },
+    {
+      "billname": "OXYGEN",
+      "billcost": "30000",
+      "status": 1,
+      "nf_price": "0",
+      "hmo_fees": "NO",
+      "sno": 1847,
+      "id": "30000:1847:OXYGEN:0:EAR, NOSE AND THROAT:ENT01"
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "unit": "RECORDS",
+  "items": [
+    {
+      "billname": "REGISTRATION FEE",
+      "billcost": 2500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 2,
+      "id": "2500:2:REGISTRATION FEE:0:RECORDS:FLCON"
+    },
+    {
+      "billname": "FOLLOW UP",
+      "billcost": 1000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 3,
+      "id": "1000:3:FOLLOW UP:0:RECORDS:FLUP"
+    },
+    {
+      "billname": "REGISTRATION FEE (EMERGENCY)",
+      "billcost": 2500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 82,
+      "id": "2500:82:REGISTRATION FEE (EMERGENCY):0:RECORDS:FLCON2"
+    },
+    {
+      "billname": "REGISTRATION  FEE (SCBU)",
+      "billcost": 2500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 452,
+      "id": "2500:452:REGISTRATION  FEE (SCBU):0:RECORDS:FLCON"
+    },
+    {
+      "billname": "REGISTRATION  FEE (CHER)",
+      "billcost": 2500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 453,
+      "id": "2500:453:REGISTRATION  FEE (CHER):0:RECORDS:FLCON"
+    },
+    {
+      "billname": "REGISTRATION  FEE (LABOUR WARD)",
+      "billcost": 2500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 454,
+      "id": "2500:454:REGISTRATION  FEE (LABOUR WARD):0:RECORDS:FLCON"
+    },
+    {
+      "billname": "TREATMENT CARD",
+      "billcost": 2000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 469,
+      "id": "2000:469:TREATMENT CARD:0:RECORDS:FLUP2"
+    },
+    {
+      "billname": "SIWES BENCH FEE",
+      "billcost": 5500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 481,
+      "id": "5500:481:SIWES BENCH FEE:0:RECORDS:SIWES"
+    },
+    {
+      "billname": "CHANGE OF CARD CASENOTE",
+      "billcost": 500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 482,
+      "id": "500:482:CHANGE OF CARD CASENOTE:0:RECORDS:CCN"
+    },
+    {
+      "billname": "VERIFICATION/AUTHENTICATION FEE",
+      "billcost": 5000,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 484,
+      "id": "5000:484:VERIFICATION/AUTHENTICATION FEE:0:RECORDS:VAF001"
+    },
+    {
+      "billname": "UTILITY200",
+      "billcost": 200,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 692,
+      "id": "200:692:UTILITY200:0:RECORDS:UTRE001"
+    },
+    {
+      "billname": "UTILITY500",
+      "billcost": 500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 693,
+      "id": "500:693:UTILITY500:0:RECORDS:UTRE002"
+    },
+    {
+      "billname": "UTILITY500",
+      "billcost": 500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "non",
+      "sno": 694,
+      "id": "500:694:UTILITY500:0:RECORDS:UTRE003"
+    },
+    {
+      "billname": "UTILITY 500",
+      "billcost": 500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 770,
+      "id": "500:770:UTILITY 500:0:RECORDS:UTI500"
+    },
+    {
+      "billname": "UTILITY REG500",
+      "billcost": 500,
+      "status": 0,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 771,
+      "id": "500:771:UTILITY REG500:0:RECORDS:UR500"
+    },
+    {
+      "billname": "CHANGE OF FOLDER",
+      "billcost": 1500,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1337,
+      "id": "1500:1337:CHANGE OF FOLDER:0:RECORDS:"
+    },
+    {
+      "billname": "FOLLOW-UP (ANC)",
+      "billcost": 300,
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1404,
+      "id": "300:1404:FOLLOW-UP (ANC):0:RECORDS:FLUP"
+    },
+    {
+      "billname": "ANTE-NATAL REGISTRATION(MEDICAL RECORDS)",
+      "billcost": "2500",
+      "status": 1,
+      "nf_price": 0,
+      "hmo_fees": "",
+      "sno": 1772,
+      "id": "2500:1772:ANTE-NATAL REGISTRATION(MEDICAL RECORDS):0:RECORDS:ANR004"
+    }
+  ]
+}
