@@ -5,7 +5,8 @@
   "main": "dist/index.js",
   "scripts": {
     "dev": "ts-node-dev --respawn --transpile-only src/index.ts",
-    "build": "tsc",
+    "build": "tsc && npm run copy-assets",
+  "copy-assets": "copyfiles -u 1 \"src/**/*.json\" dist",
     "start": "node dist/index.js",
     "lint": "eslint src --ext .ts --fix",
     "format": "prettier --write \"src/**/*.ts\"",
@@ -13,7 +14,7 @@
     "prisma:migrate": "prisma migrate dev",
     "prisma:studio": "prisma studio",
     "prisma:seed": "ts-node prisma/seed.ts && ts-node prisma/seedDepartments.ts"
-  },
+    },
   "prisma": {
     "seed": "ts-node prisma/seed.ts && ts-node prisma/seedDepartments.ts"
   },
@@ -53,6 +54,7 @@
     "@types/uuid": "^9.0.8",
     "@typescript-eslint/eslint-plugin": "^7.0.0",
     "@typescript-eslint/parser": "^7.0.0",
+    "copyfiles": "^2.4.1",
     "eslint": "^8.56.0",
     "eslint-config-prettier": "^9.1.0",
     "openapi-types": "^12.1.3",

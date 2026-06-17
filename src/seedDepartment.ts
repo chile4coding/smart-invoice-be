@@ -31,7 +31,7 @@ interface BillsOutput {
 
 export async function seedDepartment(): Promise<void> {
   const raw = fs.readFileSync(
-    path.join(__dirname, '../../department.json'),
+    path.join(__dirname, './department.json'),
     'utf-8'
   );
   const { status: departments }: { status: RawDepartment[] } = JSON.parse(raw);
@@ -65,7 +65,7 @@ export async function seedDepartment(): Promise<void> {
 }
 
 export async function seedUnit(): Promise<void> {
-  const outputDir = path.join(__dirname, '../../bills_output');
+  const outputDir = path.join(__dirname, './bills_output');
 
   if (!fs.existsSync(outputDir)) {
     console.warn(`bills_output directory not found at ${outputDir}. Run fetchBills.js first.`);
