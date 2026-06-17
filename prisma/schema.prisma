@@ -62,6 +62,7 @@ model LineItem {
   unitPrice   Int
   total       Int
   invoiceId   String
+  unit        String?
   invoice     Invoice @relation(fields: [invoiceId], references: [id], onDelete: Cascade)
 
   @@map("line_items")

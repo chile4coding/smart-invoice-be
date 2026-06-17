@@ -16,11 +16,11 @@ interface RawDepartment {
 
 interface RawFeeItem {
   billname: string;
-  billcost: number;
-  status: number;
-  nf_price: number;
+  billcost: string;
+  status: string;
+  nf_price: string;
   hmo_fees: string;
-  sno: number;
+  sno: string;
   id: string;
 }
 

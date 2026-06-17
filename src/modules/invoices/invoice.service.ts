@@ -13,6 +13,7 @@ export type LineItemInput = {
   description: string;
   quantity: number;
   unitPrice: number;
+  unit?: string
 };
 
 export type InvoiceInput = {
@@ -48,6 +49,7 @@ const buildLineItemsCreate = (items: LineItemInput[]) =>
     quantity: item.quantity,
     unitPrice: item.unitPrice,
     total: item.quantity * item.unitPrice,
+    unit:item?.unit ||""
   }));
 
 export const createInvoice = async (input: CreateInvoiceInput) => {
@@ -76,7 +78,8 @@ export const createInvoice = async (input: CreateInvoiceInput) => {
       lineItems: { create: buildLineItemsCreate(input.lineItems) },
       amountPaid: grandTotal
     },
-    include: { lineItems: true },
+    include: { lineItems: true , createdBy:true},
+
   });
 };
 
@@ -178,7 +181,7 @@ export const updateInvoice = async (id: string, input: InvoiceInput) => {
         amountPaid: grandTotal,
         ...(input?.receiptID ? {invoiceNumber: input.receiptID } : { invoiceNumber})
       },
-      include: { lineItems: true },
+      include: { lineItems: true, createdBy:true },
     });
   });
 };
