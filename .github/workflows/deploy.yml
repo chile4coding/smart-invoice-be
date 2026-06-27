@@ -79,6 +79,8 @@ jobs:
           password: ${{ secrets.SERVER_PASSWORD }}
           timeout: 600s
           script: |
+            export NVM_DIR="$HOME/.nvm"
+            [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
             cd ${{ secrets.SERVER_PATH }}
             npm install --only=production
             npx prisma generate
@@ -92,6 +94,8 @@ jobs:
           username: ${{ secrets.SERVER_USER }}
           password: ${{ secrets.SERVER_PASSWORD }}
           script: |
+            export NVM_DIR="$HOME/.nvm"
+            [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
             cd ${{ secrets.SERVER_PATH }}
             pm2 delete smart-invoicer 2>/dev/null || true
             pm2 start dist/index.js --name smart-invoicer
@@ -105,5 +109,7 @@ jobs:
           username: ${{ secrets.SERVER_USER }}
           password: ${{ secrets.SERVER_PASSWORD }}
           script: |
+            export NVM_DIR="$HOME/.nvm"
+            [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
             sleep 10
             curl -f http://127.0.0.1:${{ secrets.PORT }}/health || exit 1
